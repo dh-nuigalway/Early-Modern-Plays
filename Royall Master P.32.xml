@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Encoding P.32</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Not intended for publication.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>The Royall Master</title>
+               <author>James Shirley</author>
+               <date>1638</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+
+   </teiHeader>
+   <text>
+      <body>
+         <stage>Enter <name>King</name>, <name>Duke</name>, <name>Montalto</name>,
+               <name>Guido</name>, <name>Aloisio</name>, <name>Alexio</name>.</stage>
+         <sp>
+            <speaker rend="italic">King.</speaker>
+            <l> Madam though you are</l>
+            <l>So unkinde as not to see the court sometime,</l>
+            <l> The court is come to visit you.</l>
+         </sp>
+         <sp>
+            <speaker rend="italic">Simphorosa.</speaker>
+            <l> You have</l>
+            <l>Humbled your selfe too much to doe us honour.</l>
+         </sp>
+         <sp>
+            <speaker rend="italic"> King.</speaker>
+            <p>The <name>Duke of <placeName rend="italic">Florence</placeName></name>.</p>
+         </sp>
+         <sp>
+            <speaker rend="italic"> Simphorosa.</speaker>
+            <l>Tis a blessing that</l>
+            <l>My roofe can boast so great a guest.</l>
+         </sp>
+         <sp>
+            <speaker rend="italic">King.</speaker>
+            <l>Her daughter</l>
+            <l> Worth your salute.</l>
+         </sp>
+         <sp>
+            <speaker rend="italic"> Duke.</speaker>
+            <l>Shee is worth a world my Lord,</l>
+            <l>What is that Ladies name?</l>
+         </sp>
+         <sp>
+            <speaker rend="italic">Montalto.</speaker>
+            <l>In this you most</l>
+            <l>Appeare a stranger, shee is the glory</l>
+            <l>Of <placeName rend="italic">Naples</placeName>, for her person and her vertues</l>
+            <l> That dwells in this obscure place like the shrine</l>
+            <l> Of some great Saint, to which devotion</l>
+            <l> From severall parts brings daily men like pilgrimes.</l>
+         </sp>
+         <sp>
+            <speaker rend="italic">Duke.</speaker>
+            <p> Her name.</p>
+         </sp>
+         <sp>
+            <speaker rend="italic">Montalto.</speaker>
+            <l>Shee is wit, beauty, chastity, and all</l>
+            <l>That can make woman lovely to mans soule,</l>
+            <l>So farre from the capacitie of ill</l>
+            <l>That vertues in all other of her Sex</l>
+            <l> Like staines, but fit of her perfection,</l>
+            <l> And when is named all goodnesse in her titles,</l>
+            <l>The ornament, nay glory of them all</l>
+            <l>Is <name rend="italic">Domitilla</name> Sir.</l>
+         </sp>
+         <sp>
+            <speaker rend="italic">Duke.</speaker>
+            <l> You speake her high,</l>
+            <l>And I may guesse by your description</l>
+            <l>My Lord, this Lady hath another name;</l>
+            <l>Shee is your mistresse.</l>
+         </sp>
+         <sp>
+            <speaker rend="italic">Montalto.</speaker>
+            <l>Not mine, she was created for some Prince,</l>
+            <l>And can beside her vertues bring a fortune</l>
+            <l>Worth his embrace.</l>
+         </sp>
+         <sp>
+            <speaker rend="italic">Duke.</speaker>
+            <p>What charmes are in her lookes.</p>
+         </sp>
+         <sp>
+            <speaker rend="italic"> Montalto.</speaker>
+            <l>Are you there <name>Duke</name>, this meeting was my project,</l>
+         </sp>
+         <fw type="catch" place="bottom-right">Things.</fw>
+         <pb/>
+      </body>
+   </text>
+</TEI>

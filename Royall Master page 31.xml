@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Encoding P.31</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Not intended for publication.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>The Royall Master</title>
+               <author>James Shirley</author>
+               <date>1638</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      
+   </teiHeader>
+<text>
+   <body>
+         <sp>
+            <speaker rend="italic">Octavio.</speaker>
+            <l>The Court</l>
+            <l>Confine such beauty to a Countrey house,</l>
+            <l>Live among Hindes, and thicke skind fellowes that</l>
+            <l>Make faces, and will hop a furlong backe</l>
+            <l>To finde the tother leg they threw away</l>
+            <l>To shew their reverence, with things that squat</l>
+            <l>When they should make a curtsey, to Court Madam,</l>
+            <l>And live not thus for shame, the second part</l>
+            <l>Of a fond Anchorite, we can distinguish</l>
+            <l>Of beauty there, and wonder without spectacles,</l>
+            <l>Write Volumes of your praise, and tell the world</l>
+            <l>How envious diamonds, cause they could not</l>
+            <l>Reach to the lusture of your eyes dissolv'd</l>
+            <l>To angry teares, the Roses droope, and gathering</l>
+            <l>Their leaves together, seeme to chide their blushes</l>
+            <l>That they must yeeld your cheeke the victory:</l>
+            <l>The Lillies when they are censur'd for comparing</l>
+            <l> With your more cleare and native purity</l>
+            <l> Want white to doe their pennance in. </l>
+         </sp>
+         <sp>
+            <speaker rend="italic"> Domitilla.</speaker>
+            <l>So, so,</l>
+            <l>Have you done now my young poeticke Lord.</l>
+         </sp>
+         <sp>
+            <speaker rend="italic">Octavio.</speaker>
+            <p>There will be no end Madam of your praises.</p>
+         </sp>
+         <sp>
+            <speaker rend="italic">Domitilla.</speaker>
+            <l> And to no end you have spent all this breath,</l>
+            <l>Allow all this were wit, that some did thinke us</l>
+            <l>The creatures they commend (and those whom love</l>
+            <l>Hath curst into Idolatry and verse</l>
+            <l>May perhaps die so) wee doe know our selves</l>
+            <l>That we are no such things.</l>
+         </sp>
+         <sp>
+            <speaker rend="italic"> Octavio.</speaker>
+            <p>Ist possible.</p>
+         </sp>
+         <sp>
+            <speaker rend="italic">Domitilla.</speaker>
+            <p> And laugh at your Chimeraes.</p>
+         </sp>
+         <sp>
+            <speaker rend="italic"> Octavio.</speaker>
+            <p>Y'are the wiser.</p>
+         </sp>
+         <sp>
+            <speaker rend="italic">Domitilla.</speaker>
+            <l>If this be your court practise, let me dwell</l>
+            <l>With truth and plaine simplicity.</l>
+         </sp>
+         <sp>
+            <speaker rend="italic"> Octavio.</speaker>
+            <l>If I</l>
+            <l>Might have my choyse, I would live with you Madam,</l>
+            <l>A neighbour to this innocence; your mother.</l>
+         </sp>
+         <stage place="centre" type="enter">Enter <name>Simphorosa</name>.</stage>
+         <sp>
+            <l>The <name>King</name> is come already.</l>
+         </sp>
+      <fw rend="italic" type="catch" place="bottom-right">Enter.</fw>
+      <pb/>
+   </body>
+</text></TEI>

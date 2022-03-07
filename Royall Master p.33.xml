@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Encoding P.33</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Not intended for publication.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>The Royall Master</title>
+               <author>James Shirley</author>
+               <date>1638</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+
+   </teiHeader>
+   <text>
+      <body>
+         <fw place="top-center" type="runninghead">The Royall Master.</fw>
+         <sp>
+            <l>Things may succeede to my ambition,</l>
+            <l>If I doe noose your highnesse.</l>
+         </sp>
+         <sp>
+            <speaker>Simphorosa.</speaker>
+            <p>Please your Majestie.</p>
+         </sp>
+         <sp>
+            <speaker> King.</speaker>
+            <p> All things must please here.</p>
+         </sp>
+         <sp>
+            <speaker>Duke.</speaker>
+            <p>I follow Sir.</p>
+         </sp>
+         <sp>
+            <speaker>Simphorosa.</speaker>
+            <p>This is a grace I ever must be proud of.</p>
+         </sp>
+         <stage place="right" type="exit">Exeunt.</stage>
+
+         <div type="act" n="2">
+            <head>The Second Act.</head>
+            <stage place="center">Bombo, Iacamo.</stage>
+            <sp>
+               <speaker>Bombo.</speaker>
+               <p>Have they almost dined? stay, stay a little:</p>
+            </sp>
+            <sp>
+               <speaker>Iacamo.</speaker>
+               <l>The last course is o'th table,</l>
+               <l> Why doe not you waite?</l>
+            </sp>
+            <sp>
+               <speaker>Bombo.</speaker>
+               <l>That were a way indeede to be discovered,</l>
+               <l> No, the King shall pardon me, he has</l>
+               <l> Not seene me yet for all his cunning.</l>
+            </sp>
+            <sp>
+               <speaker>Iacamo.</speaker>
+               <p>Whom doe you meane.</p>
+            </sp>
+            <sp>
+               <speaker>Bombo.</speaker>
+               <l> The King, thou art ignorant</l>
+               <l> Ile tell thee after dinner, 'ith meane time</l>
+               <l> Direct a wandring bottle of wine this way</l>
+               <l> And let me alone though I appeare not in't</l>
+               <l> I may have a humour to make a Maske if they</l>
+               <l> Stay supper.</l>
+            </sp>
+            <sp>
+               <speaker>Iacamo.</speaker>
+               <p>Thou make a Maske.</p>
+            </sp>
+            <sp>
+               <speaker>Bombo.</speaker>
+               <l> I doe not say Ile write one, for I ha' not</l>
+               <l> My writing tongue, though I could once have read,</l>
+               <l> But I can give if neede be the designe,</l>
+               <l> Make worke among the Deale boards, and perhaps</l>
+               <l> Can teach 'em as good language as another</l>
+               <l> Of competent ignorance, things goe not now</l>
+               <l> By learning, I have read 'tis but to bring</l>
+               <l> Some pretty impossibillities, for Antemaskes</l>
+               <l> A little sence and wit dispos'd with thrift,</l>
+               <l> With here and there Monsters to make 'em laugh;</l>
+               <l>For the grand businesse to have <name>Mercury</name></l>
+               <l>Or <name>Venus Dandeprat</name> to usher in</l>
+            </sp>
+            <fw rend="italic" type="catch" place="bottom-right">Some</fw>
+         </div>
+         <pb/>
+      </body>
+   </text>
+</TEI>

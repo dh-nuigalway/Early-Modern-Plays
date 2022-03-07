@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Encoding P.34</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Not intended for publication.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>The Royall Master</title>
+               <author>James Shirley</author>
+               <date>1638</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      
+   </teiHeader>
+   <text>
+      <body>  <fw place="top-center" type="runninghead">The Royall Master.</fw>
+         <sp><l>Some of the gods that are good fellowes dancing,</l>
+            <l> Or goddesses, and now and then a song</l>
+               <l>  To fill a gap, a thousand crownes perhaps</l>
+                  <l>  For him that made it, and theres all the wit.</l></sp>
+         <sp><speaker>Iacamo.</speaker>
+            <p>In what?</p></sp>
+         <sp><speaker>Bombo.</speaker>
+             <p> In getting of the money.</p> </sp>
+         <sp><speaker>Iacamo.</speaker>
+            <l> You are witty signior <name rend="italic">Bombo</name> to advance</l>
+            <l> The muse, Ile fetch a bottle that you talk'd of.</l></sp>
+         <stage place="right" type="exit">Exit.</stage>
+         <sp><speaker>Bombo.</speaker>
+            <l>If there be a superfluous Phesant</l>
+               <l> Twill quell my hunger for a time, I heare</l>
+                  <l> Intelligence of an Oleo, if any</l>
+                     <l> Such things may be recovered from the courtiers</l>
+                        <l> That have beene appetites upon hunting dinners,</l>
+                           <l> You shannot neede to enquire much after me.</l></sp>
+         <stage place="right" type="exit">Enter Iacamo.</stage>
+         <sp><l> I shall be here abouts,  why thou hast wings.</l></sp>
+         <sp><speaker>Iacamo.</speaker>
+                       <p> A bottle of rich wine.</p></sp>
+         <sp><speaker>Bombo.</speaker>
+                          <p>Thou wert alwayes honest.</p> </sp>
+         <sp><speaker>Iacamo.</speaker>
+                             <p> There's asking for my Ladies Secretary.</p></sp>
+         <sp><speaker>Bombo.</speaker>
+            <l> I knew't, I am not here,</l>
+               <l> Doe they inquire already? come Ile pledge thee,</l>
+                  <l> What wilt thou say if somebody be sent for to Court.</l></sp>
+         <sp><speaker>Iacamo.</speaker>
+                                  <p> Ile drinke some bodies health.</p> </sp>
+         <sp><speaker>Bombo.</speaker>
+            <l>Th'art a good fellow, and this curtesie</l>
+               <l>Shall be remembred.</l></sp>
+         <stage place="right" type="direction">Within call <name>Iacamo</name>.</stage>
+         <sp><speaker>Iacamo.</speaker>
+                                         <p> I am cald.</p></sp>
+         <sp><speaker>Bombo.</speaker>
+            <l> Leave, leave your wicker, frien weele drinke a cup</l>
+               <l> When thou art gone, tis very excellent wine,</l>
+                  <l> And now I have a stomacke like an edge toole,</l>
+                     <l> But no good comes of idlenesse—tother cup,</l>
+                        <l> The bottle growes light headed; how now friend?</l>
+                        <l> No dish of meat appeare, nothing to shew</l>
+                           <l> The Kitchin and the Wineseller are friends?</l>
+                              <l> I would the Cooke were rosted honest <name rend="italic">Iacamo</name></l></sp>
+         <stage place="right" type="entry"> Enter <name>Iacomo</name>name>, and <name>Pietro</name>.</stage>
+         <sp> <l>I was thinking of a brace of Cocks just as you came.</l></sp>
+         <sp> <speaker>Iacamo.</speaker>
+                                               <p> I have retriv'd a covey of Partridge for thee.</p></sp>
+         <sp><speaker> Pietro.</speaker>
+                                                  <p>And a cup of Greeke wine, heeres to thee.</p> </sp>
+         <sp> <speaker>Bombo.</speaker>
+                                                     <p> I understand Greeke wine, Ile lose no time.</p></sp>
+         
+         <fw rend="italic" type="catch" place="bottom-right"><name rend="italic">Bombo</name></fw>
+         <pb/>
+      </body>
+   </text></TEI>
