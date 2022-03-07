@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Encoding P.38</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Not intended for publication.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>The Royall Master</title>
+               <author>James Shirley</author>
+               <date>1638</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+
+   <text>
+      <body>
+         <div type="act" n="2">
+            <head>The <sic>Second</sic> Act.</head>
+
+
+            <fw place="top-center" type="runninghead">The Royall Master.</fw>
+
+            <sp>
+               <speaker rend="italic">King.</speaker>
+               <l>Love with the warme affection of a mistresse</l>
+               <l>One Ile present a servant, why that blush,</l>
+               <l>The words are not immodest, there did want</l>
+               <l>No blood upon your cheeke to make it lovely,</l>
+               <l>Or does it flow in silence to expresse</l>
+               <l>That which your virgin Language would not be</l>
+               <l>So soone held guilty of, consent.</l>
+            </sp>
+            <sp>
+               <speaker rend="italic">Domitilla.</speaker>
+               <l>To what?</l>
+            </sp>
+            <sp>
+               <speaker rend="italic">King.</speaker>
+               <l>To love by my direction a man</l>
+               <l>Whose worth considered shall deserve thee too,</l>
+               <l>And in the noblest way invite thy freedome</l>
+               <l>Untill the holy Priests declare, your hearts</l>
+               <l>Are knit into one blessing, theres no harme</l>
+               <l>In this.</l>
+            </sp>
+            <sp>
+               <speaker rend="italic">Domitilla.</speaker>
+               <l>Most royall Sir I know not, with</l>
+               <l>What words to say, you honour me, how can</l>
+               <l>One so unworthy as poore <name rend="italic">Domitilla</name></l>
+               <l>Be entertaind within your thoughts and care</l>
+               <l>In this high nature.</l>
+            </sp>
+            <sp>
+               <speaker rend="italic">King.</speaker>
+               <l>Though your mother have</l>
+               <l>Made both her person and your selfe a stranger</l>
+               <l>To Court, I have had eyes upon your vertues</l>
+               <l>Which waited on by a most ample fortune,</l>
+               <l>I have studied to advance, if you'le accept</l>
+               <l>A husband of a my choise, what say you Madam?</l>
+            </sp>
+            <sp>
+               <speaker rend="italic">Domitilla.</speaker>
+               <l>I have a mother Sir.</l>
+            </sp>
+            <sp>
+               <speaker rend="italic">King.</speaker>
+               <l>Shee shall thinke it fortunate</l>
+               <l>Bove expectation, you have not vowed your selfe</l>
+               <l>To a cold Nunnery.</l>
+            </sp>
+            <sp>
+               <speaker rend="italic">Domitilla.</speaker>
+               <l>Not I sir.</l>
+            </sp>
+            <sp>
+               <speaker rend="italic">King.</speaker>
+               <l>When</l>
+               <l>I shall declare how pretious he is</l>
+               <l>To my owne bosome.</l>
+            </sp>
+            <sp>
+               <speaker rend="italic">Domitilla.</speaker>
+               <l>Royall Sir, this language</l>
+               <l>Must needes prepare a welcome, I should thinke</l>
+               <l>My heart unlike another womans, not</l>
+               <l>To obey a charme so powerfull as your praise,</l>
+               <l>But when you are considered as my King,</l>
+            </sp>
+
+            <fw place="bottom-right" type="catch">Duty</fw>
+
+
+         </div>
+      </body>
+   </text>
+</TEI>
