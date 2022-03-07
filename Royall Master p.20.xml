@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Encoding P.20</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Not intended for publication.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>The Royall Master</title>
+               <author>James Shirley</author>
+               <date>1638</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+
+   </teiHeader>
+   <text>
+      <body>
+         <fw place="top-center" type="runninghead">The Royall Master.</fw>
+
+         <sp>
+            <l><name rend="italic">Cesaria</name> is in heaven, we are met for joyes;</l>
+            <l>You were not framed to be her Monument,</l>
+            <l>Sleepe let her ashes in the urne, conteines 'em.</l>
+         </sp>
+         <sp>
+            <speaker rend="italic">King.</speaker>
+            <p>I ha done.</p>
+         </sp>
+         <stage place="centre" type="enter">Enter <name>Theodosia</name>, Ladies.</stage>
+         <sp>
+            <speaker rend="italic">Duke,</speaker>
+            <p>Your sister.</p>
+         </sp>
+         <sp>
+            <speaker rend="italic">King.</speaker>
+            <l>Is all the treasure</l>
+            <l> Is left me sir, but cannot be too rich</l>
+            <l> For your acceptance.</l>
+         </sp>
+         <sp>
+            <speaker rend="italic">Duke.</speaker>
+            <l> All my wealth is summ'd</l>
+            <l> When shee does smile upon me, and her Character</l>
+            <l> In the full glory, when shee's nam'de your sister,</l>
+            <l> Are you not weary of a guest deare Madam?</l>
+            <l>Am I still welcome?</l>
+         </sp>
+         <sp>
+            <speaker rend="italic">Theodosia.</speaker>
+            <l>Sir wee are</l>
+            <l> All honour'd in your presence; and though not high</l>
+            <l>To your merit, yet your entertainement is,</l>
+            <l>As full of love, as nature can expresse</l>
+            <l>To a twin brother, more I dare presume,</l>
+            <l>You shall accuse your selfe, if you be lesse,</l>
+            <l>A Prince in <placeName rend="italic">Naples</placeName> by free use of power,</l>
+            <l>Then your owne <placeName rend="italic">Florence</placeName>.</l>
+         </sp>
+         <sp>
+            <speaker rend="italic">Duke.</speaker>
+            <l>Madam you must be</l>
+            <l>Lesse faire, and powerfull in tongue, if you</l>
+            <l> Expect I should be still a Prince; and yet</l>
+            <l> My ambition will be high, and glorious</l>
+            <l>Enough to be receiv'd your Graces servant;</l>
+            <l>For whom I should account my age no travell,</l>
+            <l>To have my pilgrimage rewarded with</l>
+            <l>Your faire eyes Madam, able to create</l>
+            <l>Another life and spirit in old Nature.</l>
+         </sp>
+         <sp>
+            <speaker rend="italic">King.</speaker>
+            <p>How does <name rend="italic">Montalto</name> like the <name rend="italic"
+               >Duke</name>?</p>
+         </sp>
+         <sp>
+            <speaker>Montalto.</speaker>
+            <l>Sir, <placeName rend="italic">Naples</placeName> cannot study an addition</l>
+            <l>Of fame, beyond what this alliance will</l>
+            <l>Deserve in future story, the excesse</l>
+            <l>Of what is good, nay excellent in him</l>
+            <l>would stocke a barren Province.</l>
+         </sp>
+         <sp>
+            <speaker rend="italic">King.</speaker>
+            <p>Tis our happinesse.</p>
+         </sp>
+         <fw type="catch" place="bottom-right"><name rend="italic">Montalto.</name></fw>
+         <pb/>
+      </body>
+   </text>
+</TEI>

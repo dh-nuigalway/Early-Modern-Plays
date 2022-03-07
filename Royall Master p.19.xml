@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Encoding P.19</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Not intended for publication.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>The Royall Master</title>
+               <author>James Shirley</author>
+               <date>1638</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+
+   </teiHeader>
+   <text>
+      <body>
+
+         <head>THE <sic>FISRT</sic> ACT.</head>
+
+         <stage place="centre" type="enter">Enter <name>King of <placeName>Naples</placeName></name>
+            , the <name>Duke of <placeName>Florence</placeName></name>, <name>Montalto</name>,
+               <name>Octavio</name>, <name>Riviero</name>, <name>Andrugio</name>,
+            <name>Guido</name>, <name>Aloigio</name>, <name>Alexio</name>.</stage>
+         <sp>
+            <speaker rend="italic">Duke.</speaker>
+            <p>Y'Are great in all that's good.</p>
+         </sp>
+         <sp>
+            <speaker rend="italic">King.</speaker>
+            <l>You shew the bounty</l>
+            <l>Of your opinion, my extent in</l>
+            <l>all things</l>
+            <l> Is but to bid you welcome, you</l>
+            <l>had a sister,</l>
+            <l> The envy of the Angels whilst </l>
+            <l>she lived</l>
+            <l> Our Queene, now made their </l>
+            <l>blest companion</l>
+            <l> Should wee exempt those faire deserts dwell in you,</l>
+            <l> So much we owe her memory.</l>
+         </sp>
+         <sp>
+            <speaker rend="italic">Duke.</speaker>
+            <p> Pray no more.</p>
+         </sp>
+         <sp>
+            <speaker rend="italic">Riviero.</speaker>
+            <l> We must not be too open, truest friend,</l>
+            <l> Thy bosome is my Sanctuary.</l>
+         </sp>
+         <sp>
+            <speaker rend="italic">Andrugio.</speaker>
+            <l> When it leaves</l>
+            <l> To be Religious for thy safety, may it</l>
+            <l> By an angry flame from heaven, be turnd to ashes.</l>
+         </sp>
+         <sp>
+            <speaker rend="italic">Duke.</speaker>
+            <l> Your nature is too soft, let not the mention </l>
+            <l> Of her that was my sister, and you Queene </l>
+            <l> Beget another sigh, she was long since blest </l>
+         </sp>
+
+         <fw type="catch" place="bottom-right"><name rend="italic">Cesaria</name></fw>
+         <pb/>
+      </body>
+   </text>
+</TEI>

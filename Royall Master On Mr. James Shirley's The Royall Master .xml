@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Encoding Introduction Poem</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Not intended for publication.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>The Royall Master</title>
+               <author>James Shirley</author>
+               <date>1638</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+
+   </teiHeader>
+   <text>
+      <front>
+         <head>On Mr. <name>*James Shirley*</name>*'s* <title>Royall Master</title>.</head>
+      </front>
+      <body>
+         <l>Such curious eyes as in a Poeme looke</l>
+         <l>For the most part, doe finde the printed booke</l>
+         <l>With verses frontispic’d<note place="bottom">Coming from the noun *Frontispiece*, which
+               is an illustration that faces the title page of a book.</note>, to shew their wit</l>
+         <l>In praise of the authors which occasions it,</l>
+         <fw type="catch" place="bottom-right">And</fw>
+         <pb/>
+         <l>And I have seene some peeces, that have stood</l>
+         <l>In neede of witnesses to prove them good.</l>
+         <l>This Poets skill is here so clearely showne</l>
+         <l>In offering light to his they dimme their owne,</l>
+         <l>For all that with unsquinted eyes shall see</l>
+         <l>This well limb’d peece of polish’d poesie,</l>
+         <l>In justice to themselves must needes confesse</l>
+         <l>Friends cannot adde, nor envie make it lesse.</l>
+      </body>
+      <back>
+         <signed rend="smallcaps">FRA. BUTLER</signed>
+      </back>
+
+   </text>
+</TEI>

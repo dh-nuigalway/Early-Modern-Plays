@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Encoding P.30</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Not intended for publication.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>The Royall Master</title>
+               <author>James Shirley</author>
+               <date>1638</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+
+   </teiHeader>
+   <text>
+      <body>
+         <fw place="top-center" type="runninghead">The Royall Master.</fw>
+
+         <sp>
+            <speaker rend="italic">Domitilla.</speaker>
+            <l>You would have me live a Virgin, a lesse fortune</l>
+            <l>Would serve me for a Nunne.</l>
+         </sp>
+         <sp>
+            <speaker rend="italic">Simphorosa.</speaker>
+            <l>Tis not my thought,</l>
+            <l>Thou art young and faire, and though I doe not</l>
+            <l>Suspect thy minde, thus farre bred up to vertue,</l>
+            <l>I would not have it tempted but reserv’de</l>
+            <l>For a most noble choise, wherein should meet</l>
+            <l>My care and thy obedience.</l>
+         </sp>
+         <sp>
+            <speaker rend="italic">Domitilla.</speaker>
+            <l>Y’are my mother,</l>
+            <l>And have so farre by your example taught me,</l>
+            <l>I Shall not neede the precepts of your vertue,</l>
+            <l>And let no thought of me take from your cheerefulnesse</l>
+            <l>To entertaine the <name>King</name>, we owe him duty,</l>
+            <l>And that charme wo’not hurt us.</l>
+         </sp>
+         <sp>
+            <speaker rend="italic">Simphorosa.</speaker>
+            <p>This does please me.</p>
+         </sp>
+         <sp>
+            <speaker rend="italic">Domitilla.</speaker>
+            <p>It shall bestill my study.</p>
+         </sp>
+         <sp>
+            <speaker rend="italic">Simphorosa.</speaker>
+            <l>I must see</l>
+            <l>How they prepare, things may want method else.</l>
+         </sp>
+         <stage place="right" type="exit">Exit <name>Simphorosa</name>.</stage>
+         <stage place="centre" type="enter">Enter <name>Octavio</name>.</stage>
+         <sp>
+            <speaker rend="italic">Octavio.</speaker>
+            <l>I kisse your faire hand Madam <name>*Domitilla*</name>,</l>
+            <l>The <name>King</name> and <name>Duke</name> and all the jolly hunters</l>
+            <l>With appetites as fierce as their owne hounds,</l>
+            <l>Will be here presently.</l>
+         </sp>
+         <sp>
+            <speaker rend="italic">Domitilla.</speaker>
+            <l>I hope they will not</l>
+            <l>Devoure us my good Lord.</l>
+         </sp>
+         <sp>
+            <speaker rend="italic">Octavio.</speaker>
+            <l>But I would sit and feast and feed mine eyes</l>
+            <l>With <name>*Domitillaes*</name> beauty.</l>
+         </sp>
+         <sp>
+            <speaker rend="italic">Domitilla.</speaker>
+            <l>So my Lord, here was a gentleman</l>
+            <l>You could not choose but meete him spake your dialect,</l>
+            <l>I have forgot his name, but he was some</l>
+            <l>Great Lord.</l>
+         </sp>
+         <sp>
+            <speaker rend="italic">Octavio.</speaker>
+            <l>Fye what a ignorance you live in,</l>
+            <l>Not to be perfect in a great Lords name,</l>
+            <l>There are few Ladies live with us but know</l>
+            <l>The very Pages, leave this darkenesse Madam,</l>
+            <l>And shine in your owne sphere, where every starre</l>
+            <l>Hath his due adoration.</l>
+         </sp>
+         <sp>
+            <speaker rend="italic">Domitilla.</speaker>
+            <p>Where?</p>
+         </sp>
+         <fw type="catch" place="bottom-right">*Octa.*</fw>
+         <pb/>
+      </body>
+
+
+   </text>
+</TEI>
