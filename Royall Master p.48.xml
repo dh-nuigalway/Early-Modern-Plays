@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Encoding P.48</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Not intended for publication.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>The Royall Master</title>
+               <author>James Shirley</author>
+               <date>1638</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+
+   </teiHeader>
+   <text>
+      <body>
+         <fw place="top-center" type="runninghead">The Royall Master.</fw>
+
+
+         <sp>
+            <speaker>Duke.</speaker>
+            <l> Now shall I trust him? if my sense mistake not</l>
+            <l><name rend="italic">Theodosia</name> may not be a Virgin.</l>
+         </sp>
+         <sp>
+            <speaker>Riviero.</speaker>
+            <l> Twas</l>
+            <l> His bold conclusion.</l>
+         </sp>
+         <sp>
+            <speaker>Duke.</speaker>
+            <l> Where is now the honour</l>
+            <l> You talke of, durst <name rend="italic">Montalto</name> charge her with</l>
+            <l> This staine, without his conscience to assure it.</l>
+         </sp>
+         <sp>
+            <speaker>Riviero.</speaker>
+            <l>Yes, and to me this tenders him the more</l>
+            <l>To be suspected and I am so farre</l>
+            <l>From thinking shee affects <name rend="italic">Montalto</name>, that</l>
+            <l>I am convinc'd he loves her not; can he</l>
+            <l>Have any noble thought of <name rend="italic">Theodosia</name>,</l>
+            <l> That dares traduce her honour, thinke o' that,</l>
+            <l>And can revenge in any lover be?</l>
+            <l>A reason to wound a Ladies fame, it tasts</l>
+            <l>Of ranke injustice, and some other end</l>
+            <l>Time will discover, and yet your grace is bound</l>
+            <l>To have his accusation confirm'd,</l>
+            <l>Or hant this spotted panther to his ruine,</l>
+            <l> Whose breath is onely sweete to poyson vertue.</l>
+         </sp>
+         <sp>
+            <speaker> Duke.</speaker>
+            <p>What I resolve inquire not.</p>
+         </sp>
+         <stage place="right" type="exit"> Exit <name>Duke</name>.</stage>
+         <sp>
+            <speaker>Riviero.</speaker>
+            <l>I see throw</l>
+            <l><name rend="italic">Montaltoes</name> soule, and have beene so long tame</l>
+            <l>In my owne sufferings; but this will make</l>
+            <l>Him ripe for punishment, <name rend="italic">Andrugio</name> and</l>
+            <l> My sonne.</l>
+         </sp>
+         <stage place="centre" type="enter"> Enter <name>Andrugio</name>,
+            <name>Octavio</name>.</stage>
+         <sp>
+            <speaker>Octavio.</speaker>
+            <l>I cannot with the wings of duty</l>
+            <l> Fly swift enough to prostrate my obedience</l>
+            <l>And welcome from a long supposed death,</l>
+            <l> My honourd father.</l>
+         </sp>
+         <sp>
+            <speaker>Riviero.</speaker>
+            <p> Then I must appeare so.</p>
+         </sp>
+         <sp>
+            <speaker>Andrugio.</speaker>
+            <l> And let me give a sonne up to your blessing</l>
+            <l> Worthy your best prayers, and embrace, twas time</l>
+            <l> To bring you acquainted, he had else this night</l>
+            <l> Contriv'd <name rend="italic">Montaltoes</name> tragedie at a Banquet,</l>
+            <l> For your revenge his active thoughts I could not</l>
+            <l>Counsell no longer patience. </l>
+         </sp>
+
+
+         <fw type="catch" place="bottom-right"><name rend="italic">Riviero</name>.</fw>
+         <pb/>
+      </body>
+   </text>
+</TEI>
