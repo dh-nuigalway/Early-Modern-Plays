@@ -27,7 +27,7 @@
         <body>
             <fw place="top=center" type="runninghead"> The Royall Master. </fw>  
                 <sp>
-                    <l> Ridiculous in <placeName rend="italic"> Naples. </placeName> </l>
+                    <l> Ridiculous in <placeName rend="italic"> Naples </placeName>. </l>
                 </sp>
                 
                 <sp>  
@@ -87,17 +87,17 @@
             
             <sp>
                 <speaker rend="italic"> Montalto. </speaker>
-                <l>But she let me take freedome to be plaine ???</l>
+                <l>But she let me take freedome to be plaine.</l>
             </sp>
           
           <sp>
               <speaker rend="italic">Duke.</speaker>
-              <l>Is not to be reduc'd youle say/lay.</l>
+              <l>Is not to be reduc'd youle say.</l>
           </sp>
                 
           <sp>
               <speaker rend="italic"> Montalto. </speaker>
-              <l> Sit, women</l>
+              <l> Sit, women </l>
               <l> Love not with that safeguard upon their passion.</l>
           </sp>  
                 
