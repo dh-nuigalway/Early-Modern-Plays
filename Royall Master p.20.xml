@@ -31,22 +31,22 @@
             <l>Sleepe let her ashes in the urne, conteines 'em.</l>
          </sp>
          <sp>
-            <speaker rend="italic">King.</speaker>
+            <speaker rend="italic">King</speaker>
             <l>I ha done.</l>
          </sp>
          <stage place="centre" type="enter">Enter <name>Theodosia</name>, Ladies.</stage>
          <sp>
-            <speaker rend="italic">Duke.</speaker>
+            <speaker rend="italic">Duke</speaker>
             <l>Your sister.</l>
          </sp>
          <sp>
-            <speaker rend="italic">King.</speaker>
+            <speaker rend="italic">King</speaker>
             <l>Is all the treasure</l>
             <l> Is left me sir, but cannot be too rich</l>
             <l> For your acceptance.</l>
          </sp>
          <sp>
-            <speaker rend="italic">Duke.</speaker>
+            <speaker rend="italic">Duke</speaker>
             <l> All my wealth is summ'd</l>
             <l> When shee does smile upon me, and her Character</l>
             <l> In the full glory, when shee's nam'de your sister,</l>
@@ -54,7 +54,7 @@
             <l>Am I still welcome?</l>
          </sp>
          <sp>
-            <speaker rend="italic">Theodosia.</speaker>
+            <speaker rend="italic">Theodosia</speaker>
             <l>Sir wee are</l>
             <l> All honour'd in your presence; and though not high</l>
             <l>To your merit, yet your entertainement is,</l>
@@ -65,7 +65,7 @@
             <l>Then your owne <placeName rend="italic">Florence</placeName>.</l>
          </sp>
          <sp>
-            <speaker rend="italic">Duke.</speaker>
+            <speaker rend="italic">Duke</speaker>
             <l>Madam you must be</l>
             <l>Lesse faire, and powerfull in tongue, if you</l>
             <l> Expect I should be still a Prince; and yet</l>
@@ -77,12 +77,12 @@
             <l>Another life and spirit in old Nature.</l>
          </sp>
          <sp>
-            <speaker rend="italic">King.</speaker>
+            <speaker rend="italic">King</speaker>
             <l>How does <name rend="italic">Montalto</name> like the <name rend="italic"
                >Duke</name>?</l>
          </sp>
          <sp>
-            <speaker>Montalto.</speaker>
+            <speaker rend="italic">Montalto</speaker>
             <l>Sir, <placeName rend="italic">Naples</placeName> cannot study an addition</l>
             <l>Of fame, beyond what this alliance will</l>
             <l>Deserve in future story, the excesse</l>
@@ -90,7 +90,7 @@
             <l>would stocke a barren Province.</l>
          </sp>
          <sp>
-            <speaker rend="italic">King.</speaker>
+            <speaker rend="italic">King</speaker>
             <l>Tis our happinesse.</l>
          </sp>
          <fw type="catch" place="bottom-right"><name rend="italic">Montalto.</name></fw>
