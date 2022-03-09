@@ -30,21 +30,26 @@
             <l>You were not framed to be her Monument,</l>
             <l>Sleepe let her ashes in the urne, conteines 'em.</l>
          </sp>
+	      
          <sp>
             <speaker rend="italic">King</speaker>
             <l>I ha done.</l>
          </sp>
+	      
          <stage place="centre" type="enter">Enter <name>Theodosia</name>, Ladies.</stage>
-         <sp>
+         
+	      <sp>
             <speaker rend="italic">Duke</speaker>
             <l>Your sister.</l>
          </sp>
+	      
          <sp>
             <speaker rend="italic">King</speaker>
             <l>Is all the treasure</l>
             <l> Is left me sir, but cannot be too rich</l>
             <l> For your acceptance.</l>
          </sp>
+	      
          <sp>
             <speaker rend="italic">Duke</speaker>
             <l> All my wealth is summ'd</l>
@@ -53,6 +58,7 @@
             <l> Are you not weary of a guest deare Madam?</l>
             <l>Am I still welcome?</l>
          </sp>
+	      
          <sp>
             <speaker rend="italic">Theodosia</speaker>
             <l>Sir wee are</l>
@@ -64,6 +70,7 @@
             <l>A Prince in <placeName rend="italic">Naples</placeName> by free use of power,</l>
             <l>Then your owne <placeName rend="italic">Florence</placeName>.</l>
          </sp>
+	      
          <sp>
             <speaker rend="italic">Duke</speaker>
             <l>Madam you must be</l>
@@ -76,6 +83,7 @@
             <l>Your faire eyes Madam, able to create</l>
             <l>Another life and spirit in old Nature.</l>
          </sp>
+	      
          <sp>
             <speaker rend="italic">King</speaker>
             <l>How does <name rend="italic">Montalto</name> like the <name rend="italic"
