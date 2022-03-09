@@ -23,9 +23,6 @@
 
    <text>
       <body>
-         <div type="act" n="2">
-            <head>The <sic>Second</sic> Act.</head>
-
 
             <fw place="top-center" type="runninghead">The Royall Master.</fw>
 
@@ -99,9 +96,7 @@
             </sp>
 
             <fw place="bottom-right" type="catch">Duty</fw>
-
-
-         </div>
+	      
       </body>
    </text>
 </TEI>
