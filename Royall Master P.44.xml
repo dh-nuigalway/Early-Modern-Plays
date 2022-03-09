@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Encoding P.44</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Not intended for publication.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Royall Master</title>
+                    <author>James Shirley</author>
+                    <date>1638</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        
+    </teiHeader>
+    
+    
+    <text>
+        <body>
+            <fw place="top=center" type="runninghead"> The Royall Master. </fw>
+                
+                <sp>
+                    <speaker rend="italic"> Domitilla. </speaker>
+                    <l> Ist not plaine.</l>
+                </sp>
+                
+                <sp>
+                    <speaker rend="italic"> Duke. </speaker>
+                    <l> Madam another guest must take his leave, </l>
+                    <l> That here would choose his pallace. </l>
+                </sp>
+                
+                <sp>
+                    <speaker rend="italic"> Domitilla. </speaker>
+                    <l> You are gratious, and but encourage more to honor you. </l>
+                </sp>
+                
+                <sp>
+                    <speaker rend="italic"> Montalto. </speaker>
+                    <l> Ile creepe and kisse thy Altar love, allow </l>
+                    <l> Them flame, and knit more charmes upon her brow. </l>
+                </sp>
+                
+               <stage type="exit"> Exeunt. </stage>             
+                     
+            <div type="act" n="3">    
+                
+                <head>THE <sic>THIRD</sic> ACT.</head>
+                
+                <stage place="center" type="enter">Duke and Riviero.</stage>
+                
+                <sp>
+                    <speaker rend="italic"> Duke. </speaker>
+                    <l> Tis thy old quarrel gainst <hi rend="italic">Montalto</hi> makes </l>
+                    <l> Thee incredulous, I dare beleeve he loves </l>
+                    <l> <name rend="italic">Theodosia</name>. </l>
+                </sp>
+                
+                <sp>
+                    <speaker rend="italic"> Riviero. </speaker>
+                    <l> Tis not that I question Sir, </l>
+                    <l> But that part which concernes her love to him </l>
+                    <l> Sounds like a plot upon your nature, to </l>
+                    <l> Secure his owne ambition. </l>
+                </sp>
+                
+                <sp>
+                    <speaker rend="italic"> Duke. </speaker>
+                    <l> Why the Princesse </l>
+                    <l> May love, as great a heart has beene made stoop. </l>
+                </sp>
+                
+                <sp>
+                    <speaker rend="italic"> Riviero. </speaker>
+                    <l> Your grace should else in vaine court her your selfe </l>
+                    <l> And late your highnesse thought shee meet your person </l>
+                    <l> A faire designe of love, with all the soft </l>
+                    <l> Behaviour of a Princesse. </l>
+                </sp>
+                
+                <sp>
+                    <speaker rend="italic"> Duke. </speaker>
+                    <l> But tis not </l>
+                    <l> Impossible a Lady should dissemble. </l>
+                </sp>
+                
+                <sp>
+                    <speaker rend="italic"> Riviero. </speaker>
+                    <l> Allow her but the honour she was borne with, </l>
+                    <l> And sheel'e not staine her blood so much. </l>
+                </sp>
+                
+                <sp>
+                    <speaker rend="italic"> Duke. </speaker>
+                    <l> But love </l>
+                    <l> Must be obeyed, and prepossession </l>
+                    <l> Of hearts is a lewd thing to wrastle with, </l>
+                    <l> I made it my owne case, and if I lov'd </l>
+                    <l> Another Lady better then the Princesse, </l>
+                    <l> As every man's not proofe against all beauty, </l>
+                    <l> I thinke I should be constant too, it would </l>
+                    <l> Be something to remove me. </l>
+                </sp>
+                
+                <sp>
+                    <speaker rend="italic"> Riviero. </speaker>
+                    <l> Then the King. </l>
+                </sp>
+                
+                <fw type="catch" place="bottom-right"> Duke. </fw>
+                <pb/>
+            </div>
+        </body>
+    </text>
+</TEI>

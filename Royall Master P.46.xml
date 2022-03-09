@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Encoding P.46</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Not intended for publication.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Royall Master</title>
+                    <author>James Shirley</author>
+                    <date>1638</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        
+    </teiHeader>
+    
+  
+    <text>
+        <body>
+            <fw place="top=center" type="runninghead"> The Royall Master. </fw>
+            
+            <sp>
+                <l> Hee is of inward counsell with the Duke, </l>
+                <l> I must be resolute. </l>
+            </sp>
+           
+           <sp>
+               <speaker rend="italic"> Riviero. </speaker>
+               <l> I aske, because, </l>
+               <l> His grace intends a present visit to her </l>
+               <l> And was but now in mention of your Lordship </l>
+               <l> To beare him company. </l>
+           </sp>
+            
+            <sp>
+                <speaker rend="italic"> Montalto. </speaker>
+                <l> I like not that, </l>
+                <l> He knowes he may command my services. </l>
+            </sp>
+            
+            <sp>
+                <speaker rend="italic"> Riviero. </speaker>
+                <l> He will deserve your love, pray my Lord tell me </l>
+                <l> And let us be plaine breasted, you injoy </l>
+                <l> The King, as I, but with lesse stocke of merit, </l>
+                <l> The favour of his excellence, how affect you </l>
+                <l> The present state of things, wilt be a match? </l>
+                <l> There is loud expectation in the world, </l>
+                <l> And after all, my Master's fond to have it </l>
+                <l> Proceede, to these, I am of opinion </l>
+                <l> Theres no retreating now without dishonour, </l>
+                <l> Yes as I am <name rend="italic">Philiberto</name> I much pittie </l>
+                <l> He should through any wound to your affection </l>
+                <l> Perfect his love. </l>
+            </sp>
+            
+            <sp>
+                <speaker rend="italic"> Montalto. </speaker>
+                <l> He has told you then the secret, </l>
+                <l> And not to waste more language, I collect </l>
+                <l> From what you have exprest, he does resolve </l>
+                <l> To destroy me, <name rend="italic">Montalto</name> must be trod on. </l>
+            </sp>
+            
+            <sp> 
+                <speaker rend="italic">Riviero. </speaker>
+                <l>Not so my Lord.</l>
+            </sp>
+            
+            <sp>
+                <speaker rend="italic"> Montalto. </speaker>
+                <l> Yes, and my heart the ascent, </l>
+                <l> To his Hymeneall altar, which must be, </l>
+                <l> Made crimson with the blood of a true lover, </l>
+                <l> His will be obey'd, <name rend="italic">Theodosia</name> shall see </l>
+                <l> To advance her, <name rend="italic">Montalto</name> will goe smiling </l>
+                <l> To his sacrifice, and after many prayers, </l>
+                <l> That shee may live the darling of his heart, </l>
+                <l> Ile changemy acquaintance of this world to be </l>
+                <l> At peace in my owne ashes. </l>
+            </sp>
+            
+            <sp>
+                <speaker rend="italic"> Riviero. </speaker>
+                <l> You will not </l>
+                <l> Commit a violence upon your selfe? </l>
+            </sp>
+            
+            <sp>
+                <speaker rend="italic"> Montalto. </speaker>
+                <l> I sha' not neede, the thought of her will kill me </l>
+                <l> With as much silence as I goe to sleepe, </l>
+            </sp>
+            
+            <fw type="catch" place="bottom-right"> I </fw>           
+            <pb/>
+        </body>
+    </text>
+</TEI>
+
