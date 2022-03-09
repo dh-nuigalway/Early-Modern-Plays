@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Encoding P.23</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Not intended for publication.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Royall Master</title>
+                    <author>James Shirley</author>
+                    <date>1638</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        
+    </teiHeader>
+
+<text>
+    <body>
+        <fw place="top=center" type="runninghead"> The Royall Master. </fw>
+            <sp>
+                <l>The pleasures of a Forrest.</l>
+            </sp>            
+            
+            <sp>
+                <speaker rend="italic">Duke.</speaker>
+                <l>Ile attend.</l>
+            </sp>
+            
+            <sp>
+                <speaker rend="italic">King.</speaker>
+                <l> <name rend="italic">Theodosia</name>, you are not for that exercise <name rend="italic">Guido</name>.</l>
+            </sp>
+            
+        <stage type="direction"> Whispers and sends Guido off. </stage>
+            
+            <sp>
+                <speaker rend="italic">Theodosia.</speaker>
+                <l>I wish all pleasures waite upon you;</l>
+                <l>My heart must covet your returne.</l>
+            </sp>
+            
+            <sp>
+                <speaker rend="italic">Duke.</speaker>
+                <l>And mine,</l>
+                <l>To dwell for ever in so faire a bosome.</l>
+            </sp>
+            
+            <sp>
+                <speaker rend="italic">King.</speaker>
+                <l>To horse, the morning wasts.</l>
+            </sp>
+            
+            <sp>
+                <speaker rend="italic">Montalto.</speaker>
+                <l>Some policie</l>
+                <l>Must cure this feare, my bold resolves are fixt,</l>
+                <l>I have made some attempts, and courted her,</l>
+                <l>But shee has not understood me, I must worke</l>
+                <l>By countermine and scatter into aire</l>
+                <l>His swelling hopes: <name rend="italic">Octavio</name>— </l>
+            </sp>
+            
+        <stage place="right" type="exit">Exit.</stage>
+            
+            <sp>
+                <speaker rend="italic">Octavio.</speaker>
+               <l>My good Lord.</l>
+            </sp>
+            
+            <sp>
+                <speaker rend="italic">Andrugio.</speaker>
+                <l>Sir I present this Gentleman to kiss</l>
+                <l>Your hand, hee's the Dukes secretart, a <hi rend="italic">Roman</hi></l>
+                <l>Borne, and has a great ambition</l>
+                <l>To be knowne to you for your fathers sake,</l>
+                <l>With whom he did converse in <placeName rend="italic">Rome</placeName>, and honour,</l>
+                <l>Till death concluded their acquaintance.</l>
+            </sp>
+            
+            <sp>
+               <speaker rend="italic">Octavio.</speaker> 
+                <l>Sir,</l>
+                <l>Your love, and knowledge of my father will</l>
+                <l>Deserve you should be welcome to his sonne.</l>
+            </sp>
+            
+            <sp>
+                <speaker rend="italic">Riviero.</speaker>
+                <l>He made me his companion many yeares,</l>
+                <l>No brothers were more chain'd in their affections.</l>
+                <l>He did impart much of his bosome to me.</l>
+            </sp>
+            
+            <sp>
+                <speaker rend="italic">Octavio.</speaker>
+                <l>You knew why he left <placeName rend="italic">Naples</placeName>?</l>
+            </sp>
+            
+            <sp>
+                <speaker rend="italic">Riviero.</speaker>
+                <l>He did trust me, with the cause my Lord, and every circumstance</l>
+                <l>The Kings minoritie, and <name rend="italic">Montaltoes</name> power,</l>
+                <l>Gainst which no innocent could plead in <placeName rend="italic">Naples</placeName></l>
+            </sp>
+            
+            <sp>
+                <speaker rend="italic">Andrugio.</speaker>
+                <l>Not to loud Sir, you may be heard.</l>
+            </sp>
+            
+            <sp>
+                <speaker rend="italic">Riviero.</speaker>
+                <l>Your pardon.</l>
+            </sp>
+            
+            <sp>
+                <speaker rend="italic">Octavio.</speaker>
+                <l>Why should truth</l>
+                <l>Faint at the name of greatnesse? this <name rend="italic">Colossus</name></l>
+                <l><name rend="italic">Montalto</name> is but mortall sure, time has</l>
+                <l>Forgot to use his wings, or nature is</l>
+                <l>Vnwilling I should grow to write full man,</l>
+            </sp>
+            
+            <fw type="catch" place="bottom-right"> To </fw>
+        <pb/>
+    </body>    
+</text>
+</TEI>
