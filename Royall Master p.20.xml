@@ -32,12 +32,12 @@
          </sp>
          <sp>
             <speaker rend="italic">King.</speaker>
-            <p>I ha done.</p>
+            <l>I ha done.</l>
          </sp>
          <stage place="centre" type="enter">Enter <name>Theodosia</name>, Ladies.</stage>
          <sp>
             <speaker rend="italic">Duke.</speaker>
-            <p>Your sister.</p>
+            <l>Your sister.</l>
          </sp>
          <sp>
             <speaker rend="italic">King.</speaker>
@@ -78,8 +78,8 @@
          </sp>
          <sp>
             <speaker rend="italic">King.</speaker>
-            <p>How does <name rend="italic">Montalto</name> like the <name rend="italic"
-               >Duke</name>?</p>
+            <l>How does <name rend="italic">Montalto</name> like the <name rend="italic"
+               >Duke</name>?</l>
          </sp>
          <sp>
             <speaker>Montalto.</speaker>
@@ -91,7 +91,7 @@
          </sp>
          <sp>
             <speaker rend="italic">King.</speaker>
-            <p>Tis our happinesse.</p>
+            <l>Tis our happinesse.</l>
          </sp>
          <fw type="catch" place="bottom-right"><name rend="italic">Montalto.</name></fw>
          <pb/>
