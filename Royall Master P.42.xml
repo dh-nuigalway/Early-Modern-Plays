@@ -27,12 +27,12 @@
         <body>
             <fw place="top=center" type="runninghead"> The Royall Master. </fw>  
                 <sp>
-                    <l> Ridiculous in Naples. </l>
+                    <l> Ridiculous in <placeName rend="italic"> Naples. </placeName> </l>
                 </sp>
                 
                 <sp>  
                     <speaker rend="italic"> Montalto. </speaker>
-                    <l>Calme your blood,</l>
+                    <l> Calme your blood,</l>
                     <l> I know you must resent it, but let not</l>
                     <l> Your passion make the world beleeve you should </l>
                     <l> Dispaire to finde one apter to your bosome,</l>
