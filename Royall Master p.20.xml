@@ -89,6 +89,7 @@
             <l>How does <name rend="italic">Montalto</name> like the <name rend="italic"
                >Duke</name>?</l>
          </sp>
+	      
          <sp>
             <speaker rend="italic">Montalto</speaker>
             <l>Sir, <placeName rend="italic">Naples</placeName> cannot study an addition</l>
@@ -97,10 +98,12 @@
             <l>Of what is good, nay excellent in him</l>
             <l>would stocke a barren Province.</l>
          </sp>
+	      
          <sp>
             <speaker rend="italic">King</speaker>
             <l>Tis our happinesse.</l>
          </sp>
+	      
          <fw type="catch" place="bottom-right"><name rend="italic">Montalto.</name></fw>
          <pb/>
       </body>
