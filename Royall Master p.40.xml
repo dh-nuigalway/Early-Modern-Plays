@@ -23,10 +23,7 @@
 
    <text>
       <body>
-         <div type="act" n="2">
-            <head>The <sic>Second</sic> Act.</head>
-
-
+	      
             <fw place="top-center" type="runninghead">The Royall Master.</fw>
 
             <l>That pleases not sometimes though the best art</l>
@@ -86,8 +83,6 @@
 
             <fw place="bottom-right" type="catch">Carries</fw>
 
-
-         </div>
       </body>
    </text>
 </TEI>
