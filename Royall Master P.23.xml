@@ -30,36 +30,36 @@
             </sp>            
             
             <sp>
-                <speaker rend="italic">Duke.</speaker>
+                <speaker rend="italic">Duke</speaker>
                 <l>Ile attend.</l>
             </sp>
             
             <sp>
-                <speaker rend="italic">King.</speaker>
-                <l> <name rend="italic">Theodosia</name>, you are not for that exercise <name rend="italic">Guido</name>.</l>
+                <speaker rend="italic">King</speaker>
+                <l><name rend="italic">Theodosia</name>, you are not for that exercise <name rend="italic">Guido</name>.</l>
             </sp>
             
         <stage type="direction"> Whispers and sends Guido off. </stage>
             
             <sp>
-                <speaker rend="italic">Theodosia.</speaker>
+                <speaker rend="italic">Theodosia</speaker>
                 <l>I wish all pleasures waite upon you;</l>
                 <l>My heart must covet your returne.</l>
             </sp>
             
             <sp>
-                <speaker rend="italic">Duke.</speaker>
+                <speaker rend="italic">Duke</speaker>
                 <l>And mine,</l>
                 <l>To dwell for ever in so faire a bosome.</l>
             </sp>
             
             <sp>
-                <speaker rend="italic">King.</speaker>
+                <speaker rend="italic">King</speaker>
                 <l>To horse, the morning wasts.</l>
             </sp>
             
             <sp>
-                <speaker rend="italic">Montalto.</speaker>
+                <speaker rend="italic">Montalto</speaker>
                 <l>Some policie</l>
                 <l>Must cure this feare, my bold resolves are fixt,</l>
                 <l>I have made some attempts, and courted her,</l>
@@ -71,63 +71,63 @@
         <stage place="right" type="exit">Exit.</stage>
             
             <sp>
-                <speaker rend="italic">Octavio.</speaker>
+                <speaker rend="italic">Octavio</speaker>
                <l>My good Lord.</l>
             </sp>
             
             <sp>
-                <speaker rend="italic">Andrugio.</speaker>
-                <l>Sir I present this Gentleman to kiss</l>
-                <l>Your hand, hee's the Dukes secretart, a <hi rend="italic">Roman</hi></l>
+                <speaker rend="italic">Andrugio</speaker>
+                <l>Sir I present this Gentleman to kisse</l>
+                <l>Your hand, hee's the Dukes secretary, a <hi rend="italic">Roman</hi></l>
                 <l>Borne, and has a great ambition</l>
                 <l>To be knowne to you for your fathers sake,</l>
-                <l>With whom he did converse in <placeName rend="italic">Rome</placeName>, and honour,</l>
+                <l>With whom he did converse in <placeName rend="italic">Rome</placeName>, and honour</l>
                 <l>Till death concluded their acquaintance.</l>
             </sp>
             
             <sp>
-               <speaker rend="italic">Octavio.</speaker> 
+               <speaker rend="italic">Octavio</speaker> 
                 <l>Sir,</l>
                 <l>Your love, and knowledge of my father will</l>
                 <l>Deserve you should be welcome to his sonne.</l>
             </sp>
             
             <sp>
-                <speaker rend="italic">Riviero.</speaker>
+                <speaker rend="italic">Riviero</speaker>
                 <l>He made me his companion many yeares,</l>
                 <l>No brothers were more chain'd in their affections.</l>
                 <l>He did impart much of his bosome to me.</l>
             </sp>
             
             <sp>
-                <speaker rend="italic">Octavio.</speaker>
+                <speaker rend="italic">Octavio</speaker>
                 <l>You knew why he left <placeName rend="italic">Naples</placeName>?</l>
             </sp>
             
             <sp>
-                <speaker rend="italic">Riviero.</speaker>
+                <speaker rend="italic">Riviero</speaker>
                 <l>He did trust me, with the cause my Lord, and every circumstance</l>
                 <l>The Kings minoritie, and <name rend="italic">Montaltoes</name> power,</l>
-                <l>Gainst which no innocent could plead in <placeName rend="italic">Naples</placeName></l>
+                <l>Gainst which no innocent could plead in <placeName rend="italic">Naples</placeName>.</l>
             </sp>
             
             <sp>
-                <speaker rend="italic">Andrugio.</speaker>
+                <speaker rend="italic">Andrugio</speaker>
                 <l>Not to loud Sir, you may be heard.</l>
             </sp>
             
             <sp>
-                <speaker rend="italic">Riviero.</speaker>
+                <speaker rend="italic">Riviero</speaker>
                 <l>Your pardon.</l>
             </sp>
             
             <sp>
-                <speaker rend="italic">Octavio.</speaker>
+                <speaker rend="italic">Octavio</speaker>
                 <l>Why should truth</l>
                 <l>Faint at the name of greatnesse? this <name rend="italic">Colossus</name></l>
                 <l><name rend="italic">Montalto</name> is but mortall sure, time has</l>
                 <l>Forgot to use his wings, or nature is</l>
-                <l>Vnwilling I should grow to write full man,</l>
+                <l>Unwilling I should grow to write full man,</l>
             </sp>
             
             <fw type="catch" place="bottom-right"> To </fw>
