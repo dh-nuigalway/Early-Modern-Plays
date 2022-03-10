@@ -27,12 +27,12 @@
         <body>
             <fw place="top=center" type="runninghead"> The Royall Master. </fw>
                 <sp>
-                    <l> In whose displeasure shee is lost and now </l>
+                    <l> In whose displeasure shee is lost and not </l>
                     <l> A will to mocke your grace, for whom there is </l>
                     <l> Another wound within her minde, that shee </l>
                     <l> Should weare a smiling summer in her brow </l>
                     <l> Yet frost within her heart, in which unhappily </l>
-                    <l> Shee comes to neare the nature of Adamant </l>
+                    <l> Shee comes to neare the nature of the Adamant </l>
                     <l> Hard to your grace whom shee attracts, but love </l>
                     <l> Your wisedome knowes is in the volume of </l>
                     <l> Our fate decreede, whose periods when they are </l>
@@ -42,20 +42,20 @@
                 </sp>
                 
                 <sp>  
-                    <speaker rend="italic"> Duke. </speaker>
+                    <speaker rend="italic"> Duke </speaker>
                     <l> I am confirmde </l>
                     <l> And prosper in my thoughts. </l>
                 </sp>
            
                 <sp>
-                    <speaker rend="italic"> Montalto. </speaker>
+                    <speaker rend="italic"> Montalto </speaker>
                     <l> It takes. </l>
                </sp>
                 
                 <sp>
-                    <speaker rend="italic"> Duke. </speaker>
+                    <speaker rend="italic"> Duke </speaker>
                     <l> My Lord, </l>
-                    <l> You have expression act of confidence </l>
+                    <l> You have exprest an act of confidence </l>
                     <l> Which I must not betray though to my losse, </l>
                     <l> It is some happinesse to know this early, </l>
                     <l> We may be expected, you shall finde me Sir </l>
@@ -63,7 +63,7 @@
                 </sp>
                 
                 <sp>
-                    <speaker rend="italic"> Montalto. </speaker>
+                    <speaker rend="italic"> Montalto </speaker>
                     <l> I am your creature, </l>
                     <l> The King.</l>
                 </sp>
@@ -72,49 +72,49 @@
               
                <sp>
                    <l> We build upon your piety </l>
-                   <l> Vntill some little time amy call our loves </l>
+                   <l> Untill some little time may call our loves </l>
                    <l> Out of this silence. </l>
                </sp>
                 
                 <sp>
-                    <speaker rend="italic"> King. </speaker>
+                    <speaker rend="italic"> King </speaker>
                     <l> You understand me Madam? </l>
                 </sp>
                 
                 <sp>
-                    <speaker rend="italic"> Simphorosa. </speaker>
+                    <speaker rend="italic"> Simphorosa </speaker>
                     <l> And am honord. </l>
                 </sp>
                
                <sp>
-                   <speaker rend="italic"> Duke. </speaker>
+                   <speaker rend="italic"> Duke </speaker>
                    <l>Her eyes beget new wonder, I shall be osberv'd. </l>
                </sp>
                 
                 <sp>
-                    <speaker rend="italic"> King. </speaker>
-                    <l> Come, not to horse. </l>
+                    <speaker rend="italic"> King </speaker>
+                    <l> Come, now to horse. </l>
                 </sp>
                 
                 <sp>
-                    <speaker rend="italic"> Duke. </speaker>
-                    <l> I shall attend, your entertainment has </l>
+                    <speaker rend="italic"> Duke </speaker>
+                    <l> I shall attend, your entertainement has </l>
                     <l> Oblig'd us Madam. </l>
                 </sp>
                 
                 <sp>
-                    <speaker rend="italic"> Simphorosa. </speaker>
+                    <speaker rend="italic"> Simphorosa </speaker>
                     <l> Twas not worth such guest, </l>
                     <l> But prayers and duty must supply.</l>
                 </sp>
                 
                 <sp>
-                    <speaker rend="italic"> King. </speaker>
+                    <speaker rend="italic"> King </speaker>
                     <l> Now Madam you are a great part of my care, </l>
                     <l> Depend upon me for a husband. </l>
                 </sp>
                 
-                <fw type="catch" place="bottom-right"> Domitilla. </fw>
+                <fw type="catch" place="bottom-right" rend="italic"> Domitilla. </fw>
                 <pb/>
         </body>
     </text>
