@@ -27,7 +27,7 @@
             <fw place="top-center" type="runninghead">The Royall Master.</fw>
 
             <sp>
-               <speaker rend="italic">King.</speaker>
+               <speaker rend="italic">King</speaker>
                <l>Love with the warme affection of a mistresse</l>
                <l>One Ile present a servant, why that blush,</l>
                <l>The words are not immodest, there did want</l>
@@ -36,12 +36,14 @@
                <l>That which your virgin Language would not be</l>
                <l>So soone held guilty of, consent.</l>
             </sp>
+	      
             <sp>
-               <speaker rend="italic">Domitilla.</speaker>
+               <speaker rend="italic">Domitilla</speaker>
                <l>To what?</l>
             </sp>
+	      
             <sp>
-               <speaker rend="italic">King.</speaker>
+               <speaker rend="italic">King</speaker>
                <l>To love by my direction a man</l>
                <l>Whose worth considered shall deserve thee too,</l>
                <l>And in the noblest way invite thy freedome</l>
@@ -49,16 +51,18 @@
                <l>Are knit into one blessing, theres no harme</l>
                <l>In this.</l>
             </sp>
+	      
             <sp>
-               <speaker rend="italic">Domitilla.</speaker>
+               <speaker rend="italic">Domitilla</speaker>
                <l>Most royall Sir I know not, with</l>
                <l>What words to say, you honour me, how can</l>
                <l>One so unworthy as poore <name rend="italic">Domitilla</name></l>
                <l>Be entertaind within your thoughts and care</l>
                <l>In this high nature.</l>
             </sp>
+	      
             <sp>
-               <speaker rend="italic">King.</speaker>
+               <speaker rend="italic">King</speaker>
                <l>Though your mother have</l>
                <l>Made both her person and your selfe a stranger</l>
                <l>To Court, I have had eyes upon your vertues</l>
@@ -66,37 +70,42 @@
                <l>I have studied to advance, if you'le accept</l>
                <l>A husband of a my choise, what say you Madam?</l>
             </sp>
+	      
             <sp>
-               <speaker rend="italic">Domitilla.</speaker>
+               <speaker rend="italic">Domitilla</speaker>
                <l>I have a mother Sir.</l>
             </sp>
+	      
             <sp>
-               <speaker rend="italic">King.</speaker>
+               <speaker rend="italic">King</speaker>
                <l>Shee shall thinke it fortunate</l>
                <l>Bove expectation, you have not vowed your selfe</l>
                <l>To a cold Nunnery.</l>
             </sp>
+	      
             <sp>
-               <speaker rend="italic">Domitilla.</speaker>
+               <speaker rend="italic">Domitilla</speaker>
                <l>Not I sir.</l>
             </sp>
+	      
             <sp>
-               <speaker rend="italic">King.</speaker>
+               <speaker rend="italic">King</speaker>
                <l>When</l>
                <l>I shall declare how pretious he is</l>
                <l>To my owne bosome.</l>
             </sp>
+	      
             <sp>
-               <speaker rend="italic">Domitilla.</speaker>
+               <speaker rend="italic">Domitilla</speaker>
                <l>Royall Sir, this language</l>
                <l>Must needes prepare a welcome, I should thinke</l>
                <l>My heart unlike another womans, not</l>
                <l>To obey a charme so powerfull as your praise,</l>
-               <l>But when you are considered as my King,</l>
+		<l>But when you are considered as my <name rend="italic">King</name>,</l>
             </sp>
 
             <fw place="bottom-right" type="catch">Duty</fw>
-	      
+	      <pb/>
       </body>
    </text>
 </TEI>
