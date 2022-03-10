@@ -30,12 +30,14 @@
                <l>Duty takes off the merit of my will</l>
                <l>And humble every thought beneath obedience.</l>
             </sp>
+	      
             <sp>
-               <speaker rend="italic">King.</speaker>
+               <speaker rend="italic">King</speaker>
                <l>His name is—</l>
             </sp>
+	      
             <sp>
-               <speaker rend="italic">Domitilla.</speaker>
+               <speaker rend="italic">Domitilla</speaker>
                <l>Pardon I beseech you Sir,</l>
                <l>Conceale it yet, what gentle spirit walkes</l>
                <l>Upon my blood, I dare not looke upon him</l>
@@ -45,17 +47,20 @@
                <l>And pretious to your bosome, sure you blest him</l>
                <l>With such a Character.</l>
             </sp>
+	      
             <sp>
-               <speaker rend="italic">King.</speaker>
+               <speaker rend="italic">King</speaker>
                <l>It was too short.</l>
             </sp>
+	      
             <sp>
-               <speaker rend="italic">Domitilla.</speaker>
-               <l>My heart is a *alse Prophet, tis a fate</l>
+               <speaker rend="italic">Domitilla</speaker>
+               <l>My heart is a false Prophet, tis a fate</l>
                <l>Too good and great for <name rend="italic">Domitilla</name>.</l>
             </sp>
+	      
             <sp>
-               <speaker rend="italic">King.</speaker>
+               <speaker rend="italic">King</speaker>
                <l>Well his name shall be reserv'd, but when it opens</l>
                <l>It selfe to your knowledge you will honour it,</l>
                <l>And thanke me <name rend="italic">Domitilla</name>, ith meane time</l>
@@ -67,7 +72,7 @@
             <stage place="right" type="exit">Exit <name>King</name></stage>
 
             <sp>
-               <speaker rend="italic">Domitilla.</speaker>
+               <speaker rend="italic">Domitilla</speaker>
                <l>Why may not this be meant by his owne person?</l>
                <l>More wonders have beene read in story, I</l>
                <l>Finde thicke but amorous tremblings in my heart,</l>
@@ -81,32 +86,35 @@
                <name>Montalto</name></stage>
 
             <sp>
-               <speaker rend="italic">Duke.</speaker>
+               <speaker rend="italic">Duke</speaker>
                <l>Here none can reach our voyce be free and cleare.</l>
             </sp>
+	      
             <sp>
-               <speaker rend="italic">Montalto.</speaker>
+               <speaker rend="italic">Montalto</speaker>
                <l>First let me kisse your hand, on which I sweare</l>
                <l>To speake all truth, tis justice to your person,</l>
                <l>Your merrit and my faith, next though the secret</l>
                <l>May both concerne and benefit your knowledge,</l>
                <l>I shall desire your pardon</l>
             </sp>
+	      
             <sp>
-               <speaker rend="italic">Duke.</speaker>
+               <speaker rend="italic">Duke</speaker>
                <l>You prepare me</l>
                <l>For wonder, if it be an act of friendship</l>
                <l>To me, it twill become me to reward it,</l>
                <l>Not thankes, nor pardon.</l>
             </sp>
+	      
             <sp>
-               <speaker rend="italic">Montalto.</speaker>
+               <speaker rend="italic">Montalto</speaker>
                <l>But all truthes meet not</l>
                <l>With charitable eares, there is a descant</l>
             </sp>
 
             <fw place="bottom-right" type="catch">That</fw>
-
+<pb/>
       </body>
    </text>
 </TEI>
