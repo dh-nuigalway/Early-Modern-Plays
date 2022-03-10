@@ -30,11 +30,12 @@
             <l>Present it, if our sense be indispos'd</l>
             <l>To patience and calme hearing.</l>
             <sp>
-               <speaker rend="italic">Duke.</speaker>
+               <speaker rend="italic">Duke</speaker>
                <l>Doe not doubt me.</l>
             </sp>
+	      
             <sp>
-               <speaker rend="italic">Montalto.</speaker>
+               <speaker rend="italic">Montalto</speaker>
                <l>Twill not become me so much as in thought</l>
                <l>To enquire how long, or with what firme devotion,</l>
                <l>You affect the Princese, <name rend="italic">Theodosia</name>;</l>
@@ -48,12 +49,14 @@
                <l>No other care then with what flowers sweet</l>
                <l>As your owne name to adorne the smiling altars.</l>
             </sp>
+	      
             <sp>
-               <speaker rend="italic">Duke.</speaker>
+               <speaker rend="italic">Duke</speaker>
                <l>You promis'd Sir a secret.</l>
             </sp>
+	      
             <sp>
-               <speaker rend="italic">Montalto.</speaker>
+               <speaker rend="italic">Montalto</speaker>
                <l>It will come</l>
                <l>To fast upon your knowledge, have you never</l>
                <l>Look'd from the prospect of your Pallace window</l>
@@ -76,13 +79,14 @@
                <l>Leaves not your frighted eyes a light to see</l>
                <l>The ruines of that flattering day.</l>
             </sp>
+	      
             <sp>
                <speaker rend="italic">Duke.</speaker>
                <l>This Language</l>
             </sp>
 
             <fw place="bottom-right" type="catch">Carries</fw>
-
+<pb/>
       </body>
    </text>
 </TEI>
