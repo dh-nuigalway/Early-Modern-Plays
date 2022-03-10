@@ -30,11 +30,13 @@
                <speaker rend="italic">King</speaker>
                <l>Wheres the Duke.</l>
             </sp>
+	      
             <sp>
                <speaker rend="italic">Guido</speaker>
                <l>He tooke that way to the Garden Sir, with</l>
                <l>The Lord <name rend="italic">Montalto</name>.</l>
             </sp>
+	      
             <sp>
                <speaker rend="italic">King</speaker>
                <l>You may remove a little;</l>
@@ -45,80 +47,94 @@
             <sp>
                <l>You have no feare to trust your selfe with me.</l>
             </sp>
+	      
             <sp>
                <speaker rend="italic">Domitilla</speaker>
-               <l>I cannot Sir forget you are the King,</l>
+		<l>I cannot Sir forget you are the <name rend="italic">King</name>,</l>
                <l>And in a Wildernesse could have no thought</l>
                <l>With the least prejudice upon your verture.</l>
             </sp>
+	      
             <sp>
-               <speaker rend="italic">King.</speaker>
+               <speaker rend="italic">King</speaker>
                <l>You have the greater innocence at home,</l>
                <l>My intents are faire enough, and you may stand</l>
                <l>The danger of a question, pray how old are you?</l>
             </sp>
+	      
             <sp>
-               <speaker rend="italic">Domitilla.</speaker>
+               <speaker rend="italic">Domitilla</speaker>
                <l>Although it be not held a welcome complement</l>
                <l>To our Sex, my duty bids me not dispute,</l>
                <l>I am fifteene my mother saise.</l>
             </sp>
+	      
             <sp>
-               <speaker rend="italic">King.</speaker>
+               <speaker rend="italic">King</speaker>
                <l>And are</l>
                <l>You not in love.</l>
             </sp>
+	      
             <sp>
-               <speaker rend="italic">Domitilla.</speaker>
+               <speaker rend="italic">Domitilla</speaker>
                <l>I must not charge my selfe</l>
                <l>With so much ignorance to answer, that</l>
                <l>I understand not what it meanes, I know</l>
                <l>The word, but never could apply the sence,</l>
                <l>Or finde it in a passion more then ordinary.</l>
             </sp>
+	      
             <sp>
-               <speaker rend="italic">King.</speaker>
+               <speaker rend="italic">King</speaker>
                <l><name rend="italic">Cupid</name> hath lost his quiver then, he could not</l>
                <l>Be armde, and let you seape, whose sole captivitie</l>
                <l>Would be more glory then the conquest made</l>
                <l>As Poets faine upon the gods.</l>
             </sp>
+	      
             <sp>
-               <speaker rend="italic">Domitilla.</speaker>
+               <speaker rend="italic">Domitilla</speaker>
                <l>Tis language</l>
                <l>With which you are pleas'd to mocke your humble handmaid.</l>
             </sp>
+	      
             <sp>
-               <speaker rend="italic">King.</speaker>
+               <speaker rend="italic">King</speaker>
                <l>But this assures him blinde.</l>
             </sp>
+	      
             <sp>
-               <speaker rend="italic">Domitilla.</speaker>
+               <speaker rend="italic">Domitilla</speaker>
                <l>He would deserve</l>
                <l>To lose his eyes indeede if he should aime</l>
                <l>A shaft at me.</l>
             </sp>
+	      
             <sp>
-               <speaker rend="italic">King.</speaker>
+               <speaker rend="italic">King</speaker>
                <l>Madam you have a heart.</l>
             </sp>
+	      
             <sp>
-               <speaker rend="italic">Domitilla.</speaker>
+               <speaker rend="italic">Domitilla</speaker>
                <l>To which no other</l>
                <l>Flame can approach, then what shall light it to</l>
                <l>Obedience of your will and my good mothers.</l>
             </sp>
+	      
             <sp>
-               <speaker rend="italic">King.</speaker>
+               <speaker rend="italic">King</speaker>
                <l>Obedience to my will, what if it were</l>
                <l>My will that you should love.</l>
             </sp>
+	      
             <sp>
-               <speaker rend="italic">Domitilla.</speaker>
+               <speaker rend="italic">Domitilla</speaker>
                <l>Sir, I doe love.</l>
             </sp>
 
-            <fw place="bottom-right" type="catch" rend="italic">King.</fw>
+            <fw place="bottom-right" type="catch" rend="italic">King</fw>
 
+	      <pb/>
    </text>
 </TEI>
