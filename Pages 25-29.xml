@@ -90,6 +90,7 @@
             </sp>
             
             <fw type="catch" place="bottom-right">And</fw>
+            <pb/>
         </body>
     </text>
     
@@ -188,7 +189,8 @@
                 <l>I heare you are an understanding Secretary.</l>
             </sp>
             
-            <fw type="catch" place="bottom-right" rend="italic">Bombo:</fw>
+            <fw type="catch" place="bottom-right" rend="italic">Bombo</fw>
+            <pb/>
         </body>
     </text>
     
@@ -282,6 +284,7 @@
             </sp>
             
             <fw type="catch" place="bottom-right">If</fw>
+            <pb/>
         </body>
     </text>
     
@@ -353,7 +356,8 @@
                 <l>A womans curiositie.</l>
             </sp>
             
-            <fw type="catch" place="bottom-right" rend="italic">Guido:</fw>
+            <fw type="catch" place="bottom-right" rend="italic">Guido</fw>
+            <pb/>
         </body>
     </text>
     
@@ -424,7 +428,8 @@
                 <l>By some hastie marriage.</l>
             </sp>
             
-            <fw type="catch" place="bottom-right" rend="italic">Domitilla:</fw>
+            <fw type="catch" place="bottom-right" rend="italic">Domitilla</fw>
+            <pb/>
         </body>
     </text>
 </TEI>
