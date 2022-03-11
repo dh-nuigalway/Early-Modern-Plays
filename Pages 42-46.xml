@@ -113,8 +113,10 @@
                 
                 <fw type="catch" place="bottom-right"> In </fw>
                <pb/> 
-
-
+        </body>
+    </text>
+<text>
+    <body>
         <fw place="top=center" type="runninghead"> The Royall Master. </fw>
         <sp>
             <l> In whose displeasure shee is lost and now </l>
@@ -206,7 +208,11 @@
         
         <fw type="catch" place="bottom-right"> Domitilla </fw>
         <pb/>
-            
+    </body>
+    </text>
+    
+    <text>
+        <body>
             <fw place="top=center" type="runninghead"> The Royall Master. </fw>
             
             <sp>
@@ -299,7 +305,11 @@
                 
                 <fw type="catch" place="bottom-right"> Duke </fw>
                 <pb/>
-    
+                </body>
+            </text>
+        
+        <text>
+            <body>
     <fw place="top=center" type="runninghead"> The Royall Master. </fw>
     
     <sp>
@@ -402,7 +412,12 @@
     
     <fw type="catch" place="bottom-right"> Hee </fw>
     <pb/>
-
+            </body>
+        </text>
+        
+        <text>
+            <body>
+                
 <fw place="top=center" type="runninghead"> The Royall Master. </fw>
 
 <sp>
