@@ -99,8 +99,8 @@
                 <l>Away, the Lords are risen.</l>
             </sp>
             
-            <fw type="catch" place="bottom-right" rend="italic">Bombo:</fw>
-            
+            <fw type="catch" place="bottom-right" rend="italic">Bombo</fw>
+            <pb/>
         </body>
     </text>
     
@@ -183,7 +183,8 @@
             </sp>
             <stage type="exit" place="right" rend="italic">Exit Duke, Montalto.</stage>
             
-            <fw type="catch" place="bottom-right" rend="italic">King.</fw>
+            <fw type="catch" place="bottom-right" rend="italic">King</fw>
+            <pb/>
         </body>
     </text>
 </TEI>
