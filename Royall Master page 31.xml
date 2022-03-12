@@ -23,8 +23,9 @@
    </teiHeader>
 <text>
    <body>
+	 <fw type="runninghead" place="top-centre" rend="italic">The Royall Master.</fw>
          <sp>
-            <speaker rend="italic">Octavio.</speaker>
+            <speaker rend="italic">Octavio</speaker>
             <l>The Court</l>
             <l>Confine such beauty to a Countrey house,</l>
             <l>Live among Hindes, and thicke skind fellowes that</l>
@@ -46,16 +47,16 @@
             <l> Want white to doe their pennance in. </l>
          </sp>
          <sp>
-            <speaker rend="italic"> Domitilla.</speaker>
+            <speaker rend="italic"> Domitilla</speaker>
             <l>So, so,</l>
             <l>Have you done now my young poeticke Lord.</l>
          </sp>
          <sp>
-            <speaker rend="italic">Octavio.</speaker>
-            <p>There will be no end Madam of your praises.</p>
+            <speaker rend="italic">Octavio</speaker>
+            <l>There will be no end Madam of your praises.</l>
          </sp>
          <sp>
-            <speaker rend="italic">Domitilla.</speaker>
+            <speaker rend="italic">Domitilla</speaker>
             <l> And to no end you have spent all this breath,</l>
             <l>Allow all this were wit, that some did thinke us</l>
             <l>The creatures they commend (and those whom love</l>
@@ -64,33 +65,34 @@
             <l>That we are no such things.</l>
          </sp>
          <sp>
-            <speaker rend="italic"> Octavio.</speaker>
-            <p>Ist possible.</p>
+            <speaker rend="italic"> Octavio</speaker>
+            <l>Ist possible.</l>
          </sp>
          <sp>
-            <speaker rend="italic">Domitilla.</speaker>
-            <p> And laugh at your Chimeraes.</p>
+            <speaker rend="italic">Domitilla</speaker>
+            <l> And laugh at your Chimeraes.</l>
          </sp>
          <sp>
-            <speaker rend="italic"> Octavio.</speaker>
-            <p>Y'are the wiser.</p>
+            <speaker rend="italic"> Octavio</speaker>
+            <l>Y'are the wiser.</l>
          </sp>
          <sp>
-            <speaker rend="italic">Domitilla.</speaker>
+            <speaker rend="italic">Domitilla</speaker>
             <l>If this be your court practise, let me dwell</l>
             <l>With truth and plaine simplicity.</l>
          </sp>
          <sp>
-            <speaker rend="italic"> Octavio.</speaker>
+            <speaker rend="italic"> Octavio</speaker>
             <l>If I</l>
             <l>Might have my choyse, I would live with you Madam,</l>
             <l>A neighbour to this innocence; your mother.</l>
          </sp>
-         <stage place="centre" type="enter">Enter <name>Simphorosa</name>.</stage>
+         <stage place="centre" type="entrance" rend="italic">Enter <name>Simphorosa</name>.</stage>
          <sp>
-            <l>The <name>King</name> is come already.</l>
+            <l>The <name rend="italic">King</name> is come already.</l>
          </sp>
       <fw rend="italic" type="catch" place="bottom-right">Enter.</fw>
       <pb/>
    </body>
-</text></TEI>
+</text>
+</TEI>
