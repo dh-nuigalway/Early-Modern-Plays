@@ -23,54 +23,54 @@
    </teiHeader>
    <text>
       <body>
-         <fw place="top-center" type="runninghead">The Royall Master.</fw>
+         <fw place="top-center" type="runninghead" rend="italic">The Royall Master.</fw>
          <sp>
             <l>Things may succeede to my ambition,</l>
             <l>If I doe noose your highnesse.</l>
          </sp>
          <sp>
-            <speaker>Simphorosa.</speaker>
-            <p>Please your Majestie.</p>
+            <speaker rend="italic">Simphorosa</speaker>
+            <l>Please your Majestie.</l>
          </sp>
          <sp>
-            <speaker> King.</speaker>
-            <p> All things must please here.</p>
+            <speaker rend="italic">King</speaker>
+            <l>All things must please here.</l>
          </sp>
          <sp>
-            <speaker>Duke.</speaker>
-            <p>I follow Sir.</p>
+            <speaker rend="italic">Duke</speaker>
+            <l>I follow Sir.</l>
          </sp>
          <sp>
-            <speaker>Simphorosa.</speaker>
-            <p>This is a grace I ever must be proud of.</p>
+            <speaker rend="italic">Simphorosa</speaker>
+            <l>This is a grace I ever must be proud of.</l>
          </sp>
-         <stage place="right" type="exit">Exeunt.</stage>
+         <stage place="right" type="exit" rend="italic">Exeunt.</stage>
 
          <div type="act" n="2">
             <head>The Second Act.</head>
             <stage place="center">Bombo, Iacamo.</stage>
             <sp>
-               <speaker>Bombo.</speaker>
-               <p>Have they almost dined? stay, stay a little:</p>
+               <speaker rend="italic">Bombo</speaker>
+               <l>Have they almost dined? stay, stay a little:</l>
             </sp>
             <sp>
-               <speaker>Iacamo.</speaker>
+               <speaker rend="italic">Iacamo</speaker>
                <l>The last course is o'th table,</l>
                <l> Why doe not you waite?</l>
             </sp>
             <sp>
-               <speaker>Bombo.</speaker>
+               <speaker rend="italic">Bombo</speaker>
                <l>That were a way indeede to be discovered,</l>
                <l> No, the King shall pardon me, he has</l>
                <l> Not seene me yet for all his cunning.</l>
             </sp>
             <sp>
-               <speaker>Iacamo.</speaker>
-               <p>Whom doe you meane.</p>
+               <speaker rend="italic">Iacamo</speaker>
+               <l>Whom doe you meane.</l>
             </sp>
             <sp>
-               <speaker>Bombo.</speaker>
-               <l> The King, thou art ignorant</l>
+               <speaker rend="italic">Bombo</speaker>
+		<l> The <name rend="italic">King</name>, thou art ignorant</l>
                <l> Ile tell thee after dinner, 'ith meane time</l>
                <l> Direct a wandring bottle of wine this way</l>
                <l> And let me alone though I appeare not in't</l>
@@ -78,11 +78,11 @@
                <l> Stay supper.</l>
             </sp>
             <sp>
-               <speaker>Iacamo.</speaker>
-               <p>Thou make a Maske.</p>
+               <speaker rend="italic">Iacamo</speaker>
+               <l>Thou make a Maske.</l>
             </sp>
             <sp>
-               <speaker>Bombo.</speaker>
+               <speaker rend="italic">Bombo</speaker>
                <l> I doe not say Ile write one, for I ha' not</l>
                <l> My writing tongue, though I could once have read,</l>
                <l> But I can give if neede be the designe,</l>
@@ -94,7 +94,7 @@
                <l> A little sence and wit dispos'd with thrift,</l>
                <l> With here and there Monsters to make 'em laugh;</l>
                <l>For the grand businesse to have <name>Mercury</name></l>
-               <l>Or <name>Venus Dandeprat</name> to usher in</l>
+               <l>Or <name rend="italic">Venus Dandeprat</name> to usher in</l>
             </sp>
             <fw rend="italic" type="catch" place="bottom-right">Some</fw>
          </div>
