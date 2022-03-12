@@ -26,16 +26,16 @@
 
          <head>THE <sic>FISRT</sic> ACT.</head>
 
-         <stage place="centre" type="enter">Enter <name>King of <placeName>Naples</placeName></name>
+         <stage place="centre" type="entrance" rend="italic">Enter <name>King of <placeName>Naples</placeName></name>
             , the <name>Duke of <placeName>Florence</placeName></name>, <name>Montalto</name>,
                <name>Octavio</name>, <name>Riviero</name>, <name>Andrugio</name>,
             <name>Guido</name>, <name>Aloigio</name>, <name>Alexio</name>.</stage>
          <sp>
-            <speaker rend="italic">Duke.</speaker>
+            <speaker rend="italic">Duke</speaker>
             <l>Y'Are great in all that's good.</l>
          </sp>
          <sp>
-            <speaker rend="italic">King.</speaker>
+            <speaker rend="italic">King</speaker>
             <l>You shew the bounty</l>
             <l>Of your opinion, my extent in</l>
             <l>all things</l>
@@ -49,22 +49,22 @@
             <l> So much we owe her memory.</l>
          </sp>
          <sp>
-            <speaker rend="italic">Duke.</speaker>
+            <speaker rend="italic">Duke</speaker>
             <l> Pray no more.</l>
          </sp>
          <sp>
-            <speaker rend="italic">Riviero.</speaker>
+            <speaker rend="italic">Riviero</speaker>
             <l> We must not be too open, truest friend,</l>
             <l> Thy bosome is my Sanctuary.</l>
          </sp>
          <sp>
-            <speaker rend="italic">Andrugio.</speaker>
+            <speaker rend="italic">Andrugio</speaker>
             <l> When it leaves</l>
             <l> To be Religious for thy safety, may it</l>
             <l> By an angry flame from heaven, be turnd to ashes.</l>
          </sp>
          <sp>
-            <speaker rend="italic">Duke.</speaker>
+            <speaker rend="italic">Duke</speaker>
             <l> Your nature is too soft, let not the mention </l>
             <l> Of her that was my sister, and you Queene </l>
             <l> Beget another sigh, she was long since blest </l>
