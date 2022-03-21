@@ -2746,6 +2746,492 @@
                     <fw type="catch" place="bottom-right"> I </fw>           
                    
                     <pb/>
+					
+					<fw place="top-center" type="runninghead">The Royall Master.</fw>
+         
+						<l>That Phantome <name rend="italic">Domitilla</name>, let not passion</l>
+						<l>Make you to rash in managing a cause,</l>
+						<l>On which depends your fame, compared to which</l>
+						<l>Ten thousand lives added to mine were nothing,</l>
+						<l>Observe him at next visit.</l>
+         
+					 <sp>
+						<speaker rend="italic">Theodosia</speaker>
+						<l>Ile study thankes Sir.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Montalto</speaker>
+						<l>You pay me with a blessing, if my name</l>
+						<l>But live within your memory.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Theodosia</speaker>
+						<l>This troubles me.</l>
+					 </sp>
+
+					 <stage place="right" type="exit" rend="italic">Exit <name>Montalto</name>.</stage>
+
+					 <stage place="centre" type="enter" rend="italic">Enter <name>King</name> and
+						<name>Guido</name>.</stage>
+
+					 <sp>
+						<speaker rend="italic">King</speaker>
+						<l>Are they both come to court?</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Guido</speaker>
+						<l>And in those lodgings were prepar'd.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">King</speaker>
+						<l>Tis well, and came they cheerefully?</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Guido</speaker>
+						<l>Yes Sir, but something</l>
+						<l>I nigh discerne like trouble, and by starts</l>
+						<l>In <name rend="italic">Domitilla</name>, but they are pleas'd with their</l>
+						<l>Remove, and waite all your commands.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">King</speaker>
+						<l>So leave us;</l>
+					 </sp>
+
+					 <stage place="right" type="exit" rend="italic">Exit <name>Guido</name>.</stage>
+
+					 <sp>
+						<l><name rend="italic">Theodosia</name>, what's the matter? Art not well.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Theodosia</speaker>
+						<l>Wheres the <name rend="italic">Duke</name>?</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">King</speaker>
+						<l>I thought to have met him here.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Theodosia</speaker>
+						<l>Is <name rend="italic">Domitilla</name> come to court?</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">King</speaker>
+						<l>She is</l>
+						<l>By my command to waite on thee.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Theodosia</speaker>
+						<l>To rivall me.</l>
+					 </sp>
+
+					 <stage place="right" type="exit" rend="italic">Exit <name>Theodosia</name>.</stage>
+
+					 <sp>
+						<speaker rend="italic">King</speaker>
+						<l>Howes that?</l>
+						<l>I meant her a wife for good <name rend="italic">Montalto</name>,</l>
+						<l>As the reward of his just services,</l>
+						<l>He knowes it not, as he is ignorant</l>
+						<l>For whom I have prepar'd her. Rivall? Strange</l>
+						<l>I must know more of this, shee is in nature</l>
+						<l>Too apprehensive, for although in love</l>
+						<l>Suspition to men a torment be,</l>
+						<l>There is no Fiend to womens jealousie.</l>
+					 </sp>
+
+					 <stage place="right" type="exit" rend="italic">Exit <name>King</name>.</stage>
+
+					 <stage place="centre" type="enter" rend="italic">Enter <name>Domitilla</name>, <name>Bombo</name>.</stage>
+
+					 <sp>
+						<speaker rend="italic">Bombo</speaker>
+						<l>You may doe what you will Madam, put me</l>
+						<l>Into fine clothes, and make an asse of me,</l>
+						<l>But should you wrap me in a Lyons skinne.</l>
+					 </sp>
+
+					 <fw place="bottom-right" type="catch" rend="italic">Domitilla</fw>
+
+					 <pb/>
+
+					 <fw place="top-center" type="runninghead">The Royall Master.</fw>
+
+					 <sp>
+						<speaker rend="italic">Domitilla</speaker>
+						<l>You have eares that will betray what beast you are.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Bombo</speaker>
+						<l>Pray Madam tell me in six words of sense,</l>
+						<l>What shall I doe here, Ile not see the <name rend="italic">King</name>,</l>
+						<l>Though he have cunningly devis'd this tricke</l>
+						<l>Onely to bring me hither and betray me</l>
+						<l>To offices, make me at least an Idoll.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Domitilla</speaker>
+						<l>Whats that?</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Bombo</speaker>
+						<l>An Idoll in the Countrey I have read</l>
+						<l>A thing we call a worshipfull, a right worshipfull,</l>
+						<l>Descended from the house of the factotums,</l>
+						<l>Lord of the soile, and Cocke of his owne dunghill.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Domitilla</speaker>
+						<l>You may be out of feare, you cannot reade now,</l>
+						<l>Nor set your name to a warrant.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Bombo</speaker>
+						<l>Alls that nothing,</l>
+						<l>Ignorance every day comes into fashion,</l>
+						<l>And no meane statesmen now when they doe write</l>
+						<l>Their names, doe for their honours so contrive it,</l>
+						<l>You can hardly know a nobleman from a marke.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Domitilla</speaker>
+						<l>If you be an enemy to all preferment,</l>
+						<l>Your best way is to leave the world and turne</l>
+						<l>A lay Fryer</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Bombo</speaker>
+						<l>No I finde no such thing in my constitution,</l>
+						<l>Every man is not bound to be Religious;</l>
+						<l>Men of my bulke and bearing should not fast so,</l>
+						<l>I am not given by nature to drinke water,</l>
+						<l>Or lye without a shirt; I have cornes Madam,</l>
+						<l>And I would make lesse conscience to undoe</l>
+						<l>My Shoomaker, then walke on wodden Pantables,</l>
+						<l>I will indure to serve you still and dwell here,</l>
+						<l>So you conceale me from the <name rend="italic">King</name>, tis not</l>
+						<l>That I doe owe his Majestie ill will,</l>
+						<l>I could indure him too upon condition</l>
+						<l>He would make nothing on me.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Domitilla</speaker>
+						<l>Why he shall</l>
+						<l>Make nothing on thee take my word, or if</l>
+						<l>Thou hast a minde ile pray him make thee lesse.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Bombo</speaker>
+						<l>No, I would be a midling Christian,</l>
+						<l>But what will you doe here you selfe, youle be in.</l>
+					 </sp>
+
+					 <fw place="bottom-right" type="catch" rend="italic">Domitilla</fw>
+
+					 <pb/>
+
+					 <fw place="top-center" type="runninghead">The Royall Master.</fw>
+
+					 <sp>
+						<speaker rend="italic">Domitilla</speaker>
+						<l>With whom dost thinke.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Bombo</speaker>
+						<l>And cast away your selfe</l>
+						<l>Upon some pageant, one whose wit must be</l>
+						<l>Beholding to anothers Wooll to keepe it warme;</l>
+						<l>One that can dance and sing and wag his feather,</l>
+						<l>An artificiall Calfe carrier;</l>
+						<l>A youth that's sowed together by his Taylour,</l>
+						<l>And taken a peeces by his Surgeon.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Domitilla</speaker>
+						<l>Why how now Secretary.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Bombo</speaker>
+						<l>I could say more.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Domitilla</speaker>
+						<l>Is this wit naturall?</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Bombo</speaker>
+						<l>You were best say</l>
+						<l>I got it here at Court, pray heaven I doe not</l>
+						<l>Loose what I brought, I had a holsome wit</l>
+						<l>I'th Countrey, aske the Parish and the Parson</l>
+						<l>For I kept company with those that reade</l>
+						<l>And learne wit now by the eare, if any slip from me,</l>
+						<l>As where there is a plenty some will out,</l>
+						<l>Here are so many wit catchers, a lost maidenhead</l>
+						<l>Is sooner found and set upon the shoulders</l>
+						<l>Of the right owner.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Domitilla</speaker>
+						<l>I preethe tell me <name rend="italic">Bombo</name>,</l>
+						<l>And tell me truth, doe not you thinke your selfe</l>
+						<l>After all this a foole?</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Bombo</speaker>
+						<l>A foole, your servant Madam.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Domitilla</speaker>
+						<l>Ile speake thou maist be the Kings foole.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Bombo</speaker>
+						<l>I thanke you,</l>
+						<l>I tell you Ile not see the <name rend="italic">King</name>, or if I did,</l>
+						<l>Yes I looke like a foole, I could be angry,</l>
+						<l>But then you'd say I were a foole indeed.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Domitilla</speaker>
+						<l>Be not so passionate.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Bombo</speaker>
+						<l>Wod I had beene a foole,</l>
+						<l>I would I had, for my owne sake I wish it,</l>
+						<l>I should not have beene tempted hither then,</l>
+						<l>By which I have indangered my good parts,</l>
+						<l>To State imployment, but Ile be wise enough,</l>
+						<l>He has not seene me yet nor shanot if</l>
+						<l>There be a witch in <placeName rend="italic">Naples</placeName>, or a mist</l>
+					 </sp>
+
+					 <fw place="bottom-right" type="catch">That</fw>
+
+					 <pb/>
+
+					 <fw place="top-center" type="runninghead">The Royall Master.</fw>
+
+					 <l>That will be bought for money to walk the Court in,</l>
+					 <l>But take your course, and I were at home agen.</l>
+
+					 <sp>
+						<speaker rend="italic">Domitilla</speaker>
+						<l>What then?</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Bombo</speaker>
+						<l>I would live in the Sellar, the Wine Sellar.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Domitilla</speaker>
+						<l>Tis your humility.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Bombo</speaker>
+						<l>There were some fortification to be made</l>
+						<l>Against the Court invasions, countermines</l>
+						<l>Of sand and Sacke, a man might thrust himselfe</l>
+						<l>Among the bottles, and defie the world,</l>
+						<l>Be drunke, and not be cal'd out of his sleepe</l>
+						<l>To goe Embassadour.</l>
+					 </sp>
+
+					 <stage place="centre" type="enter" rend="italic">Enter <name>Simphorosa</name>.</stage>
+
+					 <sp>
+						<speaker rend="italic">Domitilla</speaker>
+						<l>So, so, feare not,</l>
+						<l>Have a strong faith, and thou maist dye i'th countrey</l>
+						<l>For all this, here's my mother, let your care</l>
+						<l>Be now that none may interrupt us.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Bombo</speaker>
+						<l>I will doe any thing but see the <name rend="italic">King</name>.</l>
+					 </sp>
+
+					 <stage place="right" type="exit" rend="italic">Exit <name>Bombo</name>.</stage>
+
+					 <sp>
+						<speaker rend="italic">Domitilla</speaker>
+						<l>With pardon Madam you seeme full of thought.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Simphorosa</speaker>
+						<l>I am studying <name rend="italic">Domitilla</name> why the <name rend="italic"
+						   >King</name></l>
+						<l>Should send for us to Court.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Domitilla</speaker>
+						<l>Mother you cannot</l>
+						<l>Mention the <name rend="italic">King</name> in any act of his</l>
+						<l>That is not glorious and like himselfe;</l>
+						<l>He is the great example of a King,</l>
+						<l>But richer in his soule then state.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Simphorosa</speaker>
+						<l>But why</l>
+						<l>To us this favour, to call us from those</l>
+						<l>Cold and obscure shades of a retirement</l>
+						<l>To plant us here neare his owne beames?</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Domitilla</speaker>
+						<l>He has some meaning in't.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Simphorosa</speaker>
+						<l>It tis yet darke to me.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Domitilla</speaker>
+						<l>We sha'not staine his Court, his sister's but</l>
+						<l>A Lady of more distinction of birth,</l>
+						<l>Yet all that have beene Princes, came not to</l>
+						<l>Their state by a descent, the Heralds know</l>
+						<l>Some were not borne to purple and to scepters</l>
+						<l>That have beene Queenes, vertue has rais'd some,</l>
+						<l>And beauty has had many charmes to rule</l>
+					 </sp>
+
+					 <fw place="bottom-right" type="catch">The</fw>
+
+					 <pb/>
+
+					 <fw place="top-center" type="runninghead">The Royall Master.</fw>
+
+					 <l>The heart of Kings.</l>
+
+					 <sp>
+						<speaker rend="italic">Simphorosa</speaker>
+						<l>What's all this <name rend="italic">Domitilla</name>?</l>
+						<l>I hope you are not dreaming of a Queene,</l>
+						<l>Such wilde interpretation of the Kings</l>
+						<l>Favour to us cannot be made without</l>
+						<l>The forfeits of wits and duties which</l>
+						<l>Should teach us to containe our thoughts in their</l>
+						<l>Owne Spheare and not to point them upon objects</l>
+						<l>Above our Levell.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Domitilla</speaker>
+						<l>I Betray my selfe,</l>
+						<l>When I sayd beauty had a power to charme</l>
+						<l>A King, it might acquit me from suspition</l>
+						<l>Of any hope to apply them so ambitiously,</l>
+						<l>Youle grant it just to love the <name rend="italic">King</name>.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Simphorosa</speaker>
+						<l>Our duties.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Domitilla</speaker>
+						<l>And he may where he please place his affection.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Simphorosa</speaker>
+						<l>Leave that to her, it may concerne.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Domitilla</speaker>
+						<l>And shee</l>
+						<l>Thats mark'd for so great honour should be mad</l>
+						<l>To quarrell with her kinde fate.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Simphorosa</speaker>
+						<l>What's all this</l>
+						<l>To thee?</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Domitilla</speaker>
+						<l>To me; why mother ist not possible</l>
+						<l>A Lady not much fairer then my selfe</l>
+						<l>May be a Queene, great Princes have eyes</l>
+						<l>Like other men, and I should sinne against</l>
+						<l>What heaven and nature have bestowed on me.</l>
+						<l>Should my fate smile to thinke my face would be</l>
+						<l>The barre to such preferment.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Simphorosa</speaker>
+						<l>Leaving this</l>
+						<l>Which is but mirth, I know since we are falne</l>
+						<l>Into discourse of love, what would you answer</l>
+						<l>To Lord <name rend="italic">Montalto</name> if he came a wooing</l>
+						<l>And recommended by the <name rend="italic">King</name>?</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Domitilla</speaker>
+						<l>I would</l>
+						<l>Eene recommend him to the <name rend="italic">King</name> agen.</l>
+					 </sp>
+
+					 <sp>
+						<speaker rend="italic">Simphorosa</speaker>
+						<l>Is not his favorite worth your love, if he</l>
+						<l>Descend to be your servant.</l>
+					 </sp>
+
+					 <fw place="bottom-right" type="catch" rend="italic">Domitilla</fw>
+
+					 <pb/>
+                   
             </div>
         </body>
     </text>
