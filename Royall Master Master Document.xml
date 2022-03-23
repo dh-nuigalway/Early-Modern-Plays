@@ -2748,7 +2748,7 @@
                     <pb/>
             </div>
             
-                     <fw place="top-center" type="runninghead">The Royall Master.</fw>
+                     <fw place="top-center" type="runninghead" rend="italic>The Royall Master.</fw>
 
          <sp>
             <speaker>Riviero</speaker>
@@ -2758,24 +2758,24 @@
          <sp>
             <speaker>King</speaker>
             <l>Let Musicke speake</l>
-            <l> His deare approach, we sent for him.</l>
+            <l>His deare approach, we sent for him.</l>
          </sp>
 
          <sp>
             <speaker>Riviero</speaker>
-            <l> How's this?</l>
+            <l>How's this?</l>
          </sp>
 
          <sp>
             <speaker>King</speaker>
             <l>Let me intreate you to obscute your persons</l>
-            <l> A while.</l>
+            <l>A while.</l>
          </sp>
 
          <stage place="right" type="exit">Exit <name rend="italic">Duke</name>, <name rend="italic"
                >Theodosia</name>.</stage>
 
-         <stage type="direction">Lond Musicke -</stage>
+         <stage type="business" place="center">Loud Musicke -</stage>
          <stage place="center" type="entrance">Enter <name rend="italic">Guido</name>, <name
                rend="italic">Aloisio</name>, <name rend="italic">Alexio</name>, <name rend="italic"
                >Andrugio</name>, <name rend="italic">Octavio</name>, <name rend="italic"
@@ -2783,8 +2783,8 @@
 
          <sp>
             <speaker> King</speaker>
-            <l> My Lord y'are welcome to us, very welcome</l>
-            <l> We have kept our word, and finde you have not lost</l>
+            <l>My Lord y'are welcome to us, very welcome</l>
+            <l>We have kept our word, and finde you have not lost</l>
             <l>Your confidence, what a brave armour is</l>
             <l>An innocent soule? How like a rocke it bids</l>
             <l>Defiance to a storme, against whose ribbes</l>
@@ -2792,51 +2792,51 @@
             <l>And fall and hide their heads in passionate foame,</l>
             <l>How would a guilty person tremble now,</l>
             <l>Looke pale, and with his eyes chain'd to the ground</l>
-            <l> Betray his feare of justice.</l>
+            <l>Betray his feare of justice.</l>
          </sp>
 
          <sp>
             <speaker> Montalto</speaker>
             <l>Where should honour</l>
-            <l> Shine with his pure and native lustre but</l>
-            <l> Where there is such a King, so good, so great,</l>
-            <l> The example and reward, he must be</l>
-            <l> A rebell twice to vertue that can live</l>
+            <l>Shine with his pure and native lustre but</l>
+            <l>Where there is such a <name rend="italic>King</name>, so good, so great,</l>
+            <l>The example and reward, he must be</l>
+            <l>A rebell twice to vertue that can live</l>
             <l>To be convinc'd of a dishonour neare</l>
             <l>Such an instructive goodnesse.</l>
          </sp>
 
          <sp>
             <speaker>King</speaker>
-            <l> Where be all his fierce accusers?</l>
-            <l> Call 'em to his presence,</l>
-            <l> Whom all their envies would destroy.</l>
+            <l>Where be all his fierce accusers?</l>
+            <l>Call 'em to his presence,</l>
+            <l>Whom all their envies would destroy.</l>
          </sp>
 
          <sp>
-            <speaker> Riviero</speaker>
-            <l> So, so,</l>
-            <l> The King is charm'd.</l>
+            <speaker>Riviero</speaker>
+            <l>So, so,</l>
+            <l>The <name rend="italic>King</name> is charm'd.</l>
          </sp>
 
          <sp>
             <speaker> Octavio</speaker>
             <l>They are gone upon the first</l>
-            <l> Newes of my Lords returne, they vanish'd Sir.</l>
+            <l>Newes of my Lords returne, they vanish'd Sir.</l>
          </sp>
 
          <sp>
-            <speaker> Montalto</speaker>
-            <l> So may all reason fly the brow of innocence.</l>
+            <speaker>Montalto</speaker>
+            <l> o may all reason fly the brow of innocence.</l>
          </sp>
 
          <sp>
             <speaker> King</speaker>
-            <l> Tis well said, but they sha'not fly their names,</l>
-            <l> Reade there just to our thoughts, they apprehended</l>
+            <l>Tis well said, but they sha'not fly their names,</l>
+            <l>Reade there just to our thoughts, they apprehended</l>
             <l>Thee lost in our displeasure (wheres our sister)</l>
-            <l> And now they came to be reveng'd <name rend="italic">Montalto</name>,</l>
-            <l> Upon our favours.</l>
+            <l>And now they came to be reveng'd <name rend="italic">Montalto</name>,</l>
+            <l>Upon our favours.</l>
          </sp>
 
          <fw type="catch" place="bottom-right"><name rend="italic">Guido</name></fw>
@@ -2850,58 +2850,56 @@
          </sp>
 
          <sp>
-            <speaker> King</speaker>
-            <l> Theres something may concerne your want of grace</l>
-            <l>
-               <name rend="italic">Andrugio</name>, <name rend="italic">Philoberto</name>.</l>
+            <speaker>King</speaker>
+            <l>Theres something may concerne your want of grace</l>
          </sp>
 
-         <stage type="direction">Gives them papers.</stage>
+         <stage type="business"><name rend="italic">Andrugio</name>, <name rend="italic">Philoberto</name>.Gives them papers.</stage>
 
          <sp>
             <speaker>Montalto</speaker>
-            <l> We are undone <name rend="italic">Guido</name>, and I see more</l>
-            <l> Engines are leveld at my fate.</l>
-         </sp>
-
-         <sp>
-            <speaker> Riviero</speaker>
-            <l>The <name rend="italic">King</name> would have your Lordship peruse this.</l>
-         </sp>
-
-         <sp>
-            <speaker> Andrugio</speaker>
-            <l> And these.</l>
+            <l>We are undone <name rend="italic">Guido</name>, and I see more</l>
+            <l>Engines are leveld at my fate.</l>
          </sp>
 
          <sp>
             <speaker>Riviero</speaker>
-            <l> That you may know your friends and enemies.</l>
+            <l>The <name rend="italic">King</name> would have your Lordship peruse this.</l>
+         </sp>
+
+         <sp>
+            <speaker>Andrugio</speaker>
+            <l>And these.</l>
+         </sp>
+
+         <sp>
+            <speaker>Riviero</speaker>
+            <l>That you may know your friends and enemies.</l>
          </sp>
 
          <sp>
             <speaker>Montalto</speaker>
-            <l> Lost, lost for ever.</l>
+            <l>Lost, lost for ever.</l>
          </sp>
 
          <sp>
-            <speaker> Riviero</speaker>
-            <l> Sir you know</l>
-            <l> You have obliged the Princesse <name rend="italic">Theodosia</name></l>
-            <l> And the <name rend="italic">Duke</name> to you, and you may presume</l>
-            <l> To use their favours, they are here.</l>
+            <speaker>Riviero</speaker>
+            <l>Sir you know</l>
+            <l>You have obliged the Princesse <name rend="italic">Theodosia</name></l>
+            <l>And the <name rend="italic">Duke</name> to you, and you may presume</l>
+            <l>To use their favours, they are here.</l>
          </sp>
 
          <stage place="centre" type="entrance">Enter <name rend="italic">Duke</name>, <name
                rend="italic">Theodosia</name>.</stage>
 
          <sp>
-            <speaker> Montalto</speaker>
-            <l> Twere better</l>
-            <l> For me they had no beeing. I did never</l>
-            <l> Expect this, to accuse me for the death</l>
-            <l> Of <name rend="italic">Riviero</name>, but I must obey</l>
-            <l> This fatall revolution.</l>
+            <speaker>Montalto</speaker>
+            <l>Twere better</l>
+            <l>For me they had no beeing. I did never</l>
+            <l>Expect this, to accuse me for the death</l>
+            <l>Of <name rend="italic">Riviero</name>, but I must obey</l>
+            <l>This fatall revolution.</l>
          </sp>
 
          <sp>
@@ -2910,24 +2908,24 @@
          </sp>
 
          <sp>
-            <speaker> Montalto</speaker>
+            <speaker>Montalto</speaker>
             <l>I dare not aske your pardon,</l>
-            <l> Onely I beg you would put on a brow</l>
-            <l> Rough as the cause you have to make it frowne,</l>
+            <l>Onely I beg you would put on a brow</l>
+            <l>Rough as the cause you have to make it frowne,</l>
             <l>And that may strike me dead without more torment.</l>
          </sp>
 
          <sp>
-            <speaker> King</speaker>
-            <l> Ingratefull man! am I rewarded thus,</l>
-            <l> Not onely with my faith abus'd and subjects,</l>
-            <l> But wounding all our honours.</l>
+            <speaker>King</speaker>
+            <l>Ingratefull man! am I rewarded thus,</l>
+            <l>Not onely with my faith abus'd and subjects,</l>
+            <l>But wounding all our honours.</l>
          </sp>
 
          <sp>
-            <speaker> Theodosia</speaker>
-            <l> Let him finde your mercy Sir</l>
-            <l> For his offence to me.</l>
+            <speaker>Theodosia</speaker>
+            <l>Let him finde your mercy Sir</l>
+            <l>For his offence to me.</l>
          </sp>
 
          <stage place="centre" type="entrance"> Enter <name rend="italic">Simphorosa</name>, <name
@@ -2935,25 +2933,26 @@
 
          <sp>
             <speaker>King</speaker>
-            <l> I must not, dare not pardon, twere a sinne</l>
-            <l> In me of violence to heaven and justice.</l>
+            <l>I must not, dare not pardon, twere a sinne</l>
+            <l>In me of violence to heaven and justice.</l>
          </sp>
 
          <sp>
-            <speaker> Montalto</speaker>
-            <l> You have beene a <title>Royall Master</title>.</l>
+            <speaker>Montalto</speaker>
+            <l>You have beene a <title>Royall Master</title>.</l>
          </sp>
 
          <sp>
-            <speaker> King</speaker>
-            <l> Take him hence,</l>
-            <l> His life will draw a scorne upon the Kingdome,</l>
-            <l> Expect the censure of our lawes you gentlemen;</l>
-            <l> We onely banish from the court.</l>
+            <speaker>King</speaker>
+            <l>Take him hence,</l>
+            <l>His life will draw a scorne upon the Kingdome,</l>
+            <l>Expect the censure of our lawes you gentlemen;</l>
+            <l>We onely banish from the court.</l>
          </sp>
 
-         <sp><speaker> Guido, Aloisio, Alexio</speaker>
-            <l>You are mercifull.</l></sp>
+         <sp><speaker>Guido, Aloisio, Alexio</speaker>
+            <l>You are mercifull.</l>
+         </sp>
 
          <fw type="catch" place="bottom-right"><name rend="italic">King</name></fw>
 
@@ -2963,59 +2962,58 @@
 
          <sp>
             <speaker>King</speaker>
-            <l> Pray and be honest.</l>
+            <l>Pray and be honest.</l>
          </sp>
 
          <sp>
-            <speaker> Riviero</speaker>
-            <l> That last will be the greatest penance to 'em.</l>
+            <speaker>Riviero</speaker>
+            <l>That last will be the greatest penance to 'em.</l>
          </sp>
 
          <sp>
-            <speaker> King</speaker>
-            <l> My passion would be strong but here is one</l>
-            <l> Come to divert the streame, how is it with</l>
-            <l> My pretty <name rend="italic">Domitilla</name>, you and I</l>
-            <l> May change some words in private.</l>
+            <speaker>King</speaker>
+            <l>My passion would be strong but here is one</l>
+            <l>Come to divert the streame, how is it with</l>
+            <l>My pretty <name rend="italic">Domitilla</name>, you and I</l>
+            <l>May change some words in private.</l>
          </sp>
 
          <sp>
-            <speaker> Octavio</speaker>
+            <speaker>Octavio</speaker>
             <l>The King is just, and tis within your silence</l>
             <l>To make <name rend="italic">Montalto</name> nothing.</l>
          </sp>
 
          <sp>
-            <speaker> Riviero</speaker>
-            <l> Hee will sinke</l>
-            <l> Apace without that weight upon him, malice</l>
-            <l> Shall have no share in my revenge.</l>
+            <speaker>Riviero</speaker>
+            <l>Hee will sinke</l>
+            <l>Apace without that weight upon him, malice</l>
+            <l>Shall have no share in my revenge.</l>
          </sp>
 
          <sp>
-            <speaker> King</speaker>
+            <speaker>King</speaker>
             <l>And since <name rend="italic">Montalto</name></l>
             <l>Is become incapable,</l>
-            <l> I wo'not marry thee, thats a thing too common,</l>
+            <l>I wo'not marry thee, thats a thing too common,</l>
             <l>But thou shalt be my mistresse, a preferment</l>
             <l>Above my first intention, be wise</l>
-            <l> And entertaine it, oh the dayes and nights</l>
-            <l> Weele spend together.</l>
+            <l>And entertaine it, oh the dayes and nights</l>
+            <l>Weele spend together.</l>
          </sp>
 
          <sp>
-            <speaker> Octavio</speaker>
+            <speaker>Octavio</speaker>
             <l>The <name rend="italic">King</name>'s very pleasant</l>
-            <l> With <name rend="italic">Domitilla</name>.</l>
+            <l>With <name rend="italic">Domitilla</name>.</l>
          </sp>
 
          <sp>
-            <speaker> King</speaker>
+            <speaker>King</speaker>
             <l>Come kisse me</l>
-            <l>
-               <name rend="italic">Domitilla</name>, kisse me now</l>
+            <l><name rend="italic">Domitilla</name>, kisse me now</l>
             <l>Before all these, what needs this modesty,</l>
-            <l> Come let us take in one anothers soule.</l>
+            <l>Come let us take in one anothers soule.</l>
          </sp>
 
          <sp>
@@ -3025,31 +3023,31 @@
 
          <sp>
             <speaker>King</speaker>
-            <l> So they call me,</l>
-            <l> And if there be a power within that name</l>
-            <l> It shall be thine to make thee glorious,</l>
-            <l> And great above our Queene, there is no title</l>
-            <l> Like unto that our heate and blood creates</l>
+            <l>So they call me,</l>
+            <l>And if there be a power within that name</l>
+            <l>It shall be thine to make thee glorious,</l>
+            <l>And great above our Queene, there is no title</l>
+            <l>Like unto that our heate and blood creates</l>
             <l>A mistresse <name rend="italic">Domitilla</name>.</l>
          </sp>
 
          <sp>
-            <speaker> Domitilla</speaker>
-            <l> Are you Sir in earnest?</l>
+            <speaker>Domitilla</speaker>
+            <l>Are you Sir in earnest?</l>
          </sp>
 
          <sp>
-            <speaker> King</speaker>
-            <l> Doe but thou consent, and I</l>
-            <l> Will give thee such a proofe in my embraces</l>
-            <l> Of the delight; they will not follow us,</l>
+            <speaker>King</speaker>
+            <l>Doe but thou consent, and I</l>
+            <l>Will give thee such a proofe in my embraces</l>
+            <l>Of the delight; they will not follow us,</l>
             <l>Ile tell thee more i'th bed-chamber.</l>
          </sp>
 
          <sp>
             <speaker>Domitilla</speaker>
-            <l> I dare</l>
-            <l> Not understand this language, can the King</l>
+            <l>I dare</l>
+            <l>Not understand this language, can the <name rend="italic">King</name></l>
 
             <fw type="catch" place="bottom-right">Be</fw>
 
@@ -3057,76 +3055,75 @@
 
             <fw place="top-center" type="runninghead">The Royall Master.</fw>
 
-            <l> Be impious, how was my opinion cozen'd</l>
-            <l> Sinne hath deform'd his very shape, his voyce</l>
+            <l>Be impious, how was my opinion cozen'd</l>
+            <l>Sinne hath deform'd his very shape, his voyce</l>
             <l>Hath now no harmony.</l>
          </sp>
 
          <sp>
-            <speaker> King</speaker>
+            <speaker>King</speaker>
             <l>This is but to draw</l>
-            <l> More courtship from me.</l>
+            <l>More courtship from me.</l>
          </sp>
 
          <sp>
-            <speaker> Domitilla</speaker>
-            <l> Pardon I beseech you,</l>
+            <speaker>Domitilla</speaker>
+            <l>Pardon I beseech you,</l>
             <l>I have found my errour.</l>
          </sp>
 
          <sp>
-            <speaker> King</speaker>
+            <speaker>King</speaker>
             <l> Will shee yeeld?</l>
          </sp>
 
          <sp>
-            <speaker> Domitilla</speaker>
-            <l> I did consent</l>
+            <speaker>Domitilla</speaker>
+            <l>I did consent</l>
             <l>Too soone to my captivity,</l>
-            <l> Though modesty would not allow me strength</l>
-            <l> To tell you so, but you have Sir, by what</l>
-            <l> My fond thoughts never did expect, reliev'd me,</l>
-            <l> To make me know my selfe, and now preserving</l>
-            <l> That duty which I owe you as my King,</l>
+            <l>Though modesty would not allow me strength</l>
+            <l>To tell you so, but you have Sir, by what</l>
+            <l>My fond thoughts never did expect, reliev'd me,</l>
+            <l>To make me know my selfe, and now preserving</l>
+            <l>That duty which I owe you as my King,</l>
             <l>I call love backe agen, and can looke on</l>
-            <l> Your lusts with a becomming scorne.</l>
+            <l>Your lusts with a becomming scorne.</l>
          </sp>
 
          <sp>
-            <speaker> King</speaker>
-            <l> You can.</l>
+            <speaker>King</speaker>
+            <l>You can.</l>
          </sp>
 
          <sp>
-            <speaker> Domitilla</speaker>
-            <l>Yes, and were <placeName rend="italic">Naples</placeName>, <placeName rend="italic"
-                  >Rome</placeName>, and all the wealth</l>
+            <speaker>Domitilla</speaker>
+            <l>Yes, and were <placeName rend="italic">Naples</placeName>, <placeName rend="italic">Rome</placeName>, and all the wealth</l>
             <l>Of <placeName rend="italic">Italy</placeName> laid downe, the great temptation,</l>
-            <l> Thus I would spurne their glories.</l>
+            <l>Thus I would spurne their glories.</l>
          </sp>
 
          <sp>
-            <speaker> King</speaker>
-            <l> Come this is but the tricke of all your sex,</l>
-            <l> We know you can dissemble appetite,</l>
+            <speaker>King</speaker>
+            <l>Come this is but the tricke of all your sex,</l>
+            <l>We know you can dissemble appetite,</l>
             <l>As if you were not flesh and blood.</l>
          </sp>
 
          <sp>
             <speaker>Domitilla</speaker>
-            <l> Sir give</l>
-            <l> Me leave to goe while I have power to pray for you,</l>
+            <l>Sir give</l>
+            <l>Me leave to goe while I have power to pray for you,</l>
             <l>Where was I lost: is there no friend to goodnesse,</l>
             <l>Have I contracted such a leprous forme</l>
             <l>That I have lost all mens defence and charity.</l>
          </sp>
 
          <sp>
-            <speaker> Octavio</speaker>
-            <l> Madam your innocence doth raise in me,</l>
+            <speaker>Octavio</speaker>
+            <l>Madam your innocence doth raise in me,</l>
             <l>Though young, a willing champion, and with</l>
-            <l> My safe obedience to the <name rend="italic">King</name>, I dare,</l>
-            <l> Armde with the witnesse of her cause, defie</l>
+            <l>My safe obedience to the <name rend="italic">King</name>, I dare,</l>
+            <l>Armde with the witnesse of her cause, defie</l>
             <l>The greatest souldier in the world.</l>
          </sp>
 
@@ -3139,10 +3136,10 @@
             <speaker> Octavio</speaker>
             <l>Sir, in a noble canse, if you to whom</l>
             <l>In the first place truth flies as to an Altar,</l>
-            <l> Wave her religious defence I dare dye for her.</l>
+            <l>Wave her religious defence I dare dye for her.</l>
          </sp>
 
-         <fw type="catch" place="bottom-right"><name rend="italic">King.</name></fw>
+         <fw type="catch" place="bottom-right"><name rend="italic">King:</name></fw>
 
          <pb/>
 
@@ -3151,13 +3148,13 @@
          <sp>
             <speaker>King</speaker>
             <l>You so brave? to prison with him,</l>
-            <l> We will correct your saucinesse.</l>
+            <l>We will correct your saucinesse.</l>
          </sp>
 
          <sp>
             <speaker>Octavio</speaker>
-            <l> You will grace</l>
-            <l> My first act Sir, and get me same by suffering</l>
+            <l>You will grace</l>
+            <l>My first act Sir, and get me same by suffering</l>
             <l>For so much sweetnesse.</l>
          </sp>
 
@@ -3185,10 +3182,10 @@
          <sp>
             <speaker>Domitilla</speaker>
             <l>My Lord you now deserve I should</l>
-            <l> Be yours, whom with the hazard of the <name rend="italic">King</name>s</l>
-            <l> Anger, and your owne life you have defended;</l>
+            <l>Be yours, whom with the hazard of the <name rend="italic">King</name>s</l>
+            <l>Anger, and your owne life you have defended;</l>
             <l>There is a spring of honour here, and too it</l>
-            <l> I'th presence of the <name rend="italic">King</name>, his Court and Heaven,</l>
+            <l>I'th presence of the <name rend="italic">King</name>, his Court and Heaven,</l>
             <l>I dare now give my heart, nor is't without</l>
             <l>My duty to a promise.</l>
          </sp>
@@ -3204,41 +3201,41 @@
             <l>Tis to my desires,</l>
             <l>And I dare wish you joyes, forgive this practise,</l>
             <l>Nay preety <name rend="italic">Domitilla</name> I did this</l>
-            <l> But to divert more happily thy thoughts</l>
-            <l> Of me, who have not paide yet the full tribute</l>
-            <l> To my <name rend="italic">Cesarias</name> dust, agen let me</l>
-            <l> Congratulate thy choise in young <name rend="italic">Octavio</name>,</l>
-            <l> Whose birth and forward vertue will deserve thee,</l>
-            <l> Brother and sister love, and wish them happinesse.</l>
+            <l>But to divert more happily thy thoughts</l>
+            <l>Of me, who have not paide yet the full tribute</l>
+            <l>To my <name rend="italic">Cesarias</name> dust, agen let me</l>
+            <l>Congratulate thy choise in young <name rend="italic">Octavio</name>,</l>
+            <l>Whose birth and forward vertue will deserve thee,</l>
+            <l>Brother and sister love, and wish them happinesse.</l>
          </sp>
 
          <sp>
             <speaker>Theodosia</speaker>
-            <l> May all joyes spring within their hearts.</l>
+            <l>May all joyes spring within their hearts.</l>
          </sp>
 
          <sp>
             <speaker>Duke</speaker>
-            <l> I must present this gentleman to be more knowne to you.</l>
+            <l>I must present this gentleman to be more knowne to you.</l>
          </sp>
 
          <sp>
             <speaker>Octavio</speaker>
-            <l> I hope you are no enemy to this blessing.</l>
+            <l>I hope you are no enemy to this blessing.</l>
          </sp>
 
          <sp>
             <speaker>Simphorosa</speaker>
-            <l> I adde what doth become a most glad mother,</l>
-            <l> blessing to your loves.</l>
+            <l>I adde what doth become a most glad mother,</l>
+            <l>My blessing to your loves.</l>
          </sp>
 
          <sp>
             <speaker>King</speaker>
-            <l> Noble <name rend="italic">Riviero</name>.</l>
+            <l>Noble <name rend="italic">Riviero</name>.</l>
          </sp>
 
-         <fw type="catch" place="bottom-right"><name rend="italic">Riviero.</name></fw>
+         <fw type="catch" place="bottom-right"><name rend="italic">Riviero:</name></fw>
 
          <pb/>
 
@@ -3246,32 +3243,33 @@
 
          <sp>
             <speaker>Riviero</speaker>
-            <l> I live agen by your acknowledgment.</l>
+            <l>I live agen by your acknowledgment.</l>
          </sp>
 
          <sp>
             <speaker>Duke</speaker>
-            <l> Sir you may trust my testimony, <name rend="italic">Alvarez</name></l>
-            <l> Letter is now an argument of his safety,</l>
-            <l> Who is yet living to increase the guilt</l>
-            <l> Of false <name rend="italic">Montalto</name>.</l>
+            <l>Sir you may trust my testimony, <name rend="italic">Alvarez</name></l>
+            <l>Letter is now an argument of his safety,</l>
+            <l>Who is yet living to increase the guilt</l>
+            <l>Of false <name rend="italic">Montalto</name>.</l>
          </sp>
 
          <sp>
             <speaker>King</speaker>
-            <l> Welcome, tis thy life</l>
-            <l> That hath revers'd <name rend="italic">Montaltoes</name> doome, whose sentence</l>
-            <l> Now shall bee onely banishment, our hearts</l>
-            <l> Are full and sprightly, nothing wants but to</l>
-            <l> Perfect with holy ceremony, what</l>
-            <l> Your hearts have seal'd, mirth in each bosome flowes,</l>
-            <l> Distraction never had so sweet a close.</l>
+            <l>Welcome, tis thy life</l>
+            <l>That hath revers'd <name rend="italic">Montaltoes</name> doome, whose sentence</l>
+            <l>Now shall bee onely banishment, our hearts</l>
+            <l>Are full and sprightly, nothing wants but to</l>
+            <l>Perfect with holy ceremony, what</l>
+            <l>Your hearts have seal'd, mirth in each bosome flowes,</l>
+            <l>Distraction never had so sweet a close.</l>
          </sp>
-            </div>
+         </div>
         </body>
         
-         <back>
-         <signed>FINIS.</signed>
+      <back>
+        <div type="signature" place="center" rend="italic">FINIS.</div>
       </back>
+                
     </text>
 </TEI>
