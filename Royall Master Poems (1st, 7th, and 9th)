@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>EN6138 Encoding P.NUMBER</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Not intended for publication.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>The Royall Master</title>
+               <author>James Shirley</author>
+               <date>1638</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+       <text>
+        <body>
+
+            <head place="center">
+                <l>To me Ingenious Friend, <name rend="italic">James Shir</name></l>
+                <l><name rend="italic">ley</name>, upon his <title rend="italic">Royall
+                        Master</title>.</l>
+            </head>
+
+            <lg rend="italic">
+                <l>As a rich gemme enchac'd in gold affords</l>
+                <l>More radiant lustre to the gazers eye</l>
+                <l>Inprison'd so, within it selfe it hoords</l>
+                <l>Up all the beamy treasures of the skie,</l>
+                <l>Beames loose reflex on bodies d[*]aphane</l>
+                <l>But cast on solids they rebound againe.</l>
+                <l>So would thy lines my Friend in paper pent</l>
+                <l>Contract the whole applauses of the age,</l>
+                <l>But should they a neglected ornament</l>
+                <l>Be soly made the study of the Stage,</l>
+                <l>They might like water in the Sunshine set</l>
+                <l>Retaine his image, not impart his heate.</l>
+                <l>Then Print thy Poem <name rend="roman">Shirley</name>, 'twere a fault</l>
+                <l>To dungoin this instructive peece of thine,</l>
+                <l>Had the Sunnes Shpeare beene made a thicke rib'd vault,</l>
+                <l>We had receiv'd no influence from his shine;</l>
+                <l>Thou shouldst die traitour to succecding times,</l>
+                <l>And thy best vertues prove but splendid crimes.</l>
+            </lg>
+
+        </body>
+
+        <back>
+            <div type="signature">
+                <l><name rend="smallcaps">James Mervyn</name>.</l>
+            </div>
+        </back>
+    </text>
+
+
+
+    <text>
+        <body>
+            <head place="center">
+                <l>To the Honour'd Author of the</l>
+                <l><name rend="italic">Royall Master</name>.</l>
+            </head>
+
+            <lg rend="italic">
+                <l>DEare Friend I joy my love hath found the meanes</l>
+                <l>To waite upon, and vindicate thy scenes</l>
+                <l>From some few scruples of the weaker sex,</l>
+                <l>Whose nicer thoughts their female minds perplex.</l>
+            </lg>
+
+            <fw type="catch" place="right" rend="italic">(For</fw>
+            
+            <pb/>
+
+            <lg rend="italic">
+                <l>(For man he sinkes if he but censure, none</l>
+                <l>Dare deprave <name rend="roman">Kings</name> Inauguration)</l>
+                <l>Say they, what makes the <name rend="roman">King</name> in his di[*]pose</l>
+                <l>So Icy-[*]emperd, as he frankly throwes</l>
+                <l>Freedome on all except himselfe? contrives</l>
+                <l>The way for other men to purchase wives?</l>
+                <l>Takes joy to forward propagation,</l>
+                <l>By Nuptiall knot, yet to himselfe ties none?</l>
+                <l>Prettie poore fooles, and Virgins! how you'r kind</l>
+                <l>(Vulger like) are in apprehension blind;</l>
+                <l>Come reade, you'le see when you this peece peruse</l>
+                <l><title rend="roman">The Royall Masters</title> Spouse is <name rend="roman"
+                        >Shirlies</name> Muse;</l>
+                <l>Why then to him, and her, an altar raise,</l>
+                <l>Ttapers are set, flaming with equall praise</l>
+                <l>See, see, his <name rend="roman">Genius</name> gracefully doth bend</l>
+                <l>To the just vote of every loving friend;</l>
+                <l>The elevated Circle is upheld</l>
+                <l>Betwixt the binall Cherubs palmes, beheld</l>
+                <l>By all judicious eyess; the heart, the voice</l>
+                <l>Of all ingenious doe applaud the choice</l>
+                <l>Of your great <title rend="roman">Royall Master</title>, say, they'ue found</l>
+                <l>Two <name rend="roman">Monarkes</name> with one glorious <name rend="roman"
+                        >Laurell</name> crowned.</l>
+            </lg>
+
+        </body>
+
+        <back>
+            <div type="signature">
+                <l><name rend="smallcaps">W.Smith</name>.</l>
+            </div>
+        </back>
+    </text>
+
+
+
+    <text>
+        <body>
+
+            <head place="center">
+                <l>To the much honoured,<name rend="italic">James Shirley</name> upon his</l>
+                <l><title rend="italic">Royall Master</title>.</l>
+            </head>
+
+            <lg>
+                <l>LEt no man thinke,I hither coldly came</l>
+                <l>On purpose to commend,or to seeke fame</l>
+                <l>By this impressi[*]n,that the world may lay,</l>
+                <l>What is this <name rend="italic">Jackson</name>that commends the play ?</l>
+                <l>Though tis a grace,to stand as Courtiers use</l>
+                <l>To usher in the reader to thy Muse,</l>
+                <l>Yet by the way,Ile tell him I have read</l>
+                <l>The Lawes of <name rend="italic">Flaccus</name> with a serious head,</l>
+                <l>And that according to those statutes there</l>
+                <l>{Never to be repeal[*]d} thy Poems are.</l>
+                <l>They discrette stile is elegantly plaine,</l>
+                <l>In Sock and Buskin,proper to each veine</l>
+                <l>Of Time, Place,Person,and that all thy wit</l>
+                <l>Is not be chance buy regularly writ ;</l>
+                <l>Nor dost thou gall the Theater, we may</l>
+                <l>Be acted every man,yet see thy Play</l>
+                <l>Invisible,so curious is thy Pen</l>
+                <l>Which can at once,would heale,and better men;</l>
+                <l>Therefore will I hereafter cease to mourne</l>
+                <l>For those great wits,commended to the Urne,</l>
+                <l>And if't be true,that transmigrations be</l>
+                <l>They are in <name rend="italic">Shirley</name> all, for ought I see.</l>
+            </lg>
+
+        </body>
+
+        <back>
+            <div type="signature">
+                <l><name rend="smallcaps">John Jacson.</name>.</l>
+            </div>
+        </back>
+    </text>
+
+</TEI>
