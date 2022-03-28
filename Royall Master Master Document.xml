@@ -2741,7 +2741,7 @@
                         <speaker rend="italic">Montalto</speaker>
                         <l> I sha' not neede, the thought of her will kill me </l>
                         <l> With as much silence as I goe to sleepe, </l>
-                    </sp>
+                    
                     
                     <fw type="catch" place="bottom-right"> I </fw>           
                    
@@ -2754,7 +2754,8 @@
 						<l>On which depends your fame, compared to which</l>
 						<l>Ten thousand lives added to mine were nothing,</l>
 						<l>Observe him at next visit.</l>
-         
+       					 </sp>
+			
 					 <sp>
 						<speaker rend="italic">Theodosia</speaker>
 						<l>Ile study thankes Sir.</l>
@@ -3036,7 +3037,7 @@
 						<l>To State imployment, but Ile be wise enough,</l>
 						<l>He has not seene me yet nor shanot if</l>
 						<l>There be a witch in <placeName rend="italic">Naples</placeName>, or a mist</l>
-					 </sp>
+					 
 
 					 <fw place="bottom-right" type="catch">That</fw>
 
@@ -3046,7 +3047,9 @@
 
 					 <l>That will be bought for money to walk the Court in,</l>
 					 <l>But take your course, and I were at home agen.</l>
-
+					 
+					 </sp>
+			
 					 <sp>
 						<speaker rend="italic">Domitilla</speaker>
 						<l>What then?</l>
@@ -3137,7 +3140,7 @@
 						<l>Some were not borne to purple and to scepters</l>
 						<l>That have beene Queenes, vertue has rais'd some,</l>
 						<l>And beauty has had many charmes to rule</l>
-					 </sp>
+					
 
 					 <fw place="bottom-right" type="catch">The</fw>
 
@@ -3146,12 +3149,14 @@
 					 <fw place="top-center" type="runninghead">The Royall Master.</fw>
 
 					 <l>The heart of Kings.</l>
+					 
+					 </sp>
 
 					 <sp>
 						<speaker rend="italic">Simphorosa</speaker>
 						<l>What's all this <name rend="italic">Domitilla</name>?</l>
 						<l>I hope you are not dreaming of a Queene,</l>
-						<l>Such wilde interpretation of the Kings</l>
+						 <l>Such wilde interpretation of the <name rend="italic">Kings</name></l>
 						<l>Favour to us cannot be made without</l>
 						<l>The forfeits of wits and duties which</l>
 						<l>Should teach us to containe our thoughts in their</l>
