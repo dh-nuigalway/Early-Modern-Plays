@@ -21,7 +21,32 @@
    </teiHeader>
    
        <text>
-        <body>
+        
+          <front>
+         <head>On Mr. <name>*James Shirley*</name>*'s* <title>Royall Master</title>.</head>
+      </front>
+      <body>
+         <l>Such curious eyes as in a Poeme looke</l>
+         <l>For the most part, doe finde the printed booke</l>
+         <l>With verses frontispic’d<note place="bottom">Coming from the noun *Frontispiece*, which
+               is an illustration that faces the title page of a book.</note>, to shew their wit</l>
+         <l>In praise of the authors which occasions it,</l>
+         <fw type="catch" place="bottom-right">And</fw>
+         <pb/>
+         <l>And I have seene some peeces, that have stood</l>
+         <l>In neede of witnesses to prove them good.</l>
+         <l>This Poets skill is here so clearely showne</l>
+         <l>In offering light to his they dimme their owne,</l>
+         <l>For all that with unsquinted eyes shall see</l>
+         <l>This well limb’d peece of polish’d poesie,</l>
+         <l>In justice to themselves must needes confesse</l>
+         <l>Friends cannot adde, nor envie make it lesse.</l>
+      </body>
+      <back>
+         <signed rend="smallcaps">FRA. BUTLER</signed>
+      </back>
+          
+          <body>
 
             <head place="center">
                 <l>To me Ingenious Friend, <name rend="italic">James Shir</name></l>
