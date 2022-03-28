@@ -2741,8 +2741,8 @@
                         <speaker rend="italic">Montalto</speaker>
                         <l> I sha' not neede, the thought of her will kill me </l>
                         <l> With as much silence as I goe to sleepe, </l>
-                    </sp>
                     
+                    </sp>
                     <fw type="catch" place="bottom-right"> I </fw>           
                    
                     <pb/>
@@ -2756,7 +2756,8 @@
                      <l>But to some one I know not, who could love</l>
                      <l>Us both, so well as be that rare friend</l>
                      <l>And save our honours.</l>
-
+                     </sp>
+                    
                      <sp>
                         <speaker rend="italic">Montalto</speaker>
                         <l>Doe you then suspect her.</l>
@@ -2764,7 +2765,7 @@
 
                      <sp>
                         <speaker rend="italic">King</speaker>
-                        <l>Oh the Dukes Character had a powerfull sence,</l>
+                         <l>Oh the <name rend="italic">Dukes</name> Character had a powerfull sence,</l>
                         <l>And who knowes but shee may be lost by one</l>
                         <l>Not fit to make her reparation,</l>
                         <l>Could any Nobleman be found in <placeName rend="italic">Naples</placeName></l>
@@ -2818,7 +2819,7 @@
                      <sp>
                         <speaker rend="italic">King</speaker>
                         <l>They are all trifles, let me see,</l>
-                     </sp>
+                     
 
                      <fw place="bottom-right" type="catch">Is</fw>
 
@@ -2829,7 +2830,8 @@
                      <l>Is nothing in thy power to make thee finde</l>
                      <l>My gratitude? How barren are we, wealth,</l>
                      <l>Honour.</l>
-
+                     </sp>
+            
                      <sp>
                         <speaker rend="italic">Montalto</speaker>
                         <l>Ther's nothing good or great you have not</l>
