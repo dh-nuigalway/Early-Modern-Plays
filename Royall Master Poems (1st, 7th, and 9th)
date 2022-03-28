@@ -184,5 +184,34 @@
             </div>
         </back>
     </text>
+   
+   <text>
+      <front>
+         <head>On M. James Shirley his Royall Master.</head>
+      </front>
+      <body>
+
+         <l>There are some men doe hold, there in a place</l>
+         <l>Cal'd Limbus Patrum, if such have the grace</l>
+         <l>To wave that Schifme, and Poetarum said</l>
+         <l>They of that faith had me a member made,</l>
+         <l>That Limbus I could have beleev'd thy braine</l>
+         <l>Where Beamont, Fletcher, Shakespeare, and a traine</l>
+         <l>Of glorious Poets in their active heate</l>
+         <l>Move in that Orbe, as in their former seate.</l>
+         <l>When thou began'st to give thy Master life,</l>
+         <l>Me thought I saw them all, with friendly strife</l>
+         <l>Each casting in his dose, Beamont his weight,</l>
+         <l>Shakespeare his mirth, and Fletcher his conceit,</l>
+         <l>With many more ingredients, with thy skill</l>
+         <l>So sweetely tempered, that the envious quill</l>
+         <l>And tongue of Critricks must both write and say,</l>
+         <l>They never yet beheld a smoother Play.</l>
+
+      </body>
+      <back>
+         <signed rend="smallcaps">JAMES MERVYN.</signed> 
+      </back>      
+   </text>
 
 </TEI>
