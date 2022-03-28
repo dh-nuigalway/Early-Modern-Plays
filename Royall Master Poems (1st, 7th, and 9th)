@@ -21,15 +21,16 @@
    </teiHeader>
    
        <text>
-        <body>
+        
 
-         <head>To the Right Honorable, GEORGE Earle of <placeName rend="italic">Kildare</placeName>,
+        <front>
+           <head>To the Right Honorable, GEORGE Earle of <placeName rend="italic">Kildare</placeName>,
             Baron of <placeName rend="italic">Ophalie</placeName>, and Primier Earle of the Kingdome
             of <placeName rend="italic">Ireland</placeName>.</head>
-
+          </front>
 
          
-            <l>My Lord,</l>
+          <body>  <l>My Lord,</l>
 
             <l>I</l>
             <l> T was my happinesse be∣ing</l>
@@ -67,8 +68,9 @@
 
             <l> The humblest of your</l>
             <l> Lordships servants.</l>
-            <signed>JAMES SHIRLEY.</signed>
-       
+           <back>
+                 <signed>JAMES SHIRLEY.</signed>
+             </back>
            
             <head place="center">
                 <l>To me Ingenious Friend, <name rend="italic">James Shir</name></l>
