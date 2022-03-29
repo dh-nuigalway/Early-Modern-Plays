@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Encoding Poem</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Not intended for publication.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Royall Master</title>
+                    <author>James Shirley</author>
+                    <date>1638</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        
+    </teiHeader> 
+    <text>
+        <body>
+            
+            <head>
+                To his much esteemed Friend Mr. James 
+                <lb></lb>
+                Shirley, on his Royall Master. 
+            </head>
+            
+            <lg> <l> YOu who the readers are of the choice wit, </l>
+                <l> And have the leading voice in censuring it </l>
+                <l> Whose votes Grand-jurors are, and onely have </l>
+                <l> The well knowne power either to kill or save, </l>
+                <l> Give this a noble greeting and its due, </l> </lg>
+            <l> May <name rend="italic"> Phoebus </name> else, withdraw his beames from you. </l> 
+            <lg><l> My worthy Friend, this play 'oth publicke Stage </l>
+                <l> Hath gain'd such faire applause, as't did engage </l>
+                <l> A nation to thy Muse, where thou shalt raigne </l>
+                <l> (His darling Ben deceased) tho should'st be </l>
+                <l> Declar'd the heire apparant to his tree. </l> </lg>
+            
+        </body>
+        <back>
+            <signed rend="smallcaps">W.Markham.</signed>
+        </back>
+        
+    </text>
+</TEI>  
