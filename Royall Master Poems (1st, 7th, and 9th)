@@ -187,10 +187,11 @@
    
    <text>
       <front>
-         <head>On M. James Shirley his Royall Master.</head>
+         <head>On M. <name rend="italic">James Shirley</name> his <title rend="italic">Royall Master</title>.</head>
       </front>
       <body>
 
+         <lg rend="italic">
          <l>There are some men doe hold, there in a place</l>
          <l>Cal'd Limbus Patrum, if such have the grace</l>
          <l>To wave that Schifme, and Poetarum said</l>
@@ -207,7 +208,7 @@
          <l>So sweetely tempered, that the envious quill</l>
          <l>And tongue of Critricks must both write and say,</l>
          <l>They never yet beheld a smoother Play.</l>
-
+         </lg>
       </body>
       <back>
          <signed rend="smallcaps">JAMES MERVYN.</signed> 
