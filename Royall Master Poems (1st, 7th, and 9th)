@@ -61,10 +61,10 @@
 
  <text>
       <front>
-         <head>To my deserving Friend Mr. James Shirley on his Royall Master.</head>
+         <head>To my deserving Friend Mr. <name rend="italic">James Shirley</name> on his <title rend="italic">Royall Master</title>.</head>
       </front>
       <body>
-
+<lg rend="italic">
          <l>I like some petty Brooke scarse worth a name,</l>
          <l>Must yet pay tribute to thy full-stream'd fame,</l>
          <l>But ile not strive, (as men sometimes) to raise</l>
@@ -79,7 +79,7 @@
          <l>Smooth peece (which here hath grac'd the publicke view)</l>
          <l>Claimes more regard; I give to all the rest</l>
          <l>Their faire desert, but ranke this with thy best.</l>
-
+         </lg>
       </body>
       <back>
          <signed rend="smallcaps">T. I.</signed> 
