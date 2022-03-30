@@ -82,6 +82,33 @@
       </back>      
    </text>
   
+ <text>
+      <front>
+         <head>To my deserving Friend Mr. James Shirley on his Royall Master.</head>
+      </front>
+      <body>
+
+         <l>I like some petty Brooke scarse worth a name,</l>
+         <l>Must yet pay tribute to thy full-stream'd fame,</l>
+         <l>But ile not strive, (as men sometimes) to raise</l>
+         <l>An uncouth structure to thy merits praise</l>
+         <l>From others ruines, thy just minde will scorne</l>
+         <l>To owne Encomiums so basely borne.</l>
+         <l>Therefore I write, what may become my free</l>
+         <l>Acknowledgement, and fit thy modestie.</l>
+         <l>Thy Muse I honor'd, e're I knew by sight</l>
+         <l>Thy person; oft I've seene with much delight</l>
+         <l>Thy sweete composures: but this last; and new</l>
+         <l>Smooth peece (which here hath grac'd the publicke view)</l>
+         <l>Claimes more regard; I give to all the rest</l>
+         <l>Their faire desert, but ranke this with thy best.</l>
+
+      </body>
+      <back>
+         <signed rend="smallcaps">T. I.</signed> 
+      </back>
+   </text>
+
     <text>
         <body>
             <head place="center">
@@ -179,4 +206,35 @@
             </div>
         </back>
     </text>
+   
+   <text>
+      <front>
+         <head>On M. <name rend="italic">James Shirley</name> his <title rend="italic">Royall Master</title>.</head>
+      </front>
+      <body>
+
+         <lg rend="italic">
+         <l>There are some men doe hold, there in a place</l>
+         <l>Cal'd Limbus Patrum, if such have the grace</l>
+         <l>To wave that Schifme, and Poetarum said</l>
+         <l>They of that faith had me a member made,</l>
+         <l>That Limbus I could have beleev'd thy braine</l>
+         <l>Where Beamont, Fletcher, Shakespeare, and a traine</l>
+         <l>Of glorious Poets in their active heate</l>
+         <l>Move in that Orbe, as in their former seate.</l>
+         <l>When thou began'st to give thy Master life,</l>
+         <l>Me thought I saw them all, with friendly strife</l>
+         <l>Each casting in his dose, Beamont his weight,</l>
+         <l>Shakespeare his mirth, and Fletcher his conceit,</l>
+         <l>With many more ingredients, with thy skill</l>
+         <l>So sweetely tempered, that the envious quill</l>
+         <l>And tongue of Critricks must both write and say,</l>
+         <l>They never yet beheld a smoother Play.</l>
+         </lg>
+      </body>
+      <back>
+         <signed rend="smallcaps">JAMES MERVYN.</signed> 
+      </back>      
+   </text>
+
 </TEI>
