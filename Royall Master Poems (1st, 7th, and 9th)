@@ -61,7 +61,8 @@
 
 <text>
       <front>
-         <head>On the <title rend="italic">Royall Master</title>, to his Friend the Author</head>
+         <head place="center"><l>On the <title rend="italic">Royall Master</title>, to his Friend </l>
+            <l>the Author</l></head>
       </front>
       <body>
 
@@ -84,7 +85,8 @@
   
  <text>
       <front>
-         <head>To my deserving Friend Mr. James Shirley on his Royall Master.</head>
+         <head place="center"><l>To my deserving Friend Mr. <name rend="italic">James Shirley</name></l>
+            <l>on his <title rend="italic">Royall Master</title>.</l></head>
       </front>
       <body>
 
@@ -113,7 +115,7 @@
         <body>
             <head place="center">
                 <l>To the Honour'd Author of the</l>
-                <l><name rend="italic">Royall Master</name>.</l>
+                <l><title rend="italic">Royall Master</title>.</l>
             </head>
 
             <lg rend="italic">
@@ -163,8 +165,6 @@
         </back>
     </text>
 
-
-
     <text>
         <body>
 
@@ -209,7 +209,7 @@
    
    <text>
       <front>
-         <head>On M. <name rend="italic">James Shirley</name> his <title rend="italic">Royall Master</title>.</head>
+         <head><l>On M. <name rend="italic">James Shirley</name> his <title rend="italic">Royall Master</title>.</l></head>
       </front>
       <body>
 
