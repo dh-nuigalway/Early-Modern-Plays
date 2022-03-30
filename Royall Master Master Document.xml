@@ -2755,7 +2755,7 @@
                 <l>He may be entertain'd, and were I Queene,</l>
                 <l>Perhaps he should be favorite to both;</l>
                 <l>And I would smile upon his services</l>
-                <l>In imitation of the King while he</l>
+                <l>In imitation of the <name rend="italic">King</name> while he</l>
                 <l>Preserv'd his modest duty and his distance.</l>
             </sp>
             
@@ -2768,13 +2768,13 @@
             <sp>
                 <speaker rend="italic">Domitilla</speaker>
                 <l>Tis a truth,</l>
-                <l>Nor is <name rend="italic">Montolto</name> yet my favorite.</l>
+                <l>Nor is <name rend="italic">Montalto</name> yet my favorite.</l>
             </sp>
             
             <sp>
                 <speaker rend="italic">Simphorosa</speaker>
                 <l>I hope shee's not so miserable to affect</l>
-                <l>The King, by whose directions I prepare</l>
+                <l>The <name rend="italic">King</name>, by whose directions I prepare</l>
                 <l>Her for <name rend="italic">Montalto</name>.</l>
             </sp>
            
@@ -2809,7 +2809,7 @@
             
             <sp>
                 <speaker rend="italic">Domitilla</speaker>
-                <l>You came not from the King with any message.</l>
+                <l>You came not from the <name rend="italic">King</name> with any message.</l>
             </sp>
             
             <sp>
@@ -2840,7 +2840,7 @@
             
             <sp>
                 <speaker rend="italic">Domitilla</speaker>
-                <l>Men must not love til they be one and twenty,</l>
+                <l>Men must not love till they be one and twenty,</l>
                 <l>They will be mad before they come to age else.</l>
             </sp>
             
@@ -2924,7 +2924,7 @@
             <sp>
                 <speaker rend="italic">Domitilla</speaker>
                 <l>And if my power may</l>
-                <l>Prevaile to doe you favour with the King</l>
+                <l>Prevaile to doe you favour with the <name rend="italic">King</name>,</l>
                 <l>Make your addresse.</l>
             </sp>
             
@@ -2962,19 +2962,19 @@
             <sp>
                 <speaker rend="italic">Domitilla</speaker>
                 <l>Admit not every Lord to trouble me,</l>
-                <l>I will take physicke, but Ile be observ'd</l>
+                <l>I will take physicke, but Ile be observ'd,</l>
                 <l>You may frame some excuse to Ladies too</l>
                 <l>That presse their visite.</l>
             </sp>
             
             <sp>
                 <speaker rend="italic">Iacamo</speaker>
-                <l>Tis the Duke.</l>
+                <l>Tis the <name rend="italic">Duke</name>.</l>
             </sp>
             
             <sp>
                 <speaker rend="italic">Domitilla</speaker>
-                <l>The Duke.</l>
+                <l>The <name rend="italic">Duke</name>.</l>
             </sp>
             
             <sp>
@@ -3006,7 +3006,7 @@
                 <speaker rend="italic">Duke</speaker>
                 <l>And till occasion ripen</l>
                 <l>My whole discharge for your faire entertainement,</l>
-                <l>Madam, be pleas'd to weare these Diamons,</l>
+                <l>Madam, be pleas'd to weare these Diamonds,</l>
                 <l>Which of themselves betray their want of lusture,</l>
                 <l>And come with an ambition to recover</l>
                 <l>Flame from your smile.</l>
@@ -3020,7 +3020,7 @@
             
             <stage place="center" type="enter">Enter Iacamo, whispers to Domitilla.</stage>
                       
-                <l>The King with wings,</l>
+                <l>The <name rend="italic">King</name> with wings,</l>
                 <l>Ile haste to meet him.</l>
             
             <stage type="exit">Exit Domitilla.</stage>
@@ -3030,7 +3030,7 @@
                 <l>Gone, and so abruptly</l>
                 <l>Her businesse might allow her breath to thanke me</l>
                 <l>For my rich present, but Ile follow her,</l>
-                <l>I wo'd not meet the King here, if shee prove</l>
+                <l>I wo'd not meet the <name rend="italic">King</name> here, if shee prove</l>
                 <l>Gentle, my heart I consecrate to love.</l>
             </sp>
             
@@ -3073,23 +3073,23 @@
                 
                 <sp>
                     <speaker rend="italic">Duke</speaker>
-                    <l>The King.</l>
+                    <l>The <name rend="italic">King</name>.</l>
                 </sp>
                 
                 <sp>
                     <speaker rend="italic">King</speaker>
-                    <l>The Duke, this confirmes it.</l>
+                    <l>The <name rend="italic">Duke</name>, this confirmes it.</l>
                 </sp>
                 
                 <sp>
                     <speaker rend="italic">Duke</speaker>
-                    <l>Vnlucky fate he has spied me.</l>
+                    <l>Unlucky fate he has spied me.</l>
                 </sp>
                 
                 <sp>
                     <speaker rend="italic">King</speaker>
                     <l>Thou shalt have</l>
-                    <l>A little patience, while the Duke and I</l>
+                    <l>A little patience, while the <name rend="italic">Duke</name> and I</l>
                     <l>Change some discourse in private.</l>
                 </sp>
                 
@@ -3102,7 +3102,7 @@
                 
                 <sp>
                     <speaker rend="italic">Duke</speaker>
-                    <l>He is sent off, I hope the King is not</l>
+                    <l>He is sent off, I hope the <name rend="italic">King</name> is not</l>
                     <l>In love with her himselfe.</l>
                 </sp>
                 
@@ -3175,7 +3175,7 @@
                 
                 <fw place="top=center" type="runninghead"> The Royall Master. </fw>
                 
-                <l>More for her honour, shee would mock no Prince</l>
+                <l>More for her honour, shee would mock no Prince,</l>
                 <l>I am not lost to <placeName rend="italic">Florence</placeName> yet, though I</l>
                 <l>Be <placeName rend="italic">Naples</placeName> guest, and I must tell him here</l>
                 <l>I came to meet with faire and Princely treaties</l>
@@ -3209,7 +3209,7 @@
                 
                 <sp>
                     <speaker rend="italic">King</speaker>
-                    <l>Are my sense perfect,</l>
+                    <l>Are my senses perfect,</l>
                     <l>Be clearer Sir, teach me to understand</l>
                     <l>This prodigie, you doe not scorne our sister?</l>
                 </sp>
