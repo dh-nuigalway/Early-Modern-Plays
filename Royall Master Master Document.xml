@@ -2746,7 +2746,438 @@
                     <fw type="catch" place="bottom-right"> I </fw>           
                    
                     <pb/>
-            </div>
+                    
+                    <fw place="top-center" type="runninghead" rend="italic">The Royall Master.</fw>
+         
+         <l>I onely shall bleed inward, and my life</l>
+         <l> Remove it selfe like a faire apparition</l>
+         <l> That vanishes to th'eye, and with lesse noise</l>
+         <l> Then a calme Summers evening, but when I</l>
+         <l> Am dead, tis not impossible, some may</l>
+         <l> Report <name rend="italic">Theodosia</name> was but revish'd from me;</l>
+         <l> Feare of a brothers anger, and the tricke</l>
+         <l> Of polliticke states, that marry to knit power</l>
+         <l> Not hearts, did force her to <name rend="italic">Herares</name> armes,</l>
+         <l> Whilst I, torne from the branch where I once grew,</l>
+         <l>Travell I know not whether in the aire.</l>
+         
+         <sp>
+            <speaker rend="italic">Riviero</speaker>
+            <l>I begin</l>
+            <l>To thinke him worth some pitty.</l>
+         </sp>
+                    
+         <sp>
+            <speaker rend="italic">Montalto</speaker>
+            <l>Into what</l>
+            <l>Vaine thing would the severe apprehension</l>
+            <l>Of greefe transforme us? coward, let the <name rend="italic">Duke</name></l>
+            <l>Move with all amorous haste to his delight,</l>
+            <l>And glory in the hope of his faire bride,</l>
+            <l>Mine by the gift of heaven, and hearts, but all</l>
+            <l>My flowers grow dully on their stalkes, and wither;</l>
+            <l>Let her gay Paranimphs with rosie Chaplets,</l>
+            <l>Which will take all their colour from her blush,</l>
+            <l>Attend on <name rend="italic">Theodosia</name> to the Temple,</l>
+            <l>While as they goe, no rude winde shall be heard,</l>
+            <l>But so much breath of heaven as gently may</l>
+            <l>Lifting their loose haire up, whisper my wrong</l>
+            <l>To every Virgins care, let them be married,</l>
+            <l>Knit hands, and plight a ceremonious faith;</l>
+            <l>Let all the triumphs waste, let them be wasted,</l>
+            <l>And night it selfe brib'd with a thousand formes</l>
+            <l>Of mirth and Revells, till the night grow faint</l>
+            <l>And pale with watching,</l>
+            <l>Invite to bed, yet there he shall enjoy</l>
+            <l>But <name rend="italic">Theodosiaes</name> body, and not that</l>
+            <l>As his faire thoughts expect, perhaps the conquest</l>
+            <l>Of one whom he loved better.</l>
+         </sp>
+                    
+         <stage place="right" type="exit">Exit <name>Montalto</name>.</stage>
+                    
+         <stage place="centre" type="entrance">Enter <name>Duke</name>.</stage>
+                    
+         <sp>
+            <speaker rend="italic">Riviero.</speaker>
+            <l>How was that.</l>
+         </sp>
+         
+         <fw rend="italic" type="catch" place="bottom-right"><name rend="italic">Duke</name>:</fw>
+         
+         <pb/>
+         
+         <fw place="top-center" type="runninghead" rend="italic">The Royall Master.</fw>
+         
+         
+         <sp>
+            <speaker rend="italic">Duke</speaker>
+            <l>Now shall I trust him? if my sense mistake not</l>
+            <l><name rend="italic">Theodosia</name> may not be a Virgin.</l>
+         </sp>
+                    
+         <sp>
+            <speaker rend="italic">Riviero</speaker>
+            <l>Twas</l>
+            <l>His bold conclusion.</l>
+         </sp>
+                    
+         <sp>
+            <speaker rend="italic">Duke</speaker>
+            <l> Where is now the honour</l>
+            <l> You talke of, durst <name rend="italic">Montalto</name> charge her with</l>
+            <l> This staine, without his conscience to assure it.</l>
+         </sp>
+                    
+         <sp>
+            <speaker rend="italic">Riviero</speaker>
+            <l>Yes, and to me this tenders him the more</l>
+            <l>To be suspected and I am so farre</l>
+            <l>From thinking shee affects <name rend="italic">Montalto</name>, that</l>
+            <l>I am convinc'd he loves her not; can he</l>
+            <l>Have any noble thought of <name rend="italic">Theodosia</name>,</l>
+            <l> That dares traduce her honour, thinke o' that,</l>
+            <l>And can revenge in any lover be?</l>
+            <l>A reason to wound a Ladies fame, it tasts</l>
+            <l>Of ranke injustice, and some other end</l>
+            <l>Time will discover, and yet your grace is bound</l>
+            <l>To have his accusation confirm'd,</l>
+            <l>Or hant this spotted panther to his ruine,</l>
+            <l> Whose breath is onely sweete to poyson vertue.</l>
+         </sp>
+                    
+         <sp>
+            <speaker rend="italic"> Duke</speaker>
+            <l>What I resolve inquire not.</l>
+         </sp>
+                    
+         <stage place="right" type="exit">Exit <name>Duke</name>.</stage>
+                    
+         <sp>
+            <speaker rend="italic">Riviero</speaker>
+            <l>I see throw</l>
+            <l><name rend="italic">Montaltoes</name> soule, and have beene so long tame</l>
+            <l>In my owne sufferings; but this will make</l>
+            <l>Him ripe for punishment, <name rend="italic">Andrugio</name> and</l>
+            <l>My sonne.</l>
+         </sp>
+                    
+         <stage place="centre" type="entrance"> Enter <name>Andrugio</name>,<name>Octavio</name>.</stage>
+                    
+         <sp>
+            <speaker rend="italic">Octavio</speaker>
+            <l>I cannot with the wings of duty</l>
+            <l> Fly swift enough to prostrate my obedience</l>
+            <l>And welcome from a long supposed death,</l>
+            <l> My honourd father.</l>
+         </sp>
+                    
+         <sp>
+            <speaker rend="italic">Riviero</speaker>
+            <l>Then I must appeare so.</l>
+         </sp>
+                    
+         <sp>
+            <speaker rend="italic">Andrugio</speaker>
+            <l> And let me give a sonne up to your blessing</l>
+            <l> Worthy your best prayers, and embrace, twas time</l>
+            <l> To bring you acquainted, he had else this night</l>
+            <l> Contriv'd <name rend="italic">Montaltoes</name> tragedie at a Banquet,</l>
+            <l> For your revenge his active thoughts I could not</l>
+            <l>Counsell no longer patience. </l>
+         </sp>
+         
+         <fw type="catch" place="bottom-right"><name rend="italic">Riviero</name>:</fw>
+         
+         <pb/>
+     
+         <fw place="top-center" type="runninghead">The Royall Master.</fw>
+         
+         <sp>
+            <speaker rend="italic">Riviero</speaker>
+            <l> Thou hast but</l>
+            <l>Prevented me <name rend="italic">Octavio</name>, I was</l>
+            <l> Weary of my concealement.</l>
+         </sp>
+                    
+         <sp>
+            <speaker rend="italic">Octavio</speaker>
+            <l> But my joyes are wilde,</l>
+            <l> And will I feare, transport me.</l>
+         </sp>
+                    
+         <sp>
+            <speaker rend="italic">Riviero</speaker>
+            <l> My best friend,</l>
+            <l> And my owne spirited boy, feare not <name rend="italic">Montalto</name>;</l>
+            <l> Hee's now upon a precipice, his fate</l>
+            <l> Stoopes with the glorious burden of his pride.</l>
+            <l> Things may be worth our counsell, we shall see</l>
+            <l> This prodigie that would be held a Starre,</l>
+            <l>And did so fright us with his streaming haire,</l>
+            <l> Drop like a Comet, and be lost i'th aire.</l>
+         </sp>
+                    
+         <stage place="right" type="exit">Exeunt.</stage>
+                    
+         <stage place="centre" type="entrance">Enter <name>Montalto</name>, <name>Theodosia</name>.</stage>
+                    
+         <sp>
+            <speaker rend="italic">Montalto</speaker>
+            <l> Ist possible the day should be so old,</l>
+            <l> And not a visite from the Duke.</l>
+         </sp>
+                    
+         <sp>
+            <speaker rend="italic">Theodosia</speaker>
+            <l>While he</l>
+            <l>Injoyes health, I shall easily forgive</l>
+            <l> A little ceremony.</l>
+         </sp>
+                    
+         <sp>
+            <speaker rend="italic">Montalto</speaker>
+            <l>And a lover,</l>
+            <l>Your grace must chide him, other men may have</l>
+            <l>Excuse for their neglect of time, but he</l>
+            <l>That loves deserves no pardon.</l>
+         </sp>
+                    
+         <sp>
+            <speaker rend="italic">Theodosia</speaker>
+            <l>Judge with charity</l>
+            <l> My Lord, the case may be your owne, you would</l>
+            <l>Thinke her a cruell mistresse, that should doome</l>
+            <l>Your life to exile, for not payment of</l>
+            <l>One ceremonious visite.</l>
+         </sp>
+                    
+         <sp>
+            <speaker rend="italic"> Montalto</speaker>
+            <l> Not where such</l>
+            <l> Perfection were to ingage my service Madam,</l>
+            <l> Pardon the bold comparison, death were not</l>
+            <l> Enough to punish that rude thought that could</l>
+            <l> Start from your bright Idea, or converse</l>
+            <l> With praters that did not first concerne your excellence,</l>
+            <l> I would not be ambitious of a blessing</l>
+            <l> But from reflex of yours.</l>
+         </sp>
+                    
+         <sp>
+            <speaker rend="italic">Theodosia</speaker>
+            <l>You would expresse</l>
+            <l>A most officious servant to that Lady </l>
+         </sp>
+         
+         <fw type="catch" place="bottom-right">Were</fw>
+        
+         <pb/>
+         
+         <fw place="top-center" type="runninghead" rend="italic">The Royall Master.</fw>
+         
+         <sp>
+            <l>Were honourd in your thought, but the <name>Duke of <placeName rend="italic">Florence</placeName></name></l>
+            <l>And I shall make no such severe conditions.</l>
+         </sp>
+         
+         <sp>
+            <speaker rend="italic">Montalto</speaker>
+            <l> If he doe love you Madam that will teach him</l>
+            <l>Above what ceremony prescribes to honour you.</l>
+         </sp>
+         
+         <sp>
+            <speaker rend="italic">Theodosia</speaker>
+            <l>If he doe love.</l>
+         </sp>
+         
+         <sp>
+            <speaker rend="italic">Montalto</speaker>
+            <l>Your graces pardon; I</l>
+            <l>Speake from an honest freedome taken from</l>
+            <l>The assurance of your goodnesse, that know better</l>
+            <l>How to distinguish truth, I am not judge</l>
+            <l>Of his breast Madam.</l>
+         </sp>
+         
+         <sp>
+            <speaker rend="italic">Theodosia</speaker>
+            <l>I suppose you are not.</l>
+         </sp>
+                    
+         <sp>
+            <speaker rend="italic">Montalto</speaker>
+            <l>And yet being a man another way</l>
+            <l>Conclude his passions are but such as have</l>
+            <l>Beene read in humane nature.</l>
+         </sp>
+         
+         <sp>
+            <speaker rend="italic">Theodosia</speaker>
+            <l>What inferre you</l>
+            <l>From hence my Lord?</l>
+         </sp>
+         
+         <sp>
+            <speaker rend="italic">Montalto</speaker>
+            <l>Nothing but that a Prince</l>
+            <l>May be no Saint in love.</l>
+         </sp>
+         
+         <sp>
+            <speaker rend="italic">Theodosia</speaker>
+            <l>Howe's that?</l>
+         </sp>
+         
+         <sp>
+            <speaker rend="italic">Montalto</speaker>
+            <l>Twas in my feare I should displease.</l>
+         </sp>
+         
+         <sp>
+            <speaker>Theodosia</speaker>
+            <l>Your will.</l>
+         </sp>
+         
+         <sp>
+            <speaker rend="italic">Montalto</speaker>
+            <l>Not for the Empire of the world, I shall</l>
+            <l>Repent I live with your suspition</l>
+            <l>Upon my humbl'd soule.</l>
+         </sp>
+         
+         <sp>
+            <speaker rend="italic">Theodosia</speaker>
+            <l>Pray Sir be free</l>
+            <l>Touching the <name rend="italic">Duke</name>, I must know all, what ist</l>
+            <l>Makes him no Saint.</l>
+         </sp>
+         
+         <sp>
+            <speaker rend="italic">Montalto</speaker>
+            <l>Madam he is not dead,</l>
+            <l>And in his life I see no miracles.</l>
+         </sp>
+                    
+         <sp>
+            <speaker rend="italic">Theodosia</speaker>
+            <l>You talk'd of love.</l>
+         </sp>
+         
+         <sp>
+            <speaker rend="italic">Montalto</speaker>
+            <l>No miracles of love,</l>
+            <l>He loves as other men that have profest</l>
+            <l>Devotion to a mistresse—but</l>
+         </sp>
+         
+         <sp>
+            <speaker rend="italic">Theodosia</speaker>
+            <l>What? speake</l>
+            <l>I charge thee by the memory of what</l>
+            <l>Thou dost affect most.</l>
+         </sp>
+         
+         <sp>
+            <speaker rend="italic">Montalto</speaker>
+            <l>Though it wound my selfe</l>
+            <l>Be arm'd and heare it, how I blush within me,</l>
+         </sp>
+         
+         
+         <fw type="catch" place="bottom-right">To</fw>
+         
+         <pb/>
+         
+         <fw place="top-center" type="runninghead" rend="italic">The Royall Master.</fw>
+
+         <sp>
+            <l>To tell your highnesse <placeName rend="italic">Florence</placeName> has transplanted</l>
+            <l>His heart, and all his active thoughts are plac'd.</l>
+         </sp>
+
+         <sp>
+            <speaker rend="italic">Theodosia</speaker>
+            <l>On whom?</l>
+         </sp>
+
+         <sp>
+            <speaker rend="italic">Montalto</speaker>
+            <l>On <name rend="italic">Domitilla</name>.</l>
+         </sp>
+
+         <sp>
+            <speaker rend="italic">Theodosia</speaker>
+            <l>Ha.</l>
+         </sp>
+
+         <sp>
+            <speaker rend="italic">Montalto</speaker>
+            <l> I did observe 'em Madam, at her mothers house,</l>
+            <l> Where we were lately feasted after hunting,</l>
+            <l> How strangely he was taken, how his eyes</l>
+            <l> Did wanton with her face, and on her haire</l>
+            <l> Tie many golden knots, to keepe love chainde,</l>
+            <l>But these are but suspitions, he since</l>
+            <l>Confest to me in hope to winne me to</l>
+            <l>Negotiate his affaire, how at first sight</l>
+            <l>He tooke in desperate flames, and that shee rules</l>
+            <l>The intelligence of his soule; I heare the <name rend="italic">King</name></l>
+            <l>Hath sent for her to Court, which must give Madam</l>
+            <l>A dangerous opportunity to actuate</l>
+            <l>His ends with your dishonour, I was unwilling</l>
+            <l>To speake this knowledge of his hasty change,</l>
+            <l>But all my bonds of piety and faith</l>
+            <l>Would have beene forfeit into a long silence.</l>
+         </sp>
+
+         <sp>
+            <speaker rend="italic">Theodosia</speaker>
+            <l>Shall I be thus affronted.</l>
+         </sp>
+
+         <sp>
+            <speaker rend="italic">Montalto</speaker>
+            <l>We see Princes,</l>
+            <l>Whom we call gods on earth, in the affaires</l>
+            <l>Of love turne men agen.</l>
+         </sp>
+
+         <sp>
+            <speaker rend="italic">Theodosia</speaker>
+            <l>For <name rend="italic">Domitilla</name>.</l>
+         </sp>
+
+         <sp>
+            <speaker rend="italic">Montalto</speaker>
+            <l>That's the dishonour Madam, and infects</l>
+            <l>My braine to thinke on't, and as much beneath</l>
+            <l>Your grace in all the ornaments of soule</l>
+            <l>And person as shee is in b[*]ood, if my</l>
+            <l>Impartiall thoughts may take so bold commission</l>
+            <l>To judge betweene your beauties.</l>
+         </sp>
+
+         <sp>
+            <speaker rend="italic">Theodosia</speaker>
+            <l>Is it possible.</l>
+         </sp>
+
+         <sp>
+            <speaker rend="italic">Montalto</speaker>
+            <l>Tis too certaine Madam, I should be</l>
+            <l>A villaine to accuse the Duke unjustly,</l>
+            <l>Or bring but shaddowes of a truth, for though</l>
+            <l>He be unworthy of your love that dares</l>
+            <l>Thus valew your perfections, below</l>
+         </sp>
+
+         <fw type="catch" place="bottom-right">That</fw>
+                    
+         <pb/>
+                    
+        </div>
         </body>
     </text>
 </TEI>
