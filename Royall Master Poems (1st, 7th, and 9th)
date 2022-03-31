@@ -21,8 +21,57 @@
    </teiHeader>
    
        <text>
-        <body>
+        
 
+        <front>
+           <head>To the Right Honorable, GEORGE Earle of <placeName rend="italic">Kildare</placeName>,
+            Baron of <placeName rend="italic">Ophalie</placeName>, and Primier Earle of the Kingdome
+            of <placeName rend="italic">Ireland</placeName>.</head>
+          </front>
+
+         
+          <body>  <l>My Lord,</l>
+
+            <l>I</l>
+            <l> T was my happinesse be∣ing</l>
+            <l> a stranger in this</l>
+            <l>kingdome, to kisse your</l>
+            <l> Lordships hands, to</l>
+            <l> which your noblenesse,</l>
+            <l> and my owne ambition</l>
+            <l> encourag'd me, nor was</l>
+            <l> it without justice to your name, to tender the</l>
+            <l>first fruits of my observance to your Lordship,</l>
+            <l>whom this Island acknowledgeth her</l>
+            <l>first native Ornament and top branch of Ho∣nour.</l>
+            <l>Be pleased now my most honorable</l>
+            <l> Lord, since my Affaires in <placeName rend="italic">England</placeName> hasten
+               my</l>
+            <l> departure, and prevent my personall attendance,</l>
+
+            <fw type="catch" place="bottom-right">that</fw>
+
+            <pb/>
+
+            <l> that something of me may be honourd</l>
+            <l> to waite upon you in my absence, this Poeme;</l>
+            <l> tis new, and never yet personated, but expected</l>
+            <l> with the first, when the English</l>
+            <l> Stage shall bee recovered from her long si∣lence,</l>
+            <l> and her now languishing scene chan∣ged</l>
+            <l> into a welcome returne of wits and men;</l>
+            <l> And when by the favour of the winds and</l>
+            <l> Sea, I salute my Country againe, I shall report</l>
+            <l> a story of the Irish honour, and hold my selfe</l>
+            <l> not meanely fortunate to have beene written</l>
+            <l> and receiv'd</l>
+
+            <l> The humblest of your</l>
+            <l> Lordships servants.</l>
+           <back>
+                 <signed>JAMES SHIRLEY.</signed>
+             </back>
+           
             <head place="center">
                 <l>To me Ingenious Friend, <name rend="italic">James Shir</name></l>
                 <l><name rend="italic">ley</name>, upon his <title rend="italic">Royall
