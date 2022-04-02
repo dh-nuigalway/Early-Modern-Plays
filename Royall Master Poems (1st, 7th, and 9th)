@@ -116,12 +116,12 @@
 </front>
         <body>
             <lg rend="italic">
-                <l> VVHen <name rend="roman">Spencer</name> reign'd sole Prince of Poets here, </l>
+                <l> WHen <name rend="roman">Spencer</name> reign'd sole Prince of Poets here, </l>
                 <l> As by his Fairy Queene doth well appeare </l>
                 <l> There was not one so blind, so bold a Bard, </l>
                 <l> So ignorantly proud or foolish-hard </l>
                 <l> To encounter his sweete Muse; for <name rend="roman">Phoebus</name> vow'd </l>
-                <l> A sharp, revenge on him should be so proud; </l>
+                <l> A sharp: revenge on him should be so proud; </l>
                 <l> And when my Shirley from the Albion shore </l>
                 <l> Comes laden with the Muses, all their store </l>
                 <l> Transferres to <placeName rend="roman">Dublin</placeName>, full <name rend="roman">Parnassus</name> brings, </l>
@@ -137,7 +137,7 @@
                 <l> Truly legitimate, <placeName rend="roman">Ireland</placeName> is so just </l>
                 <l> To say, you rise the Phenix of his dust, </l>
                 <l> And since thy <name rend="roman">Royall Master</name> won so much</l>
-                <l> On each Iudicious and hath stood the touch, </l>
+                <l> On each Judicious and hath stood the touch, </l>
                 
                 <fw type="catch" place="bottom-right"> Tis </fw>  
                 <pb/>
@@ -217,8 +217,8 @@
                 <l> Whose votes Grand-jurors are, and onely have </l>
                 <l> The well knowne power either to kill or save, </l>
                 <l> Give this a noble greeting and its due, </l> 
-            <l> May <name rend="italic"> Phoebus </name> else, withdraw his beames from you. </l> 
-            <l> My worthy Friend, this play 'oth publicke Stage </l>
+                <l> May <name rend="italic"> Phoebus </name> else, withdraw his beames from you. </l> 
+                <l> My worthy Friend, this play 'oth publicke Stage </l>
                 <l> Hath gain'd such faire applause, as't did engage </l>
                 <l> A nation to thy Muse, where thou shalt raigne </l>
                 <l> (His darling Ben deceased) tho should'st be </l>
@@ -226,7 +226,7 @@
             </lg>
         </body>
         <back>
-            <signed rend="smallcaps">W.Markham.</signed>
+            <signed rend="smallcaps">W. Markham.</signed>
        </back>
    </text>
    
@@ -295,10 +295,10 @@
                 <l> ALL these thy friends subscribing to thy praise </l>
                 <l> And faire deservings, have done well, 'twill raise </l>
                 <l> Opinion in the readers, and engage </l>
-                <l> Them to peruse, what wee saw on the Satage. </l>
+                <l> Them to peruse, what wee saw on the Stage. </l>
                 <l> If knowing ones, their judgement thus will be </l>
-            <l> The Commondation's short, the Comedy </l> 
-            <l> Speakes better for it selfe, more home; but yet </l>
+                <l> The Commendation's short, the Comedy </l> 
+                <l> Speakes better for it selfe, more home; but yet </l>
                 <l> My vote must goe, I say no purer wit </l>
                 
                 <fw type="catch" place="bottom-right"> Did </fw>           
