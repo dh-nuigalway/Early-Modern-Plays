@@ -3180,7 +3180,7 @@
 					
 					<fw place="top-center" type="runninghead">The Royall Master.</fw>
          
-						<l>That Phantome <name rend="italic">Domitilla</name>, let not passion</l>
+						<sp><l>That Phantome <name rend="italic">Domitilla</name>, let not passion</l>
 						<l>Make you to rash in managing a cause,</l>
 						<l>On which depends your fame, compared to which</l>
 						<l>Ten thousand lives added to mine were nothing,</l>
@@ -4078,7 +4078,7 @@
                 <sp>
                     <speaker rend="italic">King</speaker>
                     <l>That were onely</l>
-                    <l>To doubt, I must be plaine, <namePlace rend="italic">Florence</namePlace> has not</l>
+                    <l>To doubt, I must be plaine, <placeName rend="italic">Florence</placeName> has not</l>
                     <l>Beene kind to <placeName rend="italic">Naples</placeName> to reward us with</l>
                     <l>Affront for love, and <name rend="italic">Theodosia</name> must not</l>
                     <l>Be any Princes mockery.</l>
@@ -5296,7 +5296,7 @@
                 <speaker rend="italic">King</speaker>
                 <l>Yes, yes, we may be all cozend,</l>
                 <l>And therefore let her passe among things desperate,</l>
-            </sp>
+            
 
             <fw type="catch" place="bottom-right">Yet</fw>
 
@@ -6365,7 +6365,7 @@
             
             <pb/>
                  
-			      <fw place="top-center" type="runninghead" rend="italic>The Royall Master.</fw>
+			      <fw place="top-center" type="runninghead" rend="italic">The Royall Master.</fw>
          <sp>
             <speaker rend="italic">Riviero</speaker>
             <l>Lord <name rend="italic">Montalto</name>, Sir.</l>
@@ -6405,7 +6405,7 @@
             <speaker rend="italic"> Montalto</speaker>
             <l>Where should honour</l>
             <l>Shine with his pure and native lustre but</l>
-            <l>Where there is such a <name rend="italic>King</name>, so good, so great,</l>
+            <l>Where there is such a <name rend="italic">King</name>, so good, so great,</l>
             <l>The example and reward, he must be</l>
             <l>A rebell twice to vertue that can live</l>
             <l>To be convinc'd of a dishonour neare</l>
@@ -6422,7 +6422,7 @@
          <sp>
             <speaker rend="italic">Riviero</speaker>
             <l>So, so,</l>
-            <l>The <name rend="italic>King</name> is charm'd.</l>
+            <l>The <name rend="italic">King</name> is charm'd.</l>
          </sp>
          <sp>
             <speaker rend="italic"> Octavio</speaker>
@@ -6802,7 +6802,7 @@
         </body>
         
       <back>
-        <div type="signature" place="center" rend="italic">FINIS.</div>
+        <signed>FINIS.</signed>
       </back>
                 
     </text>
@@ -6861,7 +6861,6 @@
       </body>
       <back>
          <signed>FINIS.</signed>
-          
-        </body>
+          </back>
     </text>
 </TEI>
