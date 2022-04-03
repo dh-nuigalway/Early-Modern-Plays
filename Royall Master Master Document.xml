@@ -25,7 +25,7 @@
         <body>
             <div type="act" n="1">
 
-                <head>THE <sic>FISRT</sic> ACT.</head>
+                <head>THE FIRST ACT.</head>
 
                 <stage place="centre" type="entrance" rend="italic">Enter <name>King of
                             <placeName>Naples</placeName></name> , the <name>Duke of
@@ -1430,7 +1430,7 @@
             </div>
             
             <div type="act" n="2">
-                <head>The Second Act.</head>
+                <head>THE SECOND ACT.</head>
 
                 <stage place="center">Bombo, Iacamo.</stage>
 
@@ -5603,7 +5603,7 @@
 
                   </div>
                      <div type="act" n="5">
-                        <head>The FIFTH Act.</head>
+                        <head>THE FIFTH ACT.</head>
 
                         <stage place="centre" type="enter" rend="italic">Enter <name>Simphorosa</name>,
                            <name>Theodosia</name>, <name rend="italic">Domitilla</name>.</stage>
