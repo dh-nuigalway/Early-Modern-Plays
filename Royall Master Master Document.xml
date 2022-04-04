@@ -25,7 +25,7 @@
         <body>
             <div type="act" n="1">
 
-                <head>THE FIRST Act.</head>
+                <head>THE FIRST ACT.</head>
 
                 <stage place="centre" type="entrance" rend="italic">Enter <name>King of
                             <placeName>Naples</placeName></name> , the <name>Duke of
@@ -39,7 +39,7 @@
                 </sp>
 
                 <sp>
-                    <speaker rend="italic">Ki ng</speaker>
+                    <speaker rend="italic">King</speaker>
                     <l>You shew the bounty</l>
                     <l>Of your opinion, my extent in</l>
                     <l>all things</l>
