@@ -70,7 +70,7 @@
                     <l n="17"> Beget another sigh, she was long since blest </l>
                 </sp>
 
-                <fw type="catch" place="bottom-right"><name rend="italic" full="yes" instant="false">Cesaria</name></fw>
+                <fw type="catch" place="bottom-right" rend="italic">Cesaria</fw>
 
                 <pb/>
 
@@ -156,7 +156,7 @@
                     <l n="54">Tis our happinesse.</l>
                 </sp>
 
-                <fw type="catch" place="bottom-right"><name rend="italic" full="yes" instant="false">Montalto.</name></fw>
+                <fw type="catch" place="bottom-right" rend="italic">Montalto</fw>
 
                 <pb/>
 
@@ -337,7 +337,8 @@
 
                 <pb/>
 
-                <fw place="top=center" type="runninghead"> The Royall Master. </fw>
+                <fw place="top=center" type="runninghead">The Royall Master.</fw>
+               
                 <sp>
                     <l n="131">The pleasures of a Forrest.</l>
                 </sp>
@@ -445,11 +446,12 @@
                     <l n="168">Vnwilling I should grow to write full man,</l>
                 </sp>
 
-                <fw type="catch" place="bottom-right"> To </fw>
+                <fw type="catch" place="bottom-right">To</fw>
 
                 <pb/>
 
-                <fw place="top=center" type="runninghead"> The Royall Master. </fw>
+                <fw place="top=center" type="runninghead">The Royall Master.</fw>
+              
                 <sp>
                     <l n="169"> To take revenge upon that polititian, </l>
                     <l n="170"> Our Protean favourite. </l>
@@ -533,7 +535,7 @@
                     <l n="206"> The King himselfe for his fake gracing me </l>
                 </sp>
 
-                <fw type="catch" place="bottom-right"> What </fw>
+                <fw type="catch" place="bottom-right">With</fw>
 
                 <pb/>
 
@@ -778,7 +780,7 @@
                     <l n="280">I heare you are an understanding Secretary.</l>
                 </sp>
 
-                <fw type="catch" place="bottom-right" rend="italic"><name full="yes" instant="false">Bombo</name></fw>
+                <fw type="catch" place="bottom-right" rend="italic">Bombo</fw>
 
                 <pb/>
 
@@ -1007,7 +1009,7 @@
                     <l n="355">A womans curiositie.</l>
                 </sp>
 
-                <fw type="catch" place="bottom-right" rend="italic"><name full="yes" instant="false">Guido</name></fw>
+                <fw type="catch" place="bottom-right" rend="italic">Guido</fw>
 
                 <pb/>
 
@@ -1200,7 +1202,7 @@
                     <l n="426">Where?</l>
                 </sp>
 
-                <fw type="catch" place="bottom-right"><name rend="italic" full="yes" instant="false">Octavio</name>.</fw>
+                <fw type="catch" place="bottom-right" rend="italic">Octavio</fw>
 
                 <pb/>
 
@@ -1285,7 +1287,7 @@
                     <l n="463">The <name rend="italic" full="yes" instant="false">King</name> is come already.</l>
                 </sp>
 
-                <fw rend="italic" type="catch" place="bottom-right">Enter.</fw>
+                <fw rend="italic" type="catch" place="bottom-right">Enter</fw>
 
                 <pb/>
 
@@ -1476,7 +1478,7 @@
                     <l n="26">Or <name rend="italic" full="yes" instant="false">Venus Dandeprat</name> to usher in</l>
                 </sp>
 
-                <fw rend="italic" type="catch" place="bottom-right">Some</fw>
+                <fw type="catch" place="bottom-right">Some</fw>
 
                 <pb/>
 
@@ -1598,7 +1600,7 @@
                     <l n="62"> I understand Greeke wine, Ile lose no time.</l>
                 </sp>
 
-                <fw rend="italic" type="catch" place="bottom-right"><name rend="italic" full="yes" instant="false">Bombo</name></fw>
+                <fw rend="italic" type="catch" place="bottom-right">Iacamo</fw>
 
                 <pb/>
 
@@ -1949,7 +1951,7 @@
                     <l n="173">Sir, I doe love.</l>
                 </sp>
 
-                <fw place="bottom-right" type="catch" rend="italic"><name full="yes" instant="false">King</name></fw>
+                <fw place="bottom-right" type="catch" rend="italic">King</fw>
 
                 <pb/>
 
@@ -2275,7 +2277,7 @@
 
                 <pb/>
 
-                <fw place="top=center" type="runninghead"> The Royall Master. </fw>
+                <fw place="top=center" type="runninghead">The Royall Master.</fw>
 
                 <sp>
                     <l n="325"> Ridiculous in <placeName rend="italic" instant="false" full="yes">Naples</placeName>. </l>
@@ -2362,14 +2364,14 @@
                     <l n="362">Tis feare it should arrive at the King knowledge.</l>
                 </sp>
 
-                <fw type="catch" place="bottom-right"> In </fw>
+                <fw type="catch" place="bottom-right">In</fw>
 
                 <pb/>
 
-                <fw place="top=center" type="runninghead"> The Royall Master. </fw>
+                <fw place="top=center" type="runninghead">The Royall Master.</fw>
 
                 <sp>
-                    <l n="363"> In whose displeasure shee is lost and now </l>
+                    <l n="363"> In whose displeasure shee is lost and not </l>
                     <l n="364"> A will to mocke your grace, for whom there is </l>
                     <l n="365"> Another wound within her minde, that shee </l>
                     <l n="366"> Should weare a smiling summer in her brow </l>
@@ -2457,11 +2459,11 @@
                     <l n="398"> Depend upon me for a husband. </l>
                 </sp>
 
-                <fw type="catch" place="bottom-right"> Domitilla </fw>
+                <fw type="catch" place="bottom-right" rend="italic">Domitilla</fw>
 
                 <pb/>
 
-                <fw place="top=center" type="runninghead"> The Royall Master. </fw>
+                <fw place="top=center" type="runninghead">The Royall Master.</fw>
 
                 <sp>
                     <speaker rend="italic"> Domitilla </speaker>
@@ -2552,15 +2554,15 @@
                     <l n="26"> Then the King. </l>
                 </sp>
 
-                <fw type="catch" place="bottom-right"> Duke </fw>
+                <fw type="catch" place="bottom-right" rend="italic">Duke</fw>
 
                 <pb/>
 
-                <fw place="top=center" type="runninghead"> The Royall Master. </fw>
+                <fw place="top=center" type="runninghead">The Royall Master.</fw>
 
                 <sp>
                     <speaker rend="italic">Duke</speaker>
-                    <l n="27"> He knowes not, and I have boud my selfe in honour, </l>
+                    <l n="27"> He knowes not, and I have bound my selfe in honour, </l>
                     <l n="28"> Not to betray, if they be decreed </l>
                     <l n="29"> To make a marriage, a soft destiny </l>
                     <l n="30"> Attend their loves. </l>
@@ -2656,14 +2658,14 @@
                     <l n="62"> The Princesse? shee is in health, why this to me, </l>
                 </sp>
 
-                <fw type="catch" place="bottom-right"> Hee </fw>
+                <fw type="catch" place="bottom-right">Shee</fw>
 
                 <pb/>
 
-                <fw place="top=center" type="runninghead"> The Royall Master. </fw>
+                <fw place="top=center" type="runninghead">The Royall Master.</fw>
 
                 <sp>
-                    <l n="63"> Hee is of inward counsell with the Duke, </l>
+                    <l n="63"> Shee is of inward counsell with the Duke, </l>
                     <l n="64"> I must be resolute. </l>
                 </sp>
 
@@ -2735,7 +2737,7 @@
                     <l n="100"> With as much silence as I goe to sleepe, </l>
 
                 </sp>
-                <fw type="catch" place="bottom-right"> I </fw>
+                <fw type="catch" place="bottom-right">I</fw>
 
                 <pb/>
 
@@ -2795,7 +2797,7 @@
                     <l n="137">How was that.</l>
                 </sp>
 
-                <fw rend="italic" type="catch" place="bottom-right"><name rend="italic" full="yes" instant="false">Duke</name>:</fw>
+                <fw rend="italic" type="catch" place="bottom-right">Duke</fw>
 
                 <pb/>
 
@@ -2880,7 +2882,7 @@
                     <l n="174">Counsell no longer patience. </l>
                 </sp>
 
-                <fw type="catch" place="bottom-right"><name rend="italic" full="yes" instant="false">Riviero</name>:</fw>
+                <fw type="catch" place="bottom-right" rend="italic">Riviero</fw>
 
                 <pb/>
 
@@ -3078,7 +3080,6 @@
                     <l n="248">Though it wound my selfe</l>
                     <l n="249">Be arm'd and heare it, how I blush within me,</l>
                 </sp>
-
 
                 <fw type="catch" place="bottom-right">To</fw>
 
@@ -3665,7 +3666,7 @@
 
                 <pb/>
 
-                <fw place="top=center" type="runninghead"> The Royall Master. </fw>
+                <fw place="top=center" type="runninghead">The Royall Master.</fw>
 
                 <sp>
                     <speaker rend="italic">Domitilla</speaker>
@@ -3771,11 +3772,11 @@
                     <l n="510">A happy expectation, we are both</l>
                 </sp>
 
-                <fw type="catch" place="bottom-right"> Young </fw>
+                <fw type="catch" place="bottom-right">Young</fw>
 
                 <pb/>
 
-                <fw place="top=center" type="runninghead"> The Royall Master. </fw>
+                <fw place="top=center" type="runninghead">The Royall Master.</fw>
 
                 <l n="511">Young, we may choose each other Valentine</l>
                 <l n="512">And couple, as we grow more ripe hereafter.</l>
@@ -3864,11 +3865,11 @@
                     <l n="548">Expect his royall presence, how shall I</l>
                 </sp>
 
-                <fw type="catch" place="bottom-right"> Behave </fw>
+                <fw type="catch" place="bottom-right">Behave</fw>
 
                 <pb/>
 
-                <fw place="top=center" type="runninghead"> The Royall Master. </fw>
+                <fw place="top=center" type="runninghead">The Royall Master.</fw>
 
                 <l n="549">Beahve my lookes when he declares himselfe.</l>
 
@@ -3969,7 +3970,7 @@
                     <l n="2">My guest, tis fit whom I have made my charge</l>
                 </sp>
 
-                <fw type="catch" place="bottom-right"> Should </fw>
+                <fw type="catch" place="bottom-right">Should</fw>
 
                 <pb/>
 
@@ -4091,11 +4092,11 @@
                     <l n="39">Take boldnesse too, and tell you Sir it were</l>
                 </sp>
 
-                <fw type="catch" place="bottom-right"> More </fw>
+                <fw type="catch" place="bottom-right">More</fw>
 
                 <pb/>
 
-                <fw place="top=center" type="runninghead"> The Royall Master. </fw>
+                <fw place="top=center" type="runninghead">The Royall Master.</fw>
 
                 <l n="40">More for her honour, shee would mock no Prince,</l>
                 <l n="41">I am not lost to <placeName rend="italic" instant="false" full="yes">Florence</placeName> yet, though I</l>
@@ -4165,7 +4166,7 @@
                     <l n="77">Framed to abuse my sister, and your selfe,</l>
                 </sp>
 
-                <fw type="catch" place="bottom-right"> Have </fw>
+                <fw type="catch" place="bottom-right">Have</fw>
 
                 <pb/>
 
@@ -4249,9 +4250,7 @@
 
                 <stage type="exit" place="right" rend="italic">Exit <name full="yes" instant="false">Duke</name>.</stage>
 
-                <fw type="catch" place="bottom-right">
-                    <name rend="italic" full="yes" instant="false">King:</name>
-                </fw>
+                <fw type="catch" place="bottom-right" rend="italic">King</fw>
 
                 <pb/>
 
@@ -4259,7 +4258,7 @@
 
                 <sp>
                     <speaker rend="italic">King</speaker>
-                    <l n="116">I doe grow faint with wonder</l>
+                    <l n="116">I doe grow faint with wonder: here's enough</l>
                     <l n="117">To blast an apprehension, and shoote</l>
                     <l n="118">A quaking hrough the valiane soule of man,</l>
                     <l n="119">My sisters blood accus'd, and her faire name</l>
@@ -4809,7 +4808,7 @@
                     <l n="337">We doe not use to limit his devotions.</l>
                 </sp>
 
-                <fw type="catch" place="bottom-right" rend="italic">Riviero:</fw>
+                <fw type="catch" place="bottom-right" rend="italic">Riviero</fw>
 
                 <pb/>
 
@@ -4929,7 +4928,7 @@
                     <l n="374">A little busie Sir.</l>
                 </sp>
 
-                <fw type="catch" place="bottom-right" rend="italic">Alexio:</fw>
+                <fw type="catch" place="bottom-right" rend="italic">Alexio</fw>
 
                 <pb/>
 
@@ -5181,7 +5180,7 @@
                     <l n="448">What is honour,</l>
                 </sp>
 
-                <fw type="catch" place="bottom-right" rend="italic">Bombo:</fw>
+                <fw type="catch" place="bottom-right" rend="italic">Bombo</fw>
 
                 <pb/>
 
@@ -5819,7 +5818,7 @@
 
                     <pb/>
 
-                    <fw place="top=center" type="runninghead"> The Royall Master. </fw>
+                    <fw place="top=center" type="runninghead">The Royall Master.</fw>
 
                     <l n="76">My heart Madam.</l>
                 </sp>
@@ -5925,11 +5924,11 @@
                     <l n="113">The Princesse!</l>
                 </sp>
 
-                <fw type="catch" place="bottom-right"> Domitilla </fw>
+                <fw type="catch" place="bottom-right" rend="italic">Domitilla</fw>
 
                 <pb/>
 
-                <fw place="top=center" type="runninghead"> The Royall Master. </fw>
+                <fw place="top=center" type="runninghead">The Royall Master.</fw>
 
                 <sp>
                     <speaker rend="italic">Domitilla</speaker>
@@ -6004,13 +6003,13 @@
                     <l n="150">When we are both compar'd, dare you beleeve</l>
                 </sp>
 
-                <fw type="catch" place="bottom-right"> I </fw>
+                <fw type="catch" place="bottom-right">I</fw>
 
                 <pb/>
 
-                <fw place="top=center" type="runninghead"> The Royall Master. </fw>
+                <fw place="top=center" type="runninghead">The Royall Master.</fw>
 
-                <l n="151">I can repent and be'reveng'd</l>
+                <l n="151">I can repent and be reveng'd</l>
 
                 <sp>
                     <speaker rend="italic">Theodosia</speaker>
@@ -6091,11 +6090,11 @@
                     <l n="186">The Forrests groane and tremble, but not one</l>
                 </sp>
 
-                <fw type="catch" place="bottom-right"> When </fw>
+                <fw type="catch" place="bottom-right">When</fw>
 
                 <pb/>
 
-                <fw place="top=center" type="runninghead"> The Royall Master. </fw>
+                <fw place="top=center" type="runninghead">The Royall Master.</fw>
 
                 <l n="187">When it was in his strength and state revil'd it,</l>
                 <l n="188">Whom poverty of soule, and envy sends</l>
@@ -6185,11 +6184,11 @@
                 <l n="222">Which shewes whose representative we are,</l>
                 <l n="223">Mercy becomes a King, too much can be</l>
 
-                <fw type="catch" place="bottom-right"> But </fw>
+                <fw type="catch" place="bottom-right">But</fw>
 
                 <pb/>
 
-                <fw place="top=center" type="runninghead"> The Royall Master. </fw>
+                <fw place="top=center" type="runninghead">The Royall Master.</fw>
 
                 <l n="224">But thought a sinne on the right hand, we are</l>
                 <l n="225">Resolv'd.</l>
@@ -6274,11 +6273,11 @@
                     <l n="261">At wanton sounds, will shee be very angry</l>
                 </sp>
 
-                <fw type="catch" place="bottom-right"> At </fw>
+                <fw type="catch" place="bottom-right">At</fw>
 
                 <pb/>
 
-                <fw place="top=center" type="runninghead"> The Royall Master. </fw>
+                <fw place="top=center" type="runninghead">The Royall Master.</fw>
 
                 <l n="262">At an immodest offer, and be frighted</l>
                 <l n="263">To heare it nam'd, tell me, does shee pray</l>
@@ -6375,11 +6374,12 @@
                     <l n="297">The clouds are now remov'd.</l>
                 </sp>
 
-                <fw type="catch" place="bottom-right"> Riviero </fw>
+                <fw type="catch" place="bottom-right" rend="italic">Riviero</fw>
 
                 <pb/>
 
                 <fw place="top-center" type="runninghead" rend="italic">The Royall Master.</fw>
+              
                 <sp>
                     <speaker rend="italic">Riviero</speaker>
                     <l n="298">Lord <name rend="italic" full="yes" instant="false">Montalto</name>, Sir.</l>
@@ -6455,11 +6455,12 @@
                     <l n="333">Upon our favours.</l>
                 </sp>
 
-                <fw type="catch" place="bottom-right"><name rend="italic" full="yes" instant="false">Guido</name></fw>
+                <fw type="catch" place="bottom-right" rend="italic">Guido</fw>
 
                 <pb/>
 
                 <fw place="top-center" type="runninghead">The Royall Master.</fw>
+              
                 <sp>
                     <speaker rend="italic">Guido</speaker>
                     <l n="334"> Right, and please your grace.</l>
@@ -6551,11 +6552,12 @@
                     <l n="368">You are mercifull.</l>
                 </sp>
 
-                <fw type="catch" place="bottom-right"><name rend="italic" full="yes" instant="false">King</name></fw>
+                <fw type="catch" place="bottom-right" rend="italic">King</fw>
 
                 <pb/>
 
                 <fw place="top-center" type="runninghead">The Royall Master.</fw>
+               
                 <sp>
                     <speaker rend="italic">King</speaker>
                     <l n="369">Pray and be honest.</l>
@@ -6632,9 +6634,13 @@
                     <speaker rend="italic">Domitilla</speaker>
                     <l n="405">I dare</l>
                     <l n="406">Not understand this language, can the <name rend="italic" full="yes" instant="false">King</name></l>
+                   
                     <fw type="catch" place="bottom-right">Be</fw>
+                    
                     <pb/>
+                    
                     <fw place="top-center" type="runninghead">The Royall Master.</fw>
+                  
                     <l n="407">Be impious, how was my opinion cozen'd</l>
                     <l n="408">Sinne hath deform'd his very shape, his voyce</l>
                     <l n="409">Hath now no harmony.</l>
@@ -6708,9 +6714,13 @@
                     <l n="443">In the first place truth flies as to an Altar,</l>
                     <l n="444">Wave her religious defence I dare dye for her.</l>
                 </sp>
-                <fw type="catch" place="bottom-right"><name rend="italic" full="yes" instant="false">King:</name></fw>
+             
+                <fw type="catch" place="bottom-right" rend="italic">King</fw>
+                
                 <pb/>
+                
                 <fw place="top-center" type="runninghead">The Royall Master.</fw>
+               
                 <sp>
                     <speaker rend="italic">King</speaker>
                     <l n="445">You so brave? to prison with him,</l>
@@ -6789,9 +6799,13 @@
                     <speaker rend="italic">King</speaker>
                     <l n="482">Noble <name rend="italic" full="yes" instant="false">Riviero</name>.</l>
                 </sp>
-                <fw type="catch" place="bottom-right"><name rend="italic" full="yes" instant="false">Riviero:</name></fw>
+               
+                <fw type="catch" place="bottom-right" rend="italic">Riviero</fw>
+                
                 <pb/>
+                
                 <fw place="top-center" type="runninghead">The Royall Master.</fw>
+                
                 <sp>
                     <speaker rend="italic">Riviero</speaker>
                     <l n="483">I live agen by your acknowledgment.</l>
@@ -6849,6 +6863,7 @@
             <l part="N">And know no ebbe of the chast flood,</l>
             <l part="N"> And though time shift, and yeares renew,</l>
             <l part="N"> May yet the Spring be still in you.</l>
+           
             <fw type="catch" place="bottom-right">May</fw>
 
             <pb/>
