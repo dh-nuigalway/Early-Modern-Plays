@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-    schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -72,7 +74,7 @@
 
                 <fw type="catch" place="bottom-right" rend="italic">Cesaria</fw>
 
-                <pb/>
+                <pb n="1"/>
 
                 <fw place="top-center" type="runninghead" rend="italic">The Royall Master.</fw>
 
@@ -158,7 +160,7 @@
 
                 <fw type="catch" place="bottom-right" rend="italic">Montalto</fw>
 
-                <pb/>
+                <pb n="2"/>
 
                 <fw place="top-center" type="runninghead">The Royall Master.</fw>
 
@@ -253,7 +255,7 @@
 
                 <fw place="bottom-right" type="catch">I</fw>
 
-                <pb/>
+                <pb n="3"/>
 
                 <fw place="top-center" type="runninghead">The Royall Master.</fw>
 
@@ -335,7 +337,7 @@
 
                 <fw place="bottom-right" type="catch">The</fw>
 
-                <pb/>
+                <pb n="4"/>
 
                 <fw place="top=center" type="runninghead">The Royall Master.</fw>
                
@@ -448,7 +450,7 @@
 
                 <fw type="catch" place="bottom-right">To</fw>
 
-                <pb/>
+                <pb n="5"/>
 
                 <fw place="top=center" type="runninghead">The Royall Master.</fw>
               
@@ -537,7 +539,7 @@
 
                 <fw type="catch" place="bottom-right">With</fw>
 
-                <pb/>
+                <pb n="6"/>
 
                 <fw type="running-head" place="top-center" rend="italic">The Royall Master.</fw>
 
@@ -636,7 +638,7 @@
 
                 <fw type="catch" place="bottom-right">And</fw>
 
-                <pb/>
+                <pb n="7"/>
 
                 <fw type="runninghead" place="top-center" rend="italic">The Royall Master.</fw>
 
@@ -782,7 +784,7 @@
 
                 <fw type="catch" place="bottom-right" rend="italic">Bombo</fw>
 
-                <pb/>
+                <pb n="8"/>
 
                 <fw type="runninghead" place="top-center" rend="italic">The Royall Master.</fw>
 
@@ -885,7 +887,7 @@
                 <stage type="entrance" place="center" rend="italic">Enter Simphorosa,
                     Domitilla.</stage>
 
-                <l n="308">I mu[*]t obs[*]ure my selfe.</l>
+                <l n="308">I must obscure my selfe.</l>
 
                 <sp>
                     <speaker rend="italic">Domitilla</speaker>
@@ -922,7 +924,7 @@
 
                 <fw type="catch" place="bottom-right">If</fw>
 
-                <pb/>
+                <pb n="9"/>
 
                 <fw type="runninghead" place="top-center" rend="italic">The Royall Master.</fw>
 
@@ -1011,7 +1013,7 @@
 
                 <fw type="catch" place="bottom-right" rend="italic">Guido</fw>
 
-                <pb/>
+                <pb n="10"/>
 
                 <fw type="runninghead" place="top-center" rend="italic">The Royall Master.</fw>
 
@@ -1108,7 +1110,7 @@
 
                 <fw type="catch" place="bottom-right" rend="italic">Domitilla</fw>
 
-                <pb/>
+                <pb n="11"/>
 
                 <fw place="top-center" type="runninghead" rend="italic">The Royall Master.</fw>
 
@@ -1204,7 +1206,7 @@
 
                 <fw type="catch" place="bottom-right" rend="italic">Octavio</fw>
 
-                <pb/>
+                <pb n="12"/>
 
                 <fw type="runninghead" place="top-centre" rend="italic">The Royall Master.</fw>
 
@@ -1289,7 +1291,7 @@
 
                 <fw rend="italic" type="catch" place="bottom-right">Enter</fw>
 
-                <pb/>
+                <pb n="13"/>
 
                 <fw type="runninghead" place="top-centre" rend="italic">The Royall Master.</fw>
 
@@ -1389,7 +1391,7 @@
 
                 <fw type="catch" place="bottom-right">Things</fw>
 
-                <pb/>
+                <pb n="14"/>
 
                 <fw place="top-center" type="runninghead" rend="italic">The Royall Master.</fw>
 
@@ -1480,7 +1482,7 @@
 
                 <fw type="catch" place="bottom-right">Some</fw>
 
-                <pb/>
+                <pb n="15"/>
 
                 <fw place="top-center" type="runninghead" rend="italic">The Royall Master.</fw>
 
@@ -1602,7 +1604,7 @@
 
                 <fw rend="italic" type="catch" place="bottom-right">Iacamo</fw>
 
-                <pb/>
+                <pb n="16"/>
 
                 <fw type="runninghead" place="top-center" rend="italic">The Royall Master.</fw>
 
@@ -1720,7 +1722,7 @@
 
                 <fw type="catch" place="bottom-right" rend="italic">Bombo</fw>
 
-                <pb/>
+                <pb n="17"/>
 
                 <fw type="runninghead" place="top-center" rend="italic">The Royall Master.</fw>
 
@@ -1840,7 +1842,7 @@
 
                 <fw type="catch" place="bottom-right" rend="italic">King</fw>
 
-                <pb/>
+                <pb n="18"/>
 
                 <fw place="top-center" type="runninghead">The Royall Master.</fw>
 
@@ -1953,7 +1955,7 @@
 
                 <fw place="bottom-right" type="catch" rend="italic">King</fw>
 
-                <pb/>
+                <pb n="19"/>
 
                 <fw place="top-center" type="runninghead">The Royall Master.</fw>
 
@@ -2037,7 +2039,7 @@
 
                 <fw place="bottom-right" type="catch">Duty</fw>
 
-                <pb/>
+                <pb n="20"/>
 
                 <fw place="top-center" type="runninghead">The Royall Master.</fw>
 
@@ -2130,7 +2132,7 @@
 
                 <fw place="bottom-right" type="catch">That</fw>
 
-                <pb/>
+                <pb n="21"/>
 
                 <fw place="top-center" type="runninghead">The Royall Master.</fw>
 
@@ -2195,7 +2197,7 @@
 
                 <fw place="bottom-right" type="catch">Carries</fw>
 
-                <pb/>
+                <pb n="22"/>
 
                 <fw place="top-center" type="runninghead">The Royall Master.</fw>
 
@@ -2275,7 +2277,7 @@
 
                 <fw place="bottom-right" type="catch">Ridiculous</fw>
 
-                <pb/>
+                <pb n="23"/>
 
                 <fw place="top=center" type="runninghead">The Royall Master.</fw>
 
@@ -2366,7 +2368,7 @@
 
                 <fw type="catch" place="bottom-right">In</fw>
 
-                <pb/>
+                <pb n="24"/>
 
                 <fw place="top=center" type="runninghead">The Royall Master.</fw>
 
@@ -2461,7 +2463,7 @@
 
                 <fw type="catch" place="bottom-right" rend="italic">Domitilla</fw>
 
-                <pb/>
+                <pb n="25"/>
 
                 <fw place="top=center" type="runninghead">The Royall Master.</fw>
 
@@ -2556,7 +2558,7 @@
 
                 <fw type="catch" place="bottom-right" rend="italic">Duke</fw>
 
-                <pb/>
+                <pb n="26"/>
 
                 <fw place="top=center" type="runninghead">The Royall Master.</fw>
 
@@ -2660,7 +2662,7 @@
 
                 <fw type="catch" place="bottom-right">Shee</fw>
 
-                <pb/>
+                <pb n="27"/>
 
                 <fw place="top=center" type="runninghead">The Royall Master.</fw>
 
@@ -2739,7 +2741,7 @@
                 </sp>
                 <fw type="catch" place="bottom-right">I</fw>
 
-                <pb/>
+                <pb n="28"/>
 
                 <fw place="top-center" type="runninghead" rend="italic">The Royall Master.</fw>
 
@@ -2799,7 +2801,7 @@
 
                 <fw rend="italic" type="catch" place="bottom-right">Duke</fw>
 
-                <pb/>
+                <pb n="29"/>
 
                 <fw place="top-center" type="runninghead" rend="italic">The Royall Master.</fw>
 
@@ -2884,7 +2886,7 @@
 
                 <fw type="catch" place="bottom-right" rend="italic">Riviero</fw>
 
-                <pb/>
+                <pb n="30"/>
 
                 <fw place="top-center" type="runninghead">The Royall Master.</fw>
 
@@ -2968,7 +2970,7 @@
 
                 <fw type="catch" place="bottom-right">Were</fw>
 
-                <pb/>
+                <pb n="31"/>
 
                 <fw place="top-center" type="runninghead" rend="italic">The Royall Master.</fw>
 
@@ -3083,7 +3085,7 @@
 
                 <fw type="catch" place="bottom-right">To</fw>
 
-                <pb/>
+                <pb n="32"/>
 
                 <fw place="top-center" type="runninghead" rend="italic">The Royall Master.</fw>
 
@@ -3171,7 +3173,7 @@
 
                 <fw type="catch" place="bottom-right">That</fw>
 
-                <pb/>
+                <pb n="33"/>
 
                 <fw place="top-center" type="runninghead">The Royall Master.</fw>
 
@@ -3293,7 +3295,7 @@
 
                 <fw place="bottom-right" type="catch" rend="italic">Domitilla</fw>
 
-                <pb/>
+                <pb n="34"/>
 
                 <fw place="top-center" type="runninghead">The Royall Master.</fw>
 
@@ -3377,7 +3379,7 @@
 
                 <fw place="bottom-right" type="catch" rend="italic">Domitilla</fw>
 
-                <pb/>
+                <pb n="35"/>
 
                 <fw place="top-center" type="runninghead">The Royall Master.</fw>
 
@@ -3470,7 +3472,7 @@
 
                     <fw place="bottom-right" type="catch">That</fw>
 
-                    <pb/>
+                    <pb n="36"/>
 
                     <fw place="top-center" type="runninghead">The Royall Master.</fw>
 
@@ -3573,7 +3575,7 @@
 
                     <fw place="bottom-right" type="catch">The</fw>
 
-                    <pb/>
+                    <pb n="37"/>
 
                     <fw place="top-center" type="runninghead">The Royall Master.</fw>
 
@@ -3664,7 +3666,7 @@
 
                 <fw place="bottom-right" type="catch" rend="italic">Domitilla</fw>
 
-                <pb/>
+                <pb n="38"/>
 
                 <fw place="top=center" type="runninghead">The Royall Master.</fw>
 
@@ -3774,7 +3776,7 @@
 
                 <fw type="catch" place="bottom-right">Young</fw>
 
-                <pb/>
+                <pb n="39"/>
 
                 <fw place="top=center" type="runninghead">The Royall Master.</fw>
 
@@ -3867,7 +3869,7 @@
 
                 <fw type="catch" place="bottom-right">Behave</fw>
 
-                <pb/>
+                <pb n="40"/>
 
                 <fw place="top=center" type="runninghead">The Royall Master.</fw>
 
@@ -3972,7 +3974,7 @@
 
                 <fw type="catch" place="bottom-right">Should</fw>
 
-                <pb/>
+                <pb n="41"/>
 
                 <fw place="top=center" type="runninghead"> The Royall Master. </fw>
 
@@ -4094,7 +4096,7 @@
 
                 <fw type="catch" place="bottom-right">More</fw>
 
-                <pb/>
+                <pb n="42"/>
 
                 <fw place="top=center" type="runninghead">The Royall Master.</fw>
 
@@ -4168,7 +4170,7 @@
 
                 <fw type="catch" place="bottom-right">Have</fw>
 
-                <pb/>
+                <pb n="43"/>
 
                 <fw type="runninghead" place="top-center" rend="italic">The Royall Master.</fw>
 
@@ -4252,7 +4254,7 @@
 
                 <fw type="catch" place="bottom-right" rend="italic">King</fw>
 
-                <pb/>
+                <pb n="44"/>
 
                 <fw type="runninghead" place="top-center" rend="italic">The Royall Master.</fw>
 
@@ -4344,7 +4346,7 @@
 
                 <fw type="catch" place="bottom-right">Bleeds</fw>
 
-                <pb/>
+                <pb n="45"/>
 
                 <fw type="runninghead" place="top-center" rend="italic">The Royall Master.</fw>
 
@@ -4440,7 +4442,7 @@
 
                 <fw type="catch" place="bottom-right">Disclaime</fw>
 
-                <pb/>
+                <pb n="46"/>
 
                 <fw type="runninghead" place="top-center" rend="italic">The Royall Master.</fw>
 
@@ -4528,7 +4530,7 @@
 
                 <fw type="catch" place="bottom-right">The</fw>
 
-                <pb/>
+                <pb n="47"/>
 
                 <fw type="runninghead" place="top-center" rend="italic">The Royall Master.</fw>
 
@@ -4606,7 +4608,7 @@
 
                 <fw type="catch" place="bottom-right">To</fw>
 
-                <pb/>
+                <pb n="48"/>
 
                 <fw type="runninghead" place="top-center" rend="italic">The Royall Master.</fw>
 
@@ -4696,7 +4698,7 @@
 
                 <fw type="catch" place="bottom-right">Desire</fw>
 
-                <pb/>
+                <pb n="49"/>
 
                 <fw type="runninghead" place="top-center" rend="italic">The Royall Master.</fw>
 
@@ -4810,7 +4812,7 @@
 
                 <fw type="catch" place="bottom-right" rend="italic">Riviero</fw>
 
-                <pb/>
+                <pb n="50"/>
 
                 <fw type="runninghead" place="top-center" rend="italic">The Royall Master.</fw>
 
@@ -4930,7 +4932,7 @@
 
                 <fw type="catch" place="bottom-right" rend="italic">Alexio</fw>
 
-                <pb/>
+                <pb n="51"/>
 
                 <fw type="runninghead" place="top-center" rend="italic">The Royall Master.</fw>
 
@@ -5049,7 +5051,7 @@
 
                 <fw type="catch" place="bottom-right">Becomes</fw>
 
-                <pb/>
+                <pb n="52"/>
 
                 <fw type="runninghead" place="top-center" rend="italic">The Royall Master.</fw>
 
@@ -5182,7 +5184,7 @@
 
                 <fw type="catch" place="bottom-right" rend="italic">Bombo</fw>
 
-                <pb/>
+                <pb n="53"/>
 
                 <fw type="runninghead" place="top-center" rend="italic">The Royall Master.</fw>
 
@@ -5307,7 +5309,7 @@
 
                     <fw type="catch" place="bottom-right">Yet</fw>
 
-                    <pb/>
+                    <pb n="54"/>
 
                     <fw place="top-center" type="runninghead">The Royall Master.</fw>
 
@@ -5385,7 +5387,7 @@
 
                     <fw place="bottom-right" type="catch">Is</fw>
 
-                    <pb/>
+                    <pb n="55"/>
 
                     <fw place="top-center" type="runninghead">The Royall Master.</fw>
 
@@ -5459,7 +5461,7 @@
 
                 <fw place="bottom-right" type="catch" rend="italic">King</fw>
 
-                <pb/>
+                <pb n="56"/>
 
                 <fw place="top-center" type="runninghead">The Royall Master.</fw>
 
@@ -5539,7 +5541,7 @@
 
                 <fw place="bottom-right" type="catch" rend="italic">Montalto</fw>
 
-                <pb/>
+                <pb n="57"/>
 
                 <fw place="top-center" type="runninghead">The Royall Master.</fw>
 
@@ -5623,7 +5625,7 @@
 
                 <fw place="bottom-right" type="catch" rend="italic">Simphorosa</fw>
 
-                <pb/>
+                <pb n="58"/>
 
                 <fw place="top-center" type="runninghead">The Royall Master.</fw>
 
@@ -5719,7 +5721,7 @@
 
                 <fw place="bottom-right" type="catch">Deare</fw>
 
-                <pb/>
+                <pb n="59"/>
 
                 <fw place="top-center" type="runninghead">The Royall Master.</fw>
 
@@ -5816,7 +5818,7 @@
 
                     <fw place="bottom-right" type="catch">My</fw>
 
-                    <pb/>
+                    <pb n="60"/>
 
                     <fw place="top=center" type="runninghead">The Royall Master.</fw>
 
@@ -5926,7 +5928,7 @@
 
                 <fw type="catch" place="bottom-right" rend="italic">Domitilla</fw>
 
-                <pb/>
+                <pb n="61"/>
 
                 <fw place="top=center" type="runninghead">The Royall Master.</fw>
 
@@ -6005,7 +6007,7 @@
 
                 <fw type="catch" place="bottom-right">I</fw>
 
-                <pb/>
+                <pb n="62"/>
 
                 <fw place="top=center" type="runninghead">The Royall Master.</fw>
 
@@ -6092,7 +6094,7 @@
 
                 <fw type="catch" place="bottom-right">When</fw>
 
-                <pb/>
+                <pb n="63"/>
 
                 <fw place="top=center" type="runninghead">The Royall Master.</fw>
 
@@ -6186,7 +6188,7 @@
 
                 <fw type="catch" place="bottom-right">But</fw>
 
-                <pb/>
+                <pb n="64"/>
 
                 <fw place="top=center" type="runninghead">The Royall Master.</fw>
 
@@ -6275,7 +6277,7 @@
 
                 <fw type="catch" place="bottom-right">At</fw>
 
-                <pb/>
+                <pb n="65"/>
 
                 <fw place="top=center" type="runninghead">The Royall Master.</fw>
 
@@ -6376,7 +6378,7 @@
 
                 <fw type="catch" place="bottom-right" rend="italic">Riviero</fw>
 
-                <pb/>
+                <pb n="66"/>
 
                 <fw place="top-center" type="runninghead" rend="italic">The Royall Master.</fw>
               
@@ -6457,7 +6459,7 @@
 
                 <fw type="catch" place="bottom-right" rend="italic">Guido</fw>
 
-                <pb/>
+                <pb n="67"/>
 
                 <fw place="top-center" type="runninghead">The Royall Master.</fw>
               
@@ -6554,7 +6556,7 @@
 
                 <fw type="catch" place="bottom-right" rend="italic">King</fw>
 
-                <pb/>
+                <pb n="68"/>
 
                 <fw place="top-center" type="runninghead">The Royall Master.</fw>
                
@@ -6637,7 +6639,7 @@
                    
                     <fw type="catch" place="bottom-right">Be</fw>
                     
-                    <pb/>
+                    <pb n="69"/>
                     
                     <fw place="top-center" type="runninghead">The Royall Master.</fw>
                   
@@ -6717,7 +6719,7 @@
              
                 <fw type="catch" place="bottom-right" rend="italic">King</fw>
                 
-                <pb/>
+                <pb n="70"/>
                 
                 <fw place="top-center" type="runninghead">The Royall Master.</fw>
                
@@ -6802,7 +6804,7 @@
                
                 <fw type="catch" place="bottom-right" rend="italic">Riviero</fw>
                 
-                <pb/>
+                <pb n="71"/>
                 
                 <fw place="top-center" type="runninghead">The Royall Master.</fw>
                 
@@ -6828,22 +6830,15 @@
                     <l n="493">Your hearts have seal'd, mirth in each bosome flowes,</l>
                     <l n="494">Distraction never had so sweet a close.</l>
                 </sp>
-            </div>
-        </body>
-
-        <back>
-            <signed>FINIS.</signed>
-        </back>
-
-    </text>
-
-    <text>
-        <front>
+            
+            <signed>FINIS.</signed></div>
+         </body>
+<pb n="72"/>
+    <back>
             <head>THE EPILOGUE.</head>
             <head>As it vvas spoken to the Lord Deputie on Newyeares-day at night, by way of vote,
                 congratulating the New yeare.</head>
-        </front>
-        <body>
+        
             <l part="N">O</l>
             <l part="N">Vr Poet doth forget his Play,</l>
             <l part="N"> There is something he would pay</l>
@@ -6866,7 +6861,7 @@
            
             <fw type="catch" place="bottom-right">May</fw>
 
-            <pb/>
+            <pb n="73"/>
 
             <fw place="top-center" type="runninghead" rend="italic">The Royall Master.</fw>
             <fw place="top-center" type="runninghead">The Epilogue.</fw>
@@ -6889,9 +6884,10 @@
             <l part="N">Your deeds have fild a Chronicle,</l>
             <l part="N"> In all thats great, and good, be bold,</l>
             <l part="N"> And every yeare be coppie of the old.</l>
-        </body>
-        <back>
+       
             <signed>FINIS.</signed>
+            
+            <pb n="74"/>
         </back>
     </text>
 </TEI>
