@@ -73,7 +73,7 @@
             <fw type="salutation" place="right" rend="italic"> The humblest of your</fw>
             <fw type="salutation" place="right" rend="italic"> Lordships servants.</fw>
             <signed>JAMES SHIRLEY.</signed>
-            <pb n="II">
+            <pb n="II"/>
         </back>
     </text>
     <text>
@@ -383,7 +383,7 @@
         <back>
             <signed rend="smallcaps">John Jacson.</signed>
             <fw type="catch" place="bottom-right"> On </fw>
-<pb n="VIII">
+<pb n="VIII"/>
         </back>
     </text>
 
@@ -415,7 +415,7 @@
         </body>
         <back>
             <signed rend="smallcaps">JAMES MERVYN.</signed>
-            <pb n="IX">
+            <pb n="IX"/>
         </back>
     </text>
 
