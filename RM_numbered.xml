@@ -6829,35 +6829,35 @@
                     <l n="492">Perfect with holy ceremony, what</l>
                     <l n="493">Your hearts have seal'd, mirth in each bosome flowes,</l>
                     <l n="494">Distraction never had so sweet a close.</l>
-                </sp>
+                 </sp>
             
             <signed>FINIS.</signed></div>
-         </body>
+         
 <pb n="72"/>
-    <back>
-            <head>THE EPILOGUE.</head>
+            <div type="epilogue" part="N" org="uniform" sample="complete">
+                <head>THE EPILOGUE.</head>
             <head>As it vvas spoken to the Lord Deputie on Newyeares-day at night, by way of vote,
                 congratulating the New yeare.</head>
         
-            <l part="N">O</l>
-            <l part="N">Vr Poet doth forget his Play,</l>
-            <l part="N"> There is something he would pay</l>
-            <l part="N"> Due to your greatnesse, and the day</l>
-            <l part="N">Which by a revolution of the spheare</l>
-            <l part="N">Is proud to open the New yeare.</l>
-            <l part="N"> And having look'd on you, hath hid his face,</l>
-            <l part="N"> And Chang'd his robe with Starres to grace</l>
-            <l part="N"> And light you going to bed, so waite</l>
-            <l part="N"> With trembling Lustre on your state.</l>
-            <l part="N">Shine brighter yet, y'are not the same</l>
-            <l part="N">Cleare Lampes you were shine like the name</l>
-            <l part="N">Of him I bow too, while aflame</l>
-            <l part="N"> Active, and burning here with pure desires</l>
-            <l part="N"> Shall equall the best borrowed fires.</l>
-            <l part="N">May health, the bosomes friend, streame through your blood,</l>
-            <l part="N">And know no ebbe of the chast flood,</l>
-            <l part="N"> And though time shift, and yeares renew,</l>
-            <l part="N"> May yet the Spring be still in you.</l>
+        <l n="1">O</l>
+                <l n="2">Vr Poet doth forget his Play,</l>
+                <l n="3"> There is something he would pay</l>
+                <l n="4"> Due to your greatnesse, and the day</l>
+                <l n="5">Which by a revolution of the spheare</l>
+                <l n="6">Is proud to open the New yeare.</l>
+                <l n="7"> And having look'd on you, hath hid his face,</l>
+                <l n="8"> And Chang'd his robe with Starres to grace</l>
+                <l n="9"> And light you going to bed, so waite</l>
+                <l n="10"> With trembling Lustre on your state.</l>
+                <l n="11">Shine brighter yet, y'are not the same</l>
+                <l n="12">Cleare Lampes you were shine like the name</l>
+                <l n="13">Of him I bow too, while aflame</l>
+                <l n="14"> Active, and burning here with pure desires</l>
+                <l n="15"> Shall equall the best borrowed fires.</l>
+                <l n="16">May health, the bosomes friend, streame through your blood,</l>
+                <l n="17">And know no ebbe of the chast flood,</l>
+                <l n="18"> And though time shift, and yeares renew,</l>
+                <l n="19"> May yet the Spring be still in you.</l>
            
             <fw type="catch" place="bottom-right">May</fw>
 
@@ -6866,28 +6866,27 @@
             <fw place="top-center" type="runninghead" rend="italic">The Royall Master.</fw>
             <fw place="top-center" type="runninghead">The Epilogue.</fw>
 
-            <l part="N"> May She, whom heaven hath sweetly grac'd</l>
-            <l part="N">And in your noble bosome plac'd,</l>
-            <l part="N">Whose heart by onely yours embrac'd,</l>
-            <l part="N"> Hath made one true, and holy Gordian, prove</l>
-            <l part="N"> Fruitfull in Children, as in love.</l>
-            <l part="N"> And may this faire Top-branch, whose early bloome</l>
-            <l part="N"> Doth promise all the fruit can come</l>
-            <l part="N"> To vertue, and your name be blest,</l>
-            <l part="N"> And live a story to the rest.</l>
-            <l part="N"> All Honour with your fame increase,</l>
-            <l part="N"> In your bosome dwell soft peace,</l>
-            <l part="N">And Justice, the true roote of these;</l>
-            <l part="N">Wealth be the worst, and outside of your fate;</l>
-            <l part="N">And may not heaven your life translate,</l>
-            <l part="N">Till for your Royall Master, and this Ile,</l>
-            <l part="N">Your deeds have fild a Chronicle,</l>
-            <l part="N"> In all thats great, and good, be bold,</l>
-            <l part="N"> And every yeare be coppie of the old.</l>
+                <l n="20"> May She, whom heaven hath sweetly grac'd</l>
+                <l n="21">And in your noble bosome plac'd,</l>
+                <l n="22">Whose heart by onely yours embrac'd,</l>
+                <l n="23"> Hath made one true, and holy Gordian, prove</l>
+                <l n="24"> Fruitfull in Children, as in love.</l>
+                <l n="25"> And may this faire Top-branch, whose early bloome</l>
+                <l n="26"> Doth promise all the fruit can come</l>
+                <l n="27"> To vertue, and your name be blest,</l>
+                <l n="28"> And live a story to the rest.</l>
+                <l n="29"> All Honour with your fame increase,</l>
+                <l n="30"> In your bosome dwell soft peace,</l>
+                <l n="31">And Justice, the true roote of these;</l>
+                <l n="32">Wealth be the worst, and outside of your fate;</l>
+                <l n="33">And may not heaven your life translate,</l>
+                <l n="34">Till for your Royall Master, and this Ile,</l>
+                <l n="35">Your deeds have fild a Chronicle,</l>
+                <l n="36"> In all thats great, and good, be bold,</l>
+                <l n="37"> And every yeare be coppie of the old.</l>
        
-            <signed>FINIS.</signed>
-            
+            <signed>FINIS.</signed></div>            
             <pb n="74"/>
-        </back>
+        </body>
     </text>
 </TEI>
