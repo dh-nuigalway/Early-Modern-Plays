@@ -22,7 +22,7 @@
 
     <text>
 <body>
-<div type="poem">
+    <div type="poem" part="N" org="uniform" sample="complete">
              <head place="center">To the Right Honorable, GEORGE Earle of <placeName rend="italic"
                     >Kildare</placeName>, Baron of <placeName rend="italic">Ophalie</placeName>, and
                 Primier Earle of the Kingdome of <placeName rend="italic"
@@ -71,7 +71,7 @@
             <pb n="II"/>
         </div>
     
-        <div type="poem">
+    <div type="poem" part="N" org="uniform" sample="complete">
         
             <head place="center"> To my Ingenious Friend, <name rend="italic">James Shir</name>
                 <lb/>
@@ -101,7 +101,7 @@
       
             <signed rend="smallcaps">James Mervyn.</signed>
         </div>
-            <div type="poem">
+    <div type="poem" part="N" org="uniform" sample="complete">
             <head place="center">On Mr. <name rend="italic">James Shirley's</name><title
                     rend="italic">Royall Master</title>.</head>
       
@@ -124,7 +124,7 @@
        
             <signed rend="smallcaps">FRA. BUTLER</signed>
             </div>
-    <div type="poem">
+    <div type="poem" part="N" org="uniform" sample="complete">
             <head place="center"> Upon Mr. <name rend="italic">James Shirley</name> his Comedy,
                 cal'd The <name rend="italic">Royall Master</name>. </head>
         
@@ -163,7 +163,7 @@
        
             <signed rend="smallcaps">DRV. COOPER.</signed>
     </div>
-    <div type="poem">
+    <div type="poem" part="N" org="uniform" sample="complete">
             <head place="center">On the <title rend="italic">Royall Master</title>, to his Friend
                 the Author</head>
       
@@ -182,7 +182,7 @@
        
             <signed rend="smallcaps">RIO. BELLING.</signed>
     </div>
-    <div type="poem">
+    <div type="poem" part="N" org="uniform" sample="complete">
             <head place="center">To my deserving Friend Mr. James Shirley on his Royall
                 Master.</head>
 
@@ -206,7 +206,7 @@
        
             <signed rend="smallcaps">T. I.</signed>
     </div>
-    <div type="poem">
+    <div type="poem" part="N" org="uniform" sample="complete">
             <head place="center"> To his much esteemed Friend Mr. James <lb/> Shirley, on his Royall
                 Master. </head>
        
@@ -227,7 +227,7 @@
       
             <signed rend="smallcaps">W. Markham.</signed>
     </div>
-    <div type="poem">
+    <div type="poem" part="N" org="uniform" sample="complete">
             <head place="center"> To the Honour'd Author of the <lb/>
                 <title rend="italic">Royall Master</title>. </head>
 
@@ -271,7 +271,7 @@
             
             <signed rend="smallcaps">W.Smith.</signed>
     </div>
-    <div type="poem">
+    <div type="poem" part="N" org="uniform" sample="complete">
             <head place="center"> To his worthy Friend the Author. </head>
         
                 <l n="1"> ALL these thy friends subscribing to thy praise </l>
@@ -294,7 +294,7 @@
        
             <signed rend="smallcaps">John Oglebye.</signed>
     </div>
-    <div type="poem">
+    <div type="poem" part="N" org="uniform" sample="complete">
 
             <head place="center"> To the much honoured,<name rend="italic">James Shirley</name> upon
                 his <title rend="italic">Royall Master</title>. </head>
@@ -329,7 +329,7 @@
             <fw type="catch" place="bottom-right"> On </fw>
 <pb n="VIII"/>
     </div>
-    <div type="poem">
+    <div type="poem" part="N" org="uniform" sample="complete">
             <head place="center">On M. <name rend="italic">James Shirley</name> his <title
                     rend="italic">Royall Master</title>.</head>
         
