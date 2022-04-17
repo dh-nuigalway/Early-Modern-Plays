@@ -649,6 +649,9 @@
                 </sp>
 
                 <stage type="exit" place="right" rend="italic">Exit Riviero.</stage>
+                
+                <head>ACT 1. SCENE 2.</head>
+                
                 <stage type="entrance" place="center" rend="italic">Enter Guido, Bombo.</stage>
 
                 <sp>
@@ -2100,6 +2103,8 @@
 
                 <stage place="right" type="exit">Exit <name full="yes" instant="false">Domitilla</name></stage>
 
+                <head>ACT 2. SCENE 2.</head>
+                
                 <stage place="centre" type="enter">Enter <name full="yes" instant="false">Duke</name>,
                     <name full="yes" instant="false">Montalto</name></stage>
 
@@ -2918,6 +2923,8 @@
 
                 <stage place="right" type="exit">Exeunt.</stage>
 
+                <head>ACT 3. SCENE 2.</head>
+                
                 <stage place="centre" type="entrance">Enter <name full="yes" instant="false">Montalto</name>,
                         <name full="yes" instant="false">Theodosia</name>.</stage>
 
@@ -3284,6 +3291,8 @@
 
                 <stage place="right" type="exit" rend="italic">Exit <name full="yes" instant="false">King</name>.</stage>
 
+                <head>ACT 3. SCENE 3.</head>
+                
                 <stage place="centre" type="enter" rend="italic">Enter <name full="yes" instant="false">Domitilla</name>,
                         <name full="yes" instant="false">Bombo</name>.</stage>
 
@@ -6073,6 +6082,8 @@
 
                 <stage type="exit">Exeunt.</stage>
 
+                <head>ACT 5. SCENE 2.</head>
+                
                 <stage place="center" type="enter">Enter King, Riviero, Andrugio;
                     Petitioners.</stage>
 
