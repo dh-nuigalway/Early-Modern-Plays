@@ -26,8 +26,10 @@
             <div type="act" n="1" part="N" org="uniform" sample="complete">
 
                 <head>THE FIRST ACT.</head>
+                
+                <stage place="center" type="setting" rend="italic"> Naples.--The Palace</stage>
 
-                <stage place="centre" type="entrance" rend="italic">Enter <name full="yes" instant="false">King of
+                <stage place="center" type="entrance" rend="italic">Enter <name full="yes" instant="false">King of
                             <placeName instant="false" full="yes">Naples</placeName></name> , the <name full="yes" instant="false">Duke of
                             <placeName instant="false" full="yes">Florence</placeName></name>, <name full="yes" instant="false">Montalto</name>,
                         <name full="yes" instant="false">Octavio</name>, <name full="yes" instant="false">Riviero</name>, <name full="yes" instant="false">Andrugio</name>,
@@ -90,7 +92,7 @@
                     <l n="21">I ha done.</l>
                 </sp>
 
-                <stage place="centre" type="entrance" rend="italic">Enter <name full="yes" instant="false">Theodosia</name>,
+                <stage place="center" type="entrance" rend="italic">Enter <name full="yes" instant="false">Theodosia</name>,
                     Ladies.</stage>
 
                 <sp>
@@ -170,7 +172,7 @@
                     <l n="55">But 'tis not mine, for though I thus disguise</l>
                     <l n="56">My face, and tongue, my heart is my owne friend,</l>
                     <l n="57">And cannot wish my ambition supplanted</l>
-                    <l n="58">By any smooth chin'd Prince alive, my Lords—</l>
+                    <l n="58">By any smooth chin'd Prince alive. <stage rend="inline" type="delivery" rend="italic"> [Aside.]</stage> My Lords—</l>
                 </sp>
 
                 <sp>
@@ -354,10 +356,8 @@
                 <sp>
                     <speaker rend="italic">King</speaker>
                     <l n="133">
-                        <name rend="italic" full="yes" instant="false">Theodosia</name>, you are not for that exercise <name rend="italic" full="yes" instant="false">Guido</name>.</l>
+                        <name rend="italic" full="yes" instant="false">Theodosia</name>, you are not for that exercise <name rend="italic" full="yes" instant="false">Guido</name>.</l> <stage rend="inline" type="direction" rend="italic"> Whispers and sends Guido off. </stage>
                 </sp>
-
-                <stage type="direction"> Whispers and sends Guido off. </stage>
 
                 <sp>
                     <speaker rend="italic">Theodosia</speaker>
@@ -375,6 +375,8 @@
                     <speaker rend="italic">King</speaker>
                     <l n="138">To horse, the morning wasts.</l>
                 </sp>
+                
+                <stage place="center" type="exit" rend="italic"> Exeunt all but Montalto, Andrugio, Octavio, and Riviero.</stage>
 
                 <sp>
                     <speaker rend="italic">Montalto</speaker>
@@ -386,11 +388,11 @@
                     <l n="144">His swelling hopes: <name rend="italic" full="yes" instant="false">Octavio</name>— </l>
                 </sp>
 
-                <stage place="right" type="exit">Exit.</stage>
+                <stage place="right" type="exit" rend="italic">Exit.</stage>
 
                 <sp>
                     <speaker rend="italic">Octavio</speaker>
-                    <l n="145">My good Lord.</l>
+                    <l n="145">My good Lord.</l> <stage rend="inline" type="business" rend="italic"> Going, but is prevented by Andrugio.</stage>
                 </sp>
 
                 <sp>
@@ -549,7 +551,7 @@
                 <sp>
                     <speaker rend="italic">Riviero</speaker>
                     <l n="208">Tis stange,</l>
-                    <l n="209">This newes will coole my resolution.</l>
+                    <l n="209">This newes will coole my resolution.</l> <stage rend="inline" type="delivery" rend="italic"> [Aside to Andrugio.]</stage>
                 </sp>
 
                 <sp>
@@ -628,7 +630,7 @@
                     <l n="241">Come my Lord.</l>
                 </sp>
 
-                <stage type="exit" place="right" rend="italic">Exit Octavio and Andruigo.</stage>
+                <stage type="exit" place="right" rend="italic">Exeunt Octavio and Andruigo.</stage>
 
                 <sp>
                     <speaker rend="italic">Riviero</speaker>
@@ -651,6 +653,8 @@
                 <stage type="exit" place="right" rend="italic">Exit Riviero.</stage>
                 
                 <head>ACT 1. SCENE 2.</head>
+                
+                <stage place="center" type="setting" rend="italic"> Simphrosa's Country House.</stage>
                 
                 <stage type="entrance" place="center" rend="italic">Enter Guido, Bombo.</stage>
 
@@ -761,7 +765,7 @@
 
                 <sp>
                     <speaker rend="italic">Guido</speaker>
-                    <l n="274">Preethe acquaint my Lady, 'ith meane time</l>
+                    <l n="274">Preethe acquaint my Lady; <stage rend="inline" type="exit" rend="italic"> Exit Iacomo.</stage> 'ith meane time</l>
                     <l n="275">Ile have more dialogue with him;</l>
                     <l n="276">Save you Sir.</l>
                 </sp>
@@ -885,13 +889,14 @@
                     <speaker rend="italic">Bombo</speaker>
                     <l n="305">Sir, as you love me say you saw me not,</l>
                     <l n="306">I knew I should one time or other be</l>
-                    <l n="307">Found out for state imployments, heer's my Lady --</l>
+                    <l n="307">Found out for state imployments, heer's my Lady --</l> <stage rend="inline" type="business" rend="italic"> Going.</stage>
                 </sp>
 
-                <stage type="entrance" place="center" rend="italic">Enter Simphorosa,
-                    Domitilla.</stage>
+                <stage type="entrance" place="center" rend="italic">Enter Simphorosa, Domitilla.</stage>
 
                 <l n="308">I must obscure my selfe.</l>
+                
+                <stage place="center" type="business" rend="italic"> Guido converses apart with Simphorosa.</stage>
 
                 <sp>
                     <speaker rend="italic">Domitilla</speaker>
@@ -987,6 +992,7 @@
                 </sp>
 
                 <stage type="exit" place="right" rend="italic">Exit Simphorosa.</stage>
+                
                 <sp>
                     <speaker rend="italic">Guido</speaker>
                     <l n="344">Tis service I am bound to.</l>
@@ -1027,8 +1033,7 @@
                     <l n="357">Deliver my opinion, while the <name rend="italic" full="yes" instant="false">King</name></l>
                     <l n="358">In entertainement of the <name rend="italic" full="yes" instant="false">Duke</name> is shewing</l>
                     <l n="359">The pleasures and the glories of his kingdome</l>
-                    <l n="360">He cannot hide, that which his <placeName rend="italic" instant="false" full="yes">Naples</placeName>
-                        boasteth,</l>
+                    <l n="360">He cannot hide, that which his <placeName rend="italic" instant="false" full="yes">Naples</placeName>boasteth,</l>
                     <l n="361">Her greatest ornament your beauty Madam.</l>
                 </sp>
 
@@ -1057,7 +1062,7 @@
                     <l n="372">Mine shall attend your Lordship.</l>
                 </sp>
 
-                <stage type="entrance" place="center" rend="italic">Enter Simphorosa.</stage>
+                <stage type="entrance" place="center" rend="italic">Re-enter Simphorosa.</stage>
 
                 <sp>
                     <speaker rend="italic">Simphorosa</speaker>
@@ -1161,14 +1166,12 @@
                 </sp>
 
                 <stage place="right" type="exit" rend="italic">Exit <name full="yes" instant="false">Simphorosa</name>.</stage>
-                <stage place="centre" type="entrance" rend="italic">Enter
-                    <name full="yes" instant="false">Octavio</name>.</stage>
+                <stage place="center" type="entrance" rend="italic">Enter<name full="yes" instant="false">Octavio</name>.</stage>
 
                 <sp>
                     <speaker rend="italic">Octavio</speaker>
                     <l n="408">I kisse your faire hand Madam <name rend="italic" full="yes" instant="false">Domitilla</name>,</l>
-                    <l n="409">The <name rend="italic" full="yes" instant="false">King</name> and <name rend="italic" full="yes" instant="false">Duke</name> and
-                        all the jolly hunters</l>
+                    <l n="409">The <name rend="italic" full="yes" instant="false">King</name> and <name rend="italic" full="yes" instant="false">Duke</name> and all the jolly hunters</l>
                     <l n="410">With appetites as fierce as their owne hounds,</l>
                     <l n="411">Will be here presently.</l>
                 </sp>
@@ -1286,8 +1289,7 @@
                     <l n="462">A neighbour to this innocence; your mother.</l>
                 </sp>
 
-                <stage place="centre" type="entrance" rend="italic">Enter
-                    <name full="yes" instant="false">Simphorosa</name>.</stage>
+                <stage place="center" type="entrance" rend="italic">Re-enter<name full="yes" instant="false">Simphorosa</name>.</stage>
 
                 <sp>
                     <l n="463">The <name rend="italic" full="yes" instant="false">King</name> is come already.</l>
@@ -1299,7 +1301,7 @@
 
                 <fw type="runninghead" place="top-centre" rend="italic">The Royall Master. Act 1 Scene 2.</fw>
 
-                <stage type="entrance" place="centre" rend="italic">Enter <name full="yes" instant="false">King</name>,
+                <stage type="entrance" place="center" rend="italic">Enter <name full="yes" instant="false">King</name>,
                         <name full="yes" instant="false">Duke</name>, <name full="yes" instant="false">Montalto</name>, <name full="yes" instant="false">Guido</name>,
                         <name full="yes" instant="false">Aloisio</name>, <name full="yes" instant="false">Alexio</name>.</stage>
 
@@ -1401,7 +1403,7 @@
 
                 <sp>
                     <l n="500">Things may succeede to my ambition,</l>
-                    <l n="501">If I doe noose your highnesse.</l>
+                    <l n="501">If I doe noose your highnesse.</l> <stage rend="inline" type="delivery" rend="italic"> [Aside.]</stage>
                 </sp>
 
                 <sp>
@@ -1427,8 +1429,10 @@
 
             <div type="act" n="2" part="N" org="uniform" sample="complete">
                 <head>THE SECOND ACT.</head>
+                
+                <stage place="center" type="setting" rend="italic"> The Same.</stage>
 
-                <stage place="center">Bombo, Iacamo.</stage>
+                <stage place="center" type="entrance modifier" rend="italic>Enter Bombo with a book, and Iacamo.</stage>
 
                 <sp>
                     <speaker rend="italic">Bombo</speaker>
@@ -1513,7 +1517,7 @@
                     <l n="34">The muse, Ile fetch a bottle that you talk'd of.</l>
                 </sp>
 
-                <stage place="right" type="exit" rend="italic">Exit.</stage>
+                <stage place="right" type="exit" rend="italic">Exit Iacamo.</stage>
 
                 <sp>
                     <speaker rend="italic">Bombo</speaker>
@@ -1525,7 +1529,7 @@
                     <l n="40"> You shannot neede to enquire much after me.</l>
                 </sp>
 
-                <stage place="right" type="entrance" rend="italic">Enter Iacamo.</stage>
+                <stage place="right" type="entrance modifier" rend="italic">Re-enter Iacamo with a flask.</stage>
 
                 <sp>
                     <l n="41">I shall be here abouts, why thou hast wings.</l>
@@ -1549,13 +1553,13 @@
                 <sp>
                     <speaker rend="italic">Bombo</speaker>
                     <l n="45"> I knew't, I am not here,</l>
-                    <l n="46"> Doe they inquire already? come Ile pledge thee,</l>
+                    <l n="46"> Doe they inquire already? come Ile pledge thee,</l> <stage rend="inline" type="business" rend="italic"> [Drinks.]</stage>
                     <l n="47"> What wilt thou say if somebody be sent for to Court.</l>
                 </sp>
 
                 <sp>
                     <speaker rend="italic">Iacamo</speaker>
-                    <p part="N"> Ile drinke some bodies health.</p>
+                    <p part="N"> Ile drinke some bodies health.</p> <stage rend="inline" type="business" rend="italic"> [Drinks.]</stage>
                 </sp>
 
                 <sp>
@@ -1564,8 +1568,7 @@
                     <l n="49">Shall be remembred.</l>
                 </sp>
 
-                <stage place="right" type="direction" rend="italic">Within call
-                    <name full="yes" instant="false">Iacamo</name>.</stage>
+                <stage place="right" type="delivery" rend="italic">Within call<name full="yes" instant="false">Iacamo</name>.</stage>
 
                 <sp>
                     <speaker rend="italic">Iacamo</speaker>
@@ -1574,18 +1577,18 @@
 
                 <sp>
                     <speaker rend="italic">Bombo</speaker>
-                    <l n="51"> Leave, leave your wicker, frien weele drinke a cup</l>
+                    <l n="51"> Leave, leave your wicker, frien weele drinke a cup</l> <stage rend="inline" type="exit" rend="italic"> Exit Iacamo.</stage>
                     <l n="52"> When thou art gone, tis very excellent wine,</l>
                     <l n="53"> And now I have a stomacke like an edge toole,</l>
-                    <l n="54"> But no good comes of idlenesse—tother cup,</l>
+                    <l n="54"> But no good comes of idlenesse—tother cup,</l> <stage rend="inline" type="business" rend="italic"> [Drinks.]</stage>
                     <l n="55"> The bottle growes light headed; how now friend?</l>
                     <l n="56"> No dish of meat appeare, nothing to shew</l>
                     <l n="57"> The Kitchin and the Wineseller are friends?</l>
                     <l n="58"> I would the Cooke were rosted honest <name rend="italic" full="yes" instant="false">Iacamo</name></l>
                 </sp>
 
-                <stage place="right" type="entrance" rend="italic"> Enter <name full="yes" instant="false">Iacomo</name>, and
-                        <name full="yes" instant="false">Pietro</name>.</stage>
+                <stage place="right" type="entrance" rend="italic"> Enter <name full="yes" instant="false">Iacomo</name> with a dish of meat, and
+                        <name full="yes" instant="false">Pietro</name> with a flask.</stage>
 
                 <sp>
                     <l n="59">I was thinking of a brace of Cocks just as you came.</l>
@@ -1598,12 +1601,12 @@
 
                 <sp>
                     <speaker rend="italic"> Pietro</speaker>
-                    <l n="61">And a cup of Greeke wine, heeres to thee.</l>
+                    <l n="61">And a cup of Greeke wine, heeres to thee.</l> <stage rend="inline" type="business" rend="italic"> [Drinks.]</stage>
                 </sp>
 
                 <sp>
                     <speaker rend="italic">Bombo</speaker>
-                    <l n="62"> I understand Greeke wine, Ile lose no time.</l>
+                    <l n="62"> I understand Greeke wine, Ile lose no time.</l> <stage rend="inline" type="business" rend="italic"> [Drinks.]</stage>
                 </sp>
 
                 <fw rend="italic" type="catch" place="bottom-right">Iacamo</fw>
@@ -1619,23 +1622,21 @@
 
                 <sp>
                     <speaker rend="italic">Bombo</speaker>
-                    <l n="64">[*] No, tis my learned trencher</l>
-                    <l n="65">Which Schollers sometimes eate, <name rend="italic" full="yes" instant="false">Euclid</name> they call
-                        it,</l>
+                    <l n="64">[*] No, tis my learned trencher</l> <stage rend="inline" type="business" rend="italic"> [Lays the meat on the cover of the book.]</stage>
+                    <l n="65">Which Schollers sometimes eate, <name rend="italic" full="yes" instant="false">Euclid</name> they call it,</l>
                     <l n="66">In my opinion this wing and legge</l>
                     <l n="67">Is worth all bodies mathematicall;</l>
-                    <l n="68">Now let's dispute in Greek, to the <name rend="italic" full="yes" instant="false">Kings</name>
-                        health.</l>
+                    <l n="68">Now let's dispute in Greek, to the <name rend="italic" full="yes" instant="false">Kings</name> health.</l> <stage rend="inline" type="business" rend="italic"> [Drinks.]</stage>
                 </sp>
 
                 <sp>
                     <speaker rend="italic">Pietro</speaker>
-                    <l n="69">To me, ile pledge.</l>
+                    <l n="69">To me, ile pledge.</l> <stage rend="inline" type="business" rend="italic"> [Drinks.]</stage>
                 </sp>
 
                 <sp>
                     <speaker rend="italic">Iacamo</speaker>
-                    <l n="70">It shall goe round.</l>
+                    <l n="70">It shall goe round.</l> <stage rend="inline" type="business" rend="italic"> [Drinks.]</stage>
                 </sp>
 
                 <sp>
@@ -1661,7 +1662,7 @@
 
                 <sp>
                     <speaker rend="italic">Bombo</speaker>
-                    <l n="77">A cup of wine to cleare the passage, so,</l>
+                    <l n="77">A cup of wine to cleare the passage. <stage rend="inline" type="business" rend="italic"> [Drinks.]</stage> So,</l>
                     <l n="78">Here is as they say Latine: here is Greeke, and</l>
                     <l n="79">Here is for ought I know an Hebrew roote, most learnedly</l>
                     <l n="80">Met together.</l>
@@ -1674,8 +1675,8 @@
 
                 <sp>
                     <speaker rend="italic">Bombo</speaker>
-                    <l n="82">Bottle in battle ray, present, give fire, so as</l>
-                    <l n="83">You were; have they good stomacks <name rend="italic" full="yes" instant="false">Iacamo</name>?</l>
+                    <l n="82">Bottle in battle ray, present, give fire. <stage rend="inline" type="business" rend="italic"> [Drinks.]</stage> So as</l>
+                    <l n="83">You were. <stage rend="inline" type="business" rend="italic"> [Sets down the flask.]</stage> Have they good stomacks <name rend="italic" full="yes" instant="false">Iacamo</name>?</l>
                     <l n="84">How feeds the <name rend="italic" full="yes" instant="false">King</name>?</l>
                 </sp>
 
@@ -1687,8 +1688,7 @@
 
                 <sp>
                     <speaker rend="italic">Bombo</speaker>
-                    <l n="87">My Ladies health, my Lady little <name rend="italic" full="yes" instant="false">Domittillaes</name>
-                        health.</l>
+                    <l n="87">My Ladies health, my Lady little <name rend="italic" full="yes" instant="false">Domittillaes</name> health.</l> <stage rend="inline" type="business" rend="italic"> [Drinks.]</stage>
                 </sp>
 
                 <sp>
@@ -1698,7 +1698,7 @@
 
                 <sp>
                     <speaker rend="italic">Bombo</speaker>
-                    <l n="89">I am about another to our reverent Lady <name rend="italic" full="yes" instant="false">Simphorora</name>,</l>
+                    <l n="89">I am about another to our reverent Lady <name rend="italic" full="yes" instant="false">Simphorora</name>,</l> <stage rend="inline" type="business" rend="italic"> [Drinks.]</stage>
                     <l n="90">So, so, this wine they say will make us see things double,</l>
                     <l n="91">Here is but one Leg visible; well for this favour</l>
                     <l n="92">Gentlemen if I be fore'd to live in court Ile make</l>
@@ -1713,7 +1713,7 @@
                 <sp>
                     <speaker rend="italic">Bombo</speaker>
                     <l n="95">You shall have all preferment trust to me,</l>
-                    <l n="96">And marke my steps, heere to the curteous drinker,</l>
+                    <l n="96">And marke my steps, heere to the curteous drinker,</l> <stage rend="inline" type="business" rend="italic"> [Drinks.]</stage>
                     <l n="97">Now doe I finde a noble constitution in me, now</l>
                     <l n="98">Could I leape, would thou wert any living Lady</l>
                     <l n="99">In my way now.</l>
@@ -1739,14 +1739,16 @@
                     <speaker rend="italic">Pietro</speaker>
                     <l n="102">Hees paid, the <name rend="italic" full="yes" instant="false">King</name> will come this way.</l>
                 </sp>
+                  
+                <stage place="right" type="exit" rend="italic"> Exeunt Pietro, and Iacamo.</stage>                                                                         
+                                                                                            
                 <sp>
                     <speaker rend="italic">Bombo</speaker>
                     <l n="103">Every man goe his owne way, I wonnot see</l>
                     <l n="104">The <name rend="italic" full="yes" instant="false">King</name> for all this</l>
                 </sp>
 
-                <stage type="entrance" place="center" rend="italic">Enter Guido, Alosio,
-                    Alexio.</stage>
+                <stage type="entrance" place="center" rend="italic">Enter Guido, Alosio, Alexio.</stage>
 
                 <l n="105">Friend.</l>
 
@@ -1759,10 +1761,8 @@
                 <sp>
                     <speaker rend="italic">Bombo</speaker>
                     <l n="108">Dee heare no body say he saw me, I wonnot</l>
-                    <l n="109">Be seene yet.</l>
+                    <l n="109">Be seene yet.</l> <stage rend="inline" type="business" rend="italic"> [He reeles in.]</stage>
                 </sp>
-
-                <stage type="location" place="right" rend="italic">He reeles in.</stage>
 
                 <sp>
                     <speaker rend="italic">Guido</speaker>
@@ -1842,7 +1842,7 @@
                     <l n="135">The honour to attend you.</l>
                 </sp>
 
-                <stage type="exit" place="right" rend="italic">Exit Duke, Montalto.</stage>
+                <stage type="exit" place="right" rend="italic">Exeunt Duke, Montalto.</stage>
 
                 <fw type="catch" place="bottom-right" rend="italic">King</fw>
 
@@ -1866,7 +1866,7 @@
                     <l n="139">You may remove a little;</l>
                 </sp>
 
-                <stage place="right" type="exit">Exit <name full="yes" instant="false">Guido</name></stage>
+                <stage place="right" type="exit" rend="italic">Exit <name full="yes" instant="false">Guido</name></stage>
 
                 <sp>
                     <l n="140">You have no feare to trust your selfe with me.</l>
@@ -2062,7 +2062,7 @@
                     <l n="215">Pardon I beseech you Sir,</l>
                     <l n="216">Conceale it yet, what gentle spirit walkes</l>
                     <l n="217">Upon my blood, I dare not looke upon him</l>
-                    <l n="218">My hopes my feares, it is enough great Sir,</l>
+                    <l n="218">My hopes my feares--<stage rend="inline" type="delivery" rend="italic"> [Aside.]</stage> It is enough great Sir,</l>
                     <l n="219">That you leave one within your thought, you would</l>
                     <l n="220">Commend to <name rend="italic" full="yes" instant="false">Domitilla</name> one your love,</l>
                     <l n="221">And pretious to your bosome, sure you blest him</l>
@@ -2076,7 +2076,7 @@
 
                 <sp>
                     <speaker rend="italic">Domitilla</speaker>
-                    <l n="224">My heart is a false Prophet, tis a fate</l>
+                    <l n="224">My heart is a false Prophet,<stage rend="inline" type="delivery" rend="italic"> [Aside.]</stage> Tis a fate</l>
                     <l n="225">Too good and great for <name rend="italic" full="yes" instant="false">Domitilla</name>.</l>
                 </sp>
 
@@ -2090,7 +2090,7 @@
                     <l n="231">To meete the husband I shall bring.</l>
                 </sp>
 
-                <stage place="right" type="exit">Exit <name full="yes" instant="false">King</name></stage>
+                <stage place="right" type="exit" rend="italic">Exit <name full="yes" instant="false">King</name></stage>
 
                 <sp>
                     <speaker rend="italic">Domitilla</speaker>
@@ -2101,12 +2101,14 @@
                     <l n="236">And can lead captive the proud heart of Kings.</l>
                 </sp>
 
-                <stage place="right" type="exit">Exit <name full="yes" instant="false">Domitilla</name></stage>
+                <stage place="right" type="exit" rend="italic">Exit <name full="yes" instant="false">Domitilla</name>.</stage>
 
                 <head>ACT 2. SCENE 2.</head>
+                                                                                                    
+                <stage place="center" type="setting" rend="italic"> The Same--A Garden.</stage>                                                                                    
                 
-                <stage place="centre" type="enter">Enter <name full="yes" instant="false">Duke</name>,
-                    <name full="yes" instant="false">Montalto</name></stage>
+                <stage place="center" type="enter" rend="italic">Enter <name full="yes" instant="false">Duke</name>,
+                    <name full="yes" instant="false">Montalto</name>.</stage>
 
                 <sp>
                     <speaker rend="italic">Duke</speaker>
@@ -2155,8 +2157,7 @@
                     <l n="253">Twill not become me so much as in thought</l>
                     <l n="254">To enquire how long, or with what firme devotion,</l>
                     <l n="255">You affect the Princese, <name rend="italic" full="yes" instant="false">Theodosia</name>;</l>
-                    <l n="256">But <placeName rend="italic" instant="false" full="yes">Naples</placeName> is more conscious, then to
-                        doubt</l>
+                    <l n="256">But <placeName rend="italic" instant="false" full="yes">Naples</placeName> is more conscious, then to doubt</l>
                     <l n="257">You bring a welcome treaty in your person,</l>
                     <l n="258">And every voice and heart is busie with</l>
                     <l n="259">The expectation of your marriage;</l>
@@ -2243,8 +2244,7 @@
                 <sp>
                     <speaker rend="italic">Duke</speaker>
                     <l n="305">How?</l>
-                    <l n="306">The King of <placeName rend="italic" instant="false" full="yes">Naples</placeName> must not Sir
-                        ingage</l>
+                    <l n="306">The King of <placeName rend="italic" instant="false" full="yes">Naples</placeName> must not Sir ingage</l>
                     <l n="307"><placeName rend="italic" instant="false" full="yes">Florence</placeName> to such a mockery.</l>
                 </sp>
 
@@ -2266,7 +2266,7 @@
                     <l n="317">My heart in any disposition</l>
                     <l n="318">To breake at hearing of this newes, but with it</l>
                     <l n="319">Truth to prepare roomes for another guest,</l>
-                    <l n="320">The fairer <name rend="italic" full="yes" instant="false">Domitilla</name> is here sainted.</l>
+                    <l n="320">The fairer <name rend="italic" full="yes" instant="false">Domitilla</name> is here sainted.</l> <stage rend="inline" type="delivery" rend="italic"> [Aside.]</stage>
                 </sp>
 
                 <sp>
@@ -2396,12 +2396,12 @@
                 <sp>
                     <speaker rend="italic"> Duke </speaker>
                     <l n="375"> I am confirmde </l>
-                    <l n="376"> And prosper in my thoughts. </l>
+                    <l n="376"> And prosper in my thoughts. </l> <stage rend="inline" type="delivery" rend="italic"> [Aside.]</stage>
                 </sp>
 
                 <sp>
                     <speaker rend="italic"> Montalto </speaker>
-                    <l n="377"> It takes. </l>
+                    <l n="377"> It takes. </l> <stage rend="inline" type="delivery" rend="italic"> [Aside.]</stage>
                 </sp>
 
                 <sp>
@@ -2420,8 +2420,7 @@
                     <l n="385"> The King.</l>
                 </sp>
 
-                <stage place="centre" type="enter"> Enter King, Simphorosa, Domitilla, Guido,
-                    Aloisio, Alexio. </stage>
+                <stage place="center" type="entrance" rend="italic"> Enter King, Simphorosa, Domitilla, Guido, Aloisio, Alexio. </stage>
 
                 <sp>
                     <l n="386"> We build upon your piety </l>
@@ -2441,7 +2440,7 @@
 
                 <sp>
                     <speaker rend="italic"> Duke </speaker>
-                    <l n="391">Her eyes beget new wonder, I shall be osberv'd. </l>
+                    <l n="391">Her eyes beget new wonder, I shall be osberv'd. </l> <stage rend="inline" type="delivery" rend="italic"> [Aside.]</stage>
                 </sp>
 
                 <sp>
@@ -2475,7 +2474,7 @@
 
                 <sp>
                     <speaker rend="italic"> Domitilla </speaker>
-                    <l n="399"> Ist not plaine.</l>
+                    <l n="399"> Ist not plaine.</l> <stage rend="inline" type="delivery" rend="italic"> [Aside.]</stage>
                 </sp>
 
                 <sp>
@@ -2495,13 +2494,15 @@
                     <l n="404"> Them flame, and knit more charmes upon her brow. </l>
                 </sp>
 
-                <stage type="exit"> Exeunt. </stage>
+                <stage place="center" type="exit" rend="italic"> Exeunt. </stage>
             </div>
             <div type="act" n="3" part="N" org="uniform" sample="complete">
 
                 <head>THE THIRD ACT.</head>
+                                                                          
+                <stage place="center" type="setting" rend="italic"> Naples--A Part of the Palace.</stage>                                                          
 
-                <stage place="center" type="enter">Duke and Riviero.</stage>
+                <stage place="center" type="entrance" rend="italic">Enter Duke, and Riviero.</stage>
 
                 <sp>
                     <speaker rend="italic"> Duke </speaker>
@@ -2614,13 +2615,12 @@
                     <l n="48"> Which in a Prince is sacred. </l>
                 </sp>
 
-                <stage place="center" type="enter">Enter Servant.</stage>
+                <stage place="center" type="entrance" rend="italic">Enter Servant.</stage>
 
                 <sp>
                     <speaker rend="italic">Servant</speaker>
                     <l n="49"> Sir, the Lord </l>
-                    <l n="50">
-                        <name rend="italic" full="yes" instant="false">Montalto</name> is comming up. </l>
+                    <l n="50"><name rend="italic" full="yes" instant="false">Montalto</name> is comming up. </l>
                 </sp>
 
                 <sp>
@@ -2630,8 +2630,9 @@
                     <l n="53"> My time to appeare. </l>
                 </sp>
 
-                <stage place="right" type="exit">Exit Duke.</stage>
-                <stage place="centre" type="enter">Enter Montalto.</stage>
+                <stage place="right" type="exit" rend="italic">Exit Duke.</stage>
+                                                              
+                <stage place="center" type="entrance" rend="italic">Enter Montalto.</stage>
 
                 <sp>
                     <speaker rend="italic">Riviero</speaker>
@@ -2674,7 +2675,7 @@
 
                 <sp>
                     <l n="63"> Shee is of inward counsell with the Duke, </l>
-                    <l n="64"> I must be resolute. </l>
+                    <l n="64"> I must be resolute. </l> <stage rend="inline" type="delivery" rend="italic"> [Aside.]</stage>
                 </sp>
 
                 <sp>
@@ -2687,7 +2688,7 @@
 
                 <sp>
                     <speaker rend="italic">Montalto</speaker>
-                    <l n="69"> I like not that, </l>
+                    <l n="69"> I like not that, </l> <stage rend="inline" type="delivery" rend="italic"> [Aside.]</stage>
                     <l n="70"> He knowes he may command my services. </l>
                 </sp>
 
@@ -2766,7 +2767,7 @@
                 <sp>
                     <speaker rend="italic">Riviero</speaker>
                     <l n="112">I begin</l>
-                    <l n="113">To thinke him worth some pitty.</l>
+                    <l n="113">To thinke him worth some pitty.</l> <stage rend="inline" type="delivery" rend="italic"> [Aside.]</stage>
                 </sp>
 
                 <sp>
@@ -2796,9 +2797,9 @@
                     <l n="136">Of one whom he loved better.</l>
                 </sp>
 
-                <stage place="right" type="exit">Exit <name full="yes" instant="false">Montalto</name>.</stage>
+                <stage place="right" type="exit" rend="italic">Exit <name full="yes" instant="false">Montalto</name>.</stage>
 
-                <stage place="centre" type="entrance">Enter <name full="yes" instant="false">Duke</name>.</stage>
+                <stage place="center" type="entrance" rend="italic">Re-enter <name full="yes" instant="false">Duke</name>.</stage>
 
                 <sp>
                     <speaker rend="italic">Riviero.</speaker>
@@ -2853,7 +2854,7 @@
                     <l n="158">What I resolve inquire not.</l>
                 </sp>
 
-                <stage place="right" type="exit">Exit <name full="yes" instant="false">Duke</name>.</stage>
+                <stage place="right" type="exit" rend="italic">Exit <name full="yes" instant="false">Duke</name>.</stage>
 
                 <sp>
                     <speaker rend="italic">Riviero</speaker>
@@ -2864,8 +2865,7 @@
                     <l n="163">My sonne.</l>
                 </sp>
 
-                <stage place="centre" type="entrance"> Enter
-                        <name full="yes" instant="false">Andrugio</name>,<name full="yes" instant="false">Octavio</name>.</stage>
+                <stage place="center" type="entrance" rend="italic"> Enter <name full="yes" instant="false">Andrugio</name>,<name full="yes" instant="false">Octavio</name>.</stage>
 
                 <sp>
                     <speaker rend="italic">Octavio</speaker>
@@ -2921,12 +2921,13 @@
                     <l n="187"> Drop like a Comet, and be lost i'th aire.</l>
                 </sp>
 
-                <stage place="right" type="exit">Exeunt.</stage>
+                <stage place="right" type="exit" rend="italic">Exeunt.</stage>
 
                 <head>ACT 3. SCENE 2.</head>
+                                                              
+                <stage place="center" type="setting" rend="italic"> A Room in the Palace.</stage>                                              
                 
-                <stage place="centre" type="entrance">Enter <name full="yes" instant="false">Montalto</name>,
-                        <name full="yes" instant="false">Theodosia</name>.</stage>
+                <stage place="center" type="entrance" rend="italic">Enter <name full="yes" instant="false">Montalto</name>,<name full="yes" instant="false">Theodosia</name>.</stage>
 
                 <sp>
                     <speaker rend="italic">Montalto</speaker>
@@ -3211,8 +3212,7 @@
 
                 <stage place="right" type="exit" rend="italic">Exit <name full="yes" instant="false">Montalto</name>.</stage>
 
-                <stage place="centre" type="enter" rend="italic">Enter <name full="yes" instant="false">King</name> and
-                        <name full="yes" instant="false">Guido</name>.</stage>
+                <stage place="center" type="entrance" rend="italic">Enter <name full="yes" instant="false">King</name>, and<name full="yes" instant="false">Guido</name>.</stage>
 
                 <sp>
                     <speaker rend="italic">King</speaker>
@@ -3292,9 +3292,10 @@
                 <stage place="right" type="exit" rend="italic">Exit <name full="yes" instant="false">King</name>.</stage>
 
                 <head>ACT 3. SCENE 3.</head>
+                                                                                                    
+                <stage place="center" type="setting" rend="italic"> Another Room in the Same.</stage>                                                                                    
                 
-                <stage place="centre" type="enter" rend="italic">Enter <name full="yes" instant="false">Domitilla</name>,
-                        <name full="yes" instant="false">Bombo</name>.</stage>
+                <stage place="center" type="entrance" rend="italic">Enter <name full="yes" instant="false">Domitilla</name>, <name full="yes" instant="false">Bombo</name>.</stage>
 
                 <sp>
                     <speaker rend="italic">Bombo</speaker>
@@ -3516,8 +3517,7 @@
                     <l n="410">To goe Embassadour.</l>
                 </sp>
 
-                <stage place="centre" type="enter" rend="italic">Enter
-                    <name full="yes" instant="false">Simphorosa</name>.</stage>
+                <stage place="center" type="entrance" rend="italic">Enter <name full="yes" instant="false">Simphorosa</name>.</stage>
 
                 <sp>
                     <speaker rend="italic">Domitilla</speaker>
@@ -3607,7 +3607,7 @@
 
                 <sp>
                     <speaker rend="italic">Domitilla</speaker>
-                    <l n="446">I Betray my selfe,</l>
+                    <l n="446">I Betray my selfe,</l> <stage rend="inline" type="delivery" rend="italic"> [Aside.]</stage>
                     <l n="447">When I sayd beauty had a power to charme</l>
                     <l n="448">A King, it might acquit me from suspition</l>
                     <l n="449">Of any hope to apply them so ambitiously,</l>
@@ -3706,10 +3706,10 @@
                     <speaker rend="italic">Simphorosa</speaker>
                     <l n="485">I hope shee's not so miserable to affect</l>
                     <l n="486">The <name rend="italic" full="yes" instant="false">King</name>, by whose directions I prepare</l>
-                    <l n="487">Her for <name rend="italic" full="yes" instant="false">Montalto</name>.</l>
+                    <l n="487">Her for <name rend="italic" full="yes" instant="false">Montalto</name>.</l> <stage rend="inline" type="delivery" rend="italic"> [Aside.]</stage>
                 </sp>
 
-                <stage place="center" type="enter">Enter Bombo.</stage>
+                <stage place="center" type="entrance" rend="italic>Re-enter Bombo.</stage>
 
                 <sp>
                     <speaker rend="italic">Bombo</speaker>
@@ -3726,8 +3726,10 @@
                     <speaker rend="italic">Simphorosa</speaker>
                     <l n="491">I must let this passion coole and leave her.</l>
                 </sp>
+                
+                <stage place="right" type="exit" rend="italic"> Exit Simphorosa.</stage>
 
-                <stage place="center" type="enter">Enter Octavio.</stage>
+                <stage place="center" type="entrance" rend="italic">Enter Octavio.</stage>
 
                 <sp>
                     <speaker rend="italic">Octavio</speaker>
@@ -3817,8 +3819,7 @@
                     <l n="520">Are able to create another <placeName rend="italic" instant="false" full="yes">Indies</placeName>;</l>
                     <l n="521">All the delights that dwell in blessed <placeName rend="italic" instant="false" full="yes">Tempe</placeName></l>
                     <l n="522">Divinely bud and blossome in your cheeke,</l>
-                    <l n="523">The treasure of <placeName rend="italic" instant="false" full="yes">Arabia's</placeName>in your
-                        breath,</l>
+                    <l n="523">The treasure of <placeName rend="italic" instant="false" full="yes">Arabia's</placeName>in your breath,</l>
                     <l n="524">Nor <placeName rend="italic" instant="false" full="yes">Thebes</placeName> alone, as to <placeName rend="italic" instant="false" full="yes">Amphions</placeName> Lute</l>
                     <l n="525">Stoopes to the heavenly magicke of your voyce,</l>
                     <l n="526">But all the world.</l>
@@ -3829,8 +3830,7 @@
                     <l n="527">No more of this, these praises</l>
                     <l n="528">Are made for children, and will make truth blush,</l>
                     <l n="529">They may fill up where nature is defective,</l>
-                    <l n="530">And were I Queene of <placeName rend="italic" instant="false" full="yes">Naples</placeName> I should
-                        punish</l>
+                    <l n="530">And were I Queene of <placeName rend="italic" instant="false" full="yes">Naples</placeName> I should punish</l>
                     <l n="531">Such flattery, but you are young and may</l>
                     <l n="532">Outgrow this vanity.</l>
                 </sp>
@@ -3866,7 +3866,7 @@
                     <l n="543">Has not the court transform'd her.</l>
                 </sp>
 
-                <stage type="exit">Exit.</stage>
+                <stage place="right" type="exit modifier" rend="italic">[Aside, and exit Octavio.]</stage>
 
                 <sp>
                     <speaker rend="italic">Domitilla</speaker>
@@ -3885,7 +3885,7 @@
 
                 <l n="549">Beahve my lookes when he declares himselfe.</l>
 
-                <stage place="center" type="enter">Enter Iacamo.</stage>
+                <stage place="center" type="entrance" rend="italic">Enter Iacamo.</stage>
 
                 <sp>
                     <speaker rend="italic">Iacamo</speaker>
@@ -3920,8 +3920,10 @@
                     <l n="558">Princes must not be neglected,</l>
                     <l n="559">That name gives him accesse, say I attend.</l>
                 </sp>
+                
+                <stage place="right" type="exit" rend="italic"> Exit Iacamo.</stage>
 
-                <stage type="enter">Enter Duke.</stage>
+                <stage place="center" type="enter" rend="italic> Enter Duke.</stage>
 
                 <sp>
                     <speaker rend="italic">Duke</speaker>
@@ -3948,15 +3950,15 @@
                 <sp>
                     <speaker rend="italic">Domitilla</speaker>
                     <l n="570">It can be no dishonour</l>
-                    <l n="571">To take these from a Prince.</l>
+                    <l n="571">To take these from a Prince--</l>
                 </sp>
 
-                <stage place="center" type="enter">Enter Iacamo, whispers to Domitilla.</stage>
+                <stage place="center" type="entrance" rend="italic">Re-enter Iacamo, whispers to Domitilla, and exit.</stage>
 
                 <l n="572">The <name rend="italic" full="yes" instant="false">King</name> with wings,</l>
                 <l n="573">Ile haste to meet him.</l>
 
-                <stage type="exit">Exit Domitilla.</stage>
+                <stage place="right" type="exit" rend="italic">Exit Domitilla.</stage>
 
                 <sp>
                     <speaker rend="italic">Duke</speaker>
@@ -3967,14 +3969,16 @@
                     <l n="578">Gentle, my heart I consecrate to love.</l>
                 </sp>
 
-                <stage type="exit">Exit.</stage>
+                <stage place="right" type="exit" rend="italic">Exit.</stage>
             </div>
 
             <div type="act" n="4" part="N" org="uniform" sample="complete">
 
                 <head>THE FOURTH ACT.</head>
+                                                                          
+                <stage place="center" type="setting" rend="italic"> A Room in the Palace.</stage>                                                          
 
-                <stage place="center" type="enter">Enter King, and Domitilla.</stage>
+                <stage place="center" type="entrance" rend="italic">Enter King, and Domitilla.</stage>
 
                 <sp>
                     <speaker rend="italic">King</speaker>
@@ -4002,7 +4006,7 @@
                     <l n="7">To heare his name, I would declare thy husband.</l>
                 </sp>
 
-                <stage place="center" type="enter">Enter Duke.</stage>
+                <stage place="center" type="entrance" rend="italic">Enter Duke.</stage>
 
                 <sp>
                     <speaker rend="italic">Duke</speaker>
@@ -4011,7 +4015,7 @@
 
                 <sp>
                     <speaker rend="italic">King</speaker>
-                    <l n="9">The <name rend="italic" full="yes" instant="false">Duke</name>, this confirmes it.</l>
+                    <l n="9">The <name rend="italic" full="yes" instant="false">Duke</name>, this confirmes it.</l> <stage rend="inline" type="delivery" rend="italic"> [Aside.]</stage>
                 </sp>
 
                 <sp>
@@ -4031,7 +4035,7 @@
                     <l n="14">I Obey.</l>
                 </sp>
 
-                <stage type="exit">Exit.</stage>
+                <stage place="right" type="exit" rend="italic">Exit Domitilla.</stage>
 
                 <sp>
                     <speaker rend="italic">Duke</speaker>
@@ -4048,7 +4052,7 @@
 
                 <sp>
                     <speaker rend="italic">Duke</speaker>
-                    <l n="20">He has prevented me.</l>
+                    <l n="20">He has prevented me.</l> <stage rend="inline" type="delivery" rend="italic"> [Aside.]</stage>
                     <l n="21">Where I receive favour I shall never</l>
                     <l n="22">Want heart to acknowledge.</l>
                 </sp>
@@ -4090,10 +4094,8 @@
                 <sp>
                     <speaker rend="italic">King</speaker>
                     <l n="33">That were onely</l>
-                    <l n="34">To doubt, I must be plaine, <placeName rend="italic" instant="false" full="yes">Florence</placeName> has
-                        not</l>
-                    <l n="35">Beene kind to <placeName rend="italic" instant="false" full="yes">Naples</placeName> to reward us
-                        with</l>
+                    <l n="34">To doubt, I must be plaine, <placeName rend="italic" instant="false" full="yes">Florence</placeName> has not</l>
+                    <l n="35">Beene kind to <placeName rend="italic" instant="false" full="yes">Naples</placeName> to reward us with</l>
                     <l n="36">Affront for love, and <name rend="italic" full="yes" instant="false">Theodosia</name> must not</l>
                     <l n="37">Be any Princes mockery.</l>
                 </sp>
@@ -4112,8 +4114,7 @@
 
                 <l n="40">More for her honour, shee would mock no Prince,</l>
                 <l n="41">I am not lost to <placeName rend="italic" instant="false" full="yes">Florence</placeName> yet, though I</l>
-                <l n="42">Be <placeName rend="italic" instant="false" full="yes">Naples</placeName> guest, and I must tell him
-                    here</l>
+                <l n="42">Be <placeName rend="italic" instant="false" full="yes">Naples</placeName> guest, and I must tell him here</l>
                 <l n="43">I came to meet with faire and Princely treaties</l>
                 <l n="44">Of love, not to be made the tale of <placeName rend="italic" instant="false" full="yes">Italy</placeName>,</l>
                 <l n="45">The ground of Scurrile pasquills, or the mirth</l>
@@ -4209,7 +4210,7 @@
 
                 <sp>
                     <speaker rend="italic">Duke</speaker>
-                    <l n="92">How does shee know that?</l>
+                    <l n="92">How does shee know that?</l> <stage rend="inline" type="delivery" rend="italic"> [Aside.]</stage>
                 </sp>
 
                 <sp>
@@ -4224,8 +4225,7 @@
                     <l n="100">It hath imbracing vertue upon mine,</l>
                     <l n="101">And with his owne remove, drawes my soule after him,</l>
                     <l n="102">If he forget I am a Princesse, pray</l>
-                    <l n="103">Let <placeName rend="italic" instant="false" full="yes">Naples</placeName> doe so too, for my
-                        revenge</l>
+                    <l n="103">Let <placeName rend="italic" instant="false" full="yes">Naples</placeName> doe so too, for my revenge</l>
                     <l n="104">Shall be in prayers, that he may finde my wrong,</l>
                     <l n="105">But teach me soft repentance, and more faith.</l>
                 </sp>
@@ -4279,8 +4279,7 @@
                     <l n="122">Or Violets cheeke, on which the morning leaves</l>
                     <l n="123">A teare at parting, now begins to wither,</l>
                     <l n="124">As it would haste to death; and be forgotten;</l>
-                    <l n="125">This <placeName rend="italic" instant="false" full="yes">Florence</placeName> is a Prince that does
-                        accuse her,</l>
+                    <l n="125">This <placeName rend="italic" instant="false" full="yes">Florence</placeName> is a Prince that does accuse her,</l>
                     <l n="126">And such men give not faith to every murmur</l>
                     <l n="127">Or slight intelligence that wounds a Lady</l>
                     <l n="128">In her deare honour, but shee is my sister,</l>
@@ -4414,7 +4413,7 @@
                     <speaker rend="italic">Theodosia</speaker>
                     <l n="170">Shew spirit now or never. <name rend="italic" full="yes" instant="false">Domitilla</name></l>
                     <l n="171">The greatest part of my affliction,</l>
-                    <l n="172">Let my revenge begin here.</l>
+                    <l n="172">Let my revenge begin here.</l> <stage rend="inline" type="delivery" rend="italic"> [Aside.]</stage>
                 </sp>
 
                 <sp>
@@ -4466,12 +4465,12 @@
                 <sp>
                     <speaker rend="italic">Theodosia</speaker>
                     <l n="192">Doe, or with this I will secure my feares,</l>
-                    <l n="193">And stand the malice of all other fate.</l>
+                    <l n="193">And stand the malice of all other fate.</l> <stage rend="inline" type="business" rend="italic"> [Draws a dagger.]</stage>
                 </sp>
 
                 <sp>
                     <speaker rend="italic">Domitilla</speaker>
-                    <l n="194">Heare me.</l>
+                    <l n="194">Heare me.</l> <stage rend="inline" type="business" rend="italic"> [Kneels.]</stage>
                 </sp>
 
                 <sp>
@@ -4520,9 +4519,9 @@
                     <l n="220">There is no cure for love, but love or death.</l>
                 </sp>
 
-                <stage type="exit" place="right">Exeunt.</stage>
+                <stage type="exit" place="right" rend="italic">Exeunt.</stage>
 
-                <stage type="entrance" place="center" rend="italic">Enter King and Montalto.</stage>
+                <stage type="entrance" place="center" rend="italic">Re-enter King, and Montalto.</stage>
 
                 <sp>
                     <speaker rend="italic">King</speaker>
@@ -4556,9 +4555,7 @@
 
                 <sp>
                     <speaker rend="italic">King</speaker>
-                    <l n="236">
-                        <name rend="italic" full="yes" instant="false">Domitilla</name>
-                    </l>
+                    <l n="236"><name rend="italic" full="yes" instant="false">Domitilla</name></l>
                     <l n="237">Whom I must tell you I already have</l>
                     <l n="238">Prepar'd to be thy bride, as an addition</l>
                     <l n="239">To the reward I owe thy services.</l>
@@ -4666,8 +4663,7 @@
                     <l n="288">With <name rend="italic" full="yes" instant="false">Domitillaes</name> person to quit <placeName rend="italic" instant="false" full="yes">Naples</placeName>.</l>
                 </sp>
 
-                <stage type="entrance" place="center" rend="italic">Enter Guido, Aloisio,
-                    Alexio.</stage>
+                <stage type="entrance" place="center" rend="italic">Enter Guido, Aloisio, Alexio.</stage>
 
                 <sp>
                     <speaker rend="italic">Guido</speaker>
@@ -4742,6 +4738,8 @@
                     <speaker rend="italic">Montalto</speaker>
                     <l n="314">You divide me.</l>
                 </sp>
+                              
+                <stage place="right" type="exit" rend="italic"> Exit Montalto.</stage>              
 
                 <sp>
                     <speaker rend="italic">Alexio</speaker>
@@ -4809,7 +4807,7 @@
 
                 <sp>
                     <speaker rend="italic">Riviero</speaker>
-                    <l n="333">Perhaps there is some cunning, nay preferre</l>
+                    <l n="333">Perhaps there is some cunning-- <stage rend="inline" type="delivery" rend="italic"> [Aside.]</stage> Nay preferre</l>
                     <l n="334">The businesse of the soule, I may presume</l>
                     <l n="335">He has no long Catalogue to account for.</l>
                 </sp>
@@ -4848,6 +4846,8 @@
                     <l n="347">Be carefull of your watch and looke about you,</l>
                     <l n="348">Some Weesell may get in else.</l>
                 </sp>
+                              
+                <stage place="right" type="exit" rend="italic"> Exit Riverio.</stage>              
 
                 <sp>
                     <speaker rend="italic">Guido</speaker>
@@ -4859,7 +4859,7 @@
                     <l n="350">Let him, his Embassy is not perform'd.</l>
                 </sp>
 
-                <stage type="entrance" place="center" rend="italic">Enter Duke, Montalto.</stage>
+                <stage type="entrance" place="center" rend="italic">Re-enter Duke, Montalto.</stage>
 
                 <sp>
                     <speaker rend="italic">Montalto</speaker>
@@ -4896,8 +4896,7 @@
                 <sp>
                     <speaker rend="italic">Duke</speaker>
                     <l n="363">Deare <name rend="italic" full="yes" instant="false">Machiavill</name></l>
-                    <l n="364">This will not doe, the <name rend="italic" full="yes" instant="false">King</name> shall know your
-                        strategems.</l>
+                    <l n="364">This will not doe, the <name rend="italic" full="yes" instant="false">King</name> shall know your strategems.</l>
                 </sp>
 
                 <sp>
@@ -4917,13 +4916,11 @@
                     <speaker rend="italic">Montalto</speaker>
                     <l n="370">Now.</l>
 
-                    <stage type="business" place="right" rend="italic">Montalto drawes a dagger at
+                    <stage type="business" rend="inline" rend="italic">Montalto drawes a dagger at
                         the Dukes backe.</stage>
 
-                    <l n="371">Twill not be safe, you know your charge.</l>
+                    <l n="371">Twill not be safe, you know your charge.</l> <stage rend="inline" type="exit modifier" rend="italic"> [Aside to Guido & company, and exit.]</stage>
                 </sp>
-
-                <stage type="exit" place="right" rend="italic">Exit Montalto.</stage>
 
                 <sp>
                     <speaker rend="italic">Guido</speaker>
@@ -4966,10 +4963,8 @@
                 <sp>
                     <speaker rend="italic">Duke</speaker>
                     <l n="380">I know not</l>
-                    <l n="381">How to interpret this, I want <name rend="italic" full="yes" instant="false">Philoberto</name>.</l>
+                    <l n="381">How to interpret this, I want <name rend="italic" full="yes" instant="false">Philoberto</name>.</l> <stage rend="inline" type="exit modifier" rend="italic"> [Aside, and exit.]</stage>
                 </sp>
-
-                <stage type="exit" place="right" rend="italic">Exit Duke.</stage>
 
                 <stage type="entrance" place="center" rend="italic">Enter Octavio.</stage>
 
@@ -5026,7 +5021,7 @@
                     <l n="400">My Lady <name rend="italic" full="yes" instant="false">Domitillaes</name> Secretary.</l>
                 </sp>
 
-                <stage type="entrance" place="center" rend="italic">Enter Bombo.</stage>
+                <stage type="entrance" place="center" rend="italic">Enter Bombo, gaily dressed.</stage>
 
                 <sp>
                     <speaker rend="italic">Bombo</speaker>
@@ -5229,8 +5224,7 @@
                     <l n="459">Finde that presently.</l>
                 </sp>
 
-                <stage type="entrance" place="center" rend="italic">Enter King reading a paper,
-                    Octavio.</stage>
+                <stage type="entrance" place="center" rend="italic">Enter King reading a paper, Octavio.</stage>
 
                 <sp>
                     <speaker rend="italic">Guido</speaker>
@@ -5261,12 +5255,12 @@
                     <l n="465">To abuse us so, this will require some coundsell;</l>
                 </sp>
 
-                <stage type="entrance" place="center" rend="italic">Enter Montalto.</stage>
+                <stage type="entrance" place="center" rend="italic">Re-enter Montalto.</stage>
 
                 <l n="466">Hee's here,</l>
                 <l n="467"><name rend="italic" full="yes" instant="false">Montalto</name>, leave us.</l>
 
-                <stage type="italic" place="right" rend="italic">Exeunt Lords.</stage>
+                <stage type="exit" place="right" rend="italic">Exeunt Lords.</stage>
 
                 <sp>
                     <speaker rend="italic">Montalto</speaker>
@@ -5576,7 +5570,7 @@
                     <l n="611">Who waites?</l>
                 </sp>
 
-                <stage place="centre" type="enter" rend="italic">Enter Lords.</stage>
+                <stage place="center" type="entrance" rend="italic">Re-enter Guido, Aloisio, and Alexio.</stage>
 
                 <sp>
                     <l n="612">Now it begins,</l>
@@ -5603,6 +5597,8 @@
                     <l n="621">From whence on perill of our anger stirre not</l>
                     <l n="622">Untill wee send for you—<name rend="italic" full="yes" instant="false">Octavio.</name></l>
                 </sp>
+                                                                                                     
+                <stage place="right" type="exit" rend="italic"> Exeunt King, and Octavio.</stage>                                                                                     
 
                 <sp>
                     <speaker rend="italic">Guido</speaker>
@@ -5623,9 +5619,10 @@
             </div>
             <div type="act" n="5" part="N" org="uniform" sample="complete">
                 <head>THE FIFTH ACT.</head>
+                                                                          
+                <stage place="center" type="setting" rend="italic"> Naples--A Room in the Palace.</stage>                                                          
 
-                <stage place="centre" type="enter" rend="italic">Enter <name full="yes" instant="false">Simphorosa</name>,
-                        <name full="yes" instant="false">Theodosia</name>, <name rend="italic" full="yes" instant="false">Domitilla</name>.</stage>
+                <stage place="center" type="entrance" rend="italic">Enter <name full="yes" instant="false">Simphorosa</name>,<name full="yes" instant="false">Theodosia</name>, <name rend="italic" full="yes" instant="false">Domitilla</name>.</stage>
 
                 <sp>
                     <speaker rend="italic">Theodosia</speaker>
@@ -5644,7 +5641,7 @@
                     <l n="3">This I fear'd,</l>
                 </sp>
 
-                <stage place="centre" type="enter" rend="italic">Enter <name full="yes" instant="false">Iacamo</name>.</stage>
+                <stage place="center" type="entrance" rend="italic">Enter <name full="yes" instant="false">Iacamo</name>.</stage>
 
                 <sp>
                     <l n="4">I must acquaint the <name rend="italic" full="yes" instant="false">King</name>, where is your fellow</l>
@@ -5664,8 +5661,7 @@
                 <sp>
                     <speaker rend="italic">Iacamo</speaker>
                     <l n="8">Backe to the country house, he heard of my Lord</l>
-                    <l n="9"><name rend="italic" full="yes" instant="false">Montaltoes</name> disgrace, and the feare fo his
-                        supplying</l>
+                    <l n="9"><name rend="italic" full="yes" instant="false">Montaltoes</name> disgrace, and the feare fo his supplying</l>
                     <l n="10">The place of a favorite, sent him away this morning</l>
                     <l n="11">With all his moveables the countrey he saies</l>
                     <l n="12">Is wholesome, where he will dye without feare or wit when</l>
@@ -5677,13 +5673,12 @@
                 <sp>
                     <speaker rend="italic">Simphorosa</speaker>
                     <l n="14">Would we had still beene strangers to the Court,</l>
-                    <l n="15">Leave us, my daughter is much bound to your grace.</l>
+                    <l n="15">Leave us. <stage rend="inline" type="exit" rend="italic"> [Exit Iacamo.]</stage> My daughter is much bound to your grace.</l>
                 </sp>
 
                 <sp>
                     <speaker rend="italic">Domitilla</speaker>
-                    <l n="16">Is this the <name rend="italic" full="yes" instant="false">King</name> you speake of, pray be
-                        carefull</l>
+                    <l n="16">Is this the <name rend="italic" full="yes" instant="false">King</name> you speake of, pray be carefull</l>
                     <l n="17">You speake all goodnesse of him, he deserves it,</l>
                     <l n="18">And will when I am dead.</l>
                 </sp>
@@ -5692,6 +5687,8 @@
                     <speaker rend="italic">Simphorosa</speaker>
                     <l n="19">Ile lose no time.</l>
                 </sp>
+                             
+                <stage place="right" type="exit" rend="italic"> Exit Simphorosa.</stage>             
 
                 <sp>
                     <speaker rend="italic">Theodosia</speaker>
@@ -5739,7 +5736,7 @@
                 <l n="41">To make my time more happy, spent in something</l>
                 <l n="42">That may concerne your highnesse, you doe love too.</l>
 
-                <stage place="centre" type="enter" rend="italic">Enter <name full="yes" instant="false">Iacamo</name>.</stage>
+                <stage place="center" type="entrance" rend="italic">Re-enter <name full="yes" instant="false">Iacamo</name>.</stage>
 
                 <sp>
                     <speaker rend="italic">Iacamo</speaker>
@@ -5765,14 +5762,14 @@
                     <l n="50">I preethe let me heare the second part?</l>
                 </sp>
 
-                <stage place="right" type="exit" rend="italic">Exit <name full="yes" instant="false">Theodosia</name>.</stage>
+                <stage place="right" type="exit" rend="italic">Retires.</stage>
 
                 <sp>
                     <speaker rend="italic">Domitilla</speaker>
                     <l n="51">I shall against my owne desires obey you.</l>
                 </sp>
 
-                <stage place="centre" type="enter" rend="italic">Enter <name full="yes" instant="false">Duke</name>.</stage>
+                <stage place="center" type="entrance" rend="italic">Enter <name full="yes" instant="false">Duke</name>.</stage>
 
                 <sp>
                     <speaker rend="italic">Duke</speaker>
@@ -5973,7 +5970,7 @@
                     <l n="132">Without his free consent never to marry.</l>
                 </sp>
 
-                <stage type="exit">Exit.</stage>
+                <stage place="right" type="exit" rend="italic">Exit Domitilla.</stage>
 
                 <sp>
                     <speaker rend="italic">Duke</speaker>
@@ -5986,7 +5983,7 @@
                     <l n="139">In am resolv'd, this night Ile steale from <placeName rend="italic" instant="false" full="yes">Naples</placeName>.</l>
                 </sp>
 
-                <stage place="center" type="enter">Enter Theodosia.</stage>
+                <stage place="center" type="entrance" rend="italic">Re-enter Theodosia.</stage>
 
                 <sp>
                     <speaker rend="italic">Theodosia</speaker>
@@ -6048,8 +6045,7 @@
                     <l n="160">My blushes in this overflow of charity;</l>
                     <l n="161">But there's an act that justice calls me to,</l>
                     <l n="162">Before I can be worthy of this peace.</l>
-                    <l n="163"><name rend="italic" full="yes" instant="false">Montalto</name> has plaid the villaine, now I finde
-                        it,</l>
+                    <l n="163"><name rend="italic" full="yes" instant="false">Montalto</name> has plaid the villaine, now I finde it,</l>
                     <l n="164">And from his treacherous heart my sword must force</l>
                     <l n="165">A bloody satisfaction for thy honour,</l>
                     <l n="166">Poyson'd by him.</l>
@@ -6061,7 +6057,7 @@
                     <l n="168">Already sunke him.</l>
                 </sp>
 
-                <stage place="center" type="enter">Enter a Courtier.</stage>
+                <stage place="center" type="entrance" rend="italic">Enter a Courtier.</stage>
 
                 <sp>
                     <speaker rend="italic">Courtier</speaker>
@@ -6080,12 +6076,13 @@
                     <l n="173">Though I shall blush to see him, Ile waite on you.</l>
                 </sp>
 
-                <stage type="exit">Exeunt.</stage>
+                <stage place="right" type="exit" rend="italic">Exeunt.</stage>
 
                 <head>ACT 5. SCENE 2.</head>
+                                                              
+                <stage place="center" type="setting" rend="italic"> Another Room in the Same.</stage>                                              
                 
-                <stage place="center" type="enter">Enter King, Riviero, Andrugio;
-                    Petitioners.</stage>
+                <stage place="center" type="entrance" rend="italic">Enter King, Riviero, Andrugio, and Petitioners, who deliver their petitions to the King, and exeunt.</stage>
 
                 <sp>
                     <speaker rend="italic">King</speaker>
@@ -6149,7 +6146,7 @@
                     <l n="208">Tis his Character.</l>
                 </sp>
 
-                <stage place="center" type="enter">Enter Octavio.</stage>
+                <stage place="center" type="entrance" rend="italic">Enter Octavio.</stage>
 
                 <l n="209"><name rend="italic" full="yes" instant="false">Octavio</name> you come for justice too.</l>
 
@@ -6191,7 +6188,7 @@
                     <l n="219">You observe—away—</l>
                 </sp>
 
-                <stage type="enter">Exit Andrugio. Octavio.</stage>
+                <stage place="right" type="exit" rend="italic" >Exit Andrugio.</stage>
 
                 <l n="220">We may be just <name rend="italic" full="yes" instant="false">Philoberto</name>,</l>
                 <l n="221">Yet not destroy another attribute,</l>
@@ -6207,7 +6204,7 @@
                 <l n="224">But thought a sinne on the right hand, we are</l>
                 <l n="225">Resolv'd.</l>
 
-                <stage place="center" type="enter">Enter Simphorosa.</stage>
+                <stage place="center" type="entrance" rend="italic">Enter Simphorosa.</stage>
 
                 <l n="226">Madam you are welcome.</l>
 
@@ -6230,6 +6227,8 @@
                     <speaker rend="italic">Riviero</speaker>
                     <l n="234">I obey.</l>
                 </sp>
+                              
+                <stage place="right" type="exit" rend="italic"> Exit Riviero.</stage>              
 
                 <sp>
                     <speaker rend="italic">King</speaker>
@@ -6255,8 +6254,7 @@
                     <l n="246">Whom I have brought into a waking dreame</l>
                     <l n="247">Of passion, something I must doe, pray tell me,</l>
                     <l n="248">But tell me truth, I charge thee by thy duty</l>
-                    <l n="249">To me, to <placeName rend="italic" instant="false" full="yes">Naples</placeName>, and to heaven, or
-                        if</l>
+                    <l n="249">To me, to <placeName rend="italic" instant="false" full="yes">Naples</placeName>, and to heaven, or if</l>
                     <l n="250">There be in womans faith, or thy Religion</l>
                     <l n="251">Any thing else to make it up a full</l>
                     <l n="252">And perfect conjuration.</l>
@@ -6327,9 +6325,9 @@
                     <l n="282">A widdowes prayers and teares for this great bounty.</l>
                 </sp>
 
-                <stage type="exit">Exit.</stage>
+                <stage place="right" type="exit" rend="italic">Exit Simphorosa.</stage>
 
-                <stage place="center" type="enter">Enter Riviero.</stage>
+                <stage place="center" type="entrance" rend="italic">Re-enter Riviero.</stage>
 
                 <sp>
                     <speaker rend="italic">Riviero</speaker>
@@ -6352,8 +6350,10 @@
                     <speaker rend="italic">King</speaker>
                     <l n="288">That would rejoyce me.</l>
                 </sp>
+                              
+                <stage place="right" type="exit" rend="italic"> Exit Riviero.</stage>              
 
-                <stage place="center" type="enter">Enter Duke, Theodosia.</stage>
+                <stage place="center" type="entrance" rend="italic">Re-enter Duke, Theodosia.</stage>
 
                 <sp>
                     <speaker rend="italic">Theodosia</speaker>
@@ -6387,6 +6387,8 @@
                     <speaker rend="italic">King</speaker>
                     <l n="297">The clouds are now remov'd.</l>
                 </sp>
+                             
+                <stage place="center" type="entrance" rend="italic"> Re-enter Riviero.</stage>              
 
                 <fw type="catch" place="bottom-right" rend="italic">Riviero</fw>
 
@@ -6412,9 +6414,13 @@
                     <l n="302">Let me intreate you to obscute your persons</l>
                     <l n="303">A while.</l>
                 </sp>
-                <stage place="right" type="exit">Exit <name rend="italic" full="yes" instant="false">Duke</name>, <name rend="italic" full="yes" instant="false">Theodosia</name>.</stage>
-                <stage type="business" place="center">Loud Musicke -</stage>
-                <stage place="center" type="entrance">Enter <name rend="italic" full="yes" instant="false">Guido</name>, <name rend="italic" full="yes" instant="false">Aloisio</name>, <name rend="italic" full="yes" instant="false">Alexio</name>, <name rend="italic" full="yes" instant="false">Andrugio</name>, <name rend="italic" full="yes" instant="false">Octavio</name>, <name rend="italic" full="yes" instant="false">Montalto</name>.</stage>
+                              
+                <stage place="right" type="exit" rend="italic">Exeunt <name rend="italic" full="yes" instant="false">Duke</name>, <name rend="italic" full="yes" instant="false">Theodosia</name>.</stage>
+                
+                <stage type="setting" place="center" rend="italic">Loud Musicke -</stage>
+                                                     
+                <stage place="center" type="entrance" rend="italic">Enter <name rend="italic" full="yes" instant="false">Guido</name>, <name rend="italic" full="yes" instant="false">Aloisio</name>, <name rend="italic" full="yes" instant="false">Alexio</name>, <name rend="italic" full="yes" instant="false">Andrugio</name>, <name rend="italic" full="yes" instant="false">Octavio</name>, <name rend="italic" full="yes" instant="false">Montalto</name>.</stage>
+                
                 <sp>
                     <speaker rend="italic"> King</speaker>
                     <l n="304">My Lord y'are welcome to us, very welcome</l>
@@ -6449,7 +6455,7 @@
                 <sp>
                     <speaker rend="italic">Riviero</speaker>
                     <l n="324">So, so,</l>
-                    <l n="325">The <name rend="italic" full="yes" instant="false">King</name> is charm'd.</l>
+                    <l n="325">The <name rend="italic" full="yes" instant="false">King</name> is charm'd.</l> <stage rend="inline" type="delivery" rend="italic"> [Aside.]</stage>
                 </sp>
                 <sp>
                     <speaker rend="italic"> Octavio</speaker>
@@ -6481,22 +6487,29 @@
                 </sp>
                 <sp>
                     <speaker rend="italic">King</speaker>
-                    <l n="335">Theres something may concerne your want of grace</l>
+                                          <l n="335">Theres something may concerne your want of grace</l>          
                 </sp>
+                                                    
                 <stage type="business"><name rend="italic" full="yes" instant="false">Andrugio</name>, <name rend="italic" full="yes" instant="false">Philoberto</name>.Gives them papers.</stage>
-                <sp>
+                
+                                                                                                                                                     <sp>
                     <speaker rend="italic">Montalto</speaker>
                     <l n="336">We are undone <name rend="italic" full="yes" instant="false">Guido</name>, and I see more</l>
                     <l n="337">Engines are leveld at my fate.</l>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic">Riviero</speaker>
                     <l n="338">The <name rend="italic" full="yes" instant="false">King</name> would have your Lordship peruse this.</l>
                 </sp>
+                                                                                 
                 <sp>
                     <speaker rend="italic">Andrugio</speaker>
                     <l n="339">And these.</l>
                 </sp>
+                              
+                <stage place="right" type="business" rend="italic"> [They give the papers to Montalto, who reads them.]</stage>              
+                              
                 <sp>
                     <speaker rend="italic">Riviero</speaker>
                     <l n="340">That you may know your friends and enemies.</l>
@@ -6512,19 +6525,23 @@
                     <l n="344">And the <name rend="italic" full="yes" instant="false">Duke</name> to you, and you may presume</l>
                     <l n="345">To use their favours, they are here.</l>
                 </sp>
-                <stage place="centre" type="entrance">Enter <name rend="italic" full="yes" instant="false">Duke</name>, <name rend="italic" full="yes" instant="false">Theodosia</name>.</stage>
-                <sp>
+                              
+                <stage place="center" type="entrance" rend="italic">Re-enter <name rend="italic" full="yes" instant="false">Duke</name>, <name rend="italic" full="yes" instant="false">Theodosia</name>.</stage>
+               
+               <sp>
                     <speaker rend="italic">Montalto</speaker>
                     <l n="346">Twere better</l>
                     <l n="347">For me they had no beeing. I did never</l>
                     <l n="348">Expect this, to accuse me for the death</l>
                     <l n="349">Of <name rend="italic" full="yes" instant="false">Riviero</name>, but I must obey</l>
-                    <l n="350">This fatall revolution.</l>
+                    <l n="350">This fatall revolution.</l> <stage rend="inline" type="business" rend="italic"> [Kneels.]</stage>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic"> King</speaker>
                     <l n="351">Why does <name rend="italic" full="yes" instant="false">Montalto</name> kneele.</l>
                 </sp>
+                                                                                      
                 <sp>
                     <speaker rend="italic">Montalto</speaker>
                     <l n="352">I dare not aske your pardon,</l>
@@ -6532,28 +6549,33 @@
                     <l n="354">Rough as the cause you have to make it frowne,</l>
                     <l n="355">And that may strike me dead without more torment.</l>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic">King</speaker>
                     <l n="356">Ingratefull man! am I rewarded thus,</l>
                     <l n="357">Not onely with my faith abus'd and subjects,</l>
                     <l n="358">But wounding all our honours.</l>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic">Theodosia</speaker>
                     <l n="359">Let him finde your mercy Sir</l>
                     <l n="360">For his offence to me.</l>
                 </sp>
-                <stage place="centre" type="entrance"> Enter <name rend="italic" full="yes" instant="false">Simphorosa</name>,
-                        <name rend="italic" full="yes" instant="false">Domitilla</name>.</stage>
+                              
+                <stage place="center" type="entrance" rend="italic"> Re-enter <name rend="italic" full="yes" instant="false">Simphorosa</name>,<name rend="italic" full="yes" instant="false">Domitilla</name>.</stage>
+                
                 <sp>
                     <speaker rend="italic">King</speaker>
                     <l n="361">I must not, dare not pardon, twere a sinne</l>
                     <l n="362">In me of violence to heaven and justice.</l>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic">Montalto</speaker>
                     <l n="363">You have beene a <title>Royall Master</title>.</l>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic">King</speaker>
                     <l n="364">Take him hence,</l>
@@ -6561,6 +6583,7 @@
                     <l n="366">Expect the censure of our lawes you gentlemen;</l>
                     <l n="367">We onely banish from the court.</l>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic">Guido, Aloisio, Alexio</speaker>
                     <l n="368">You are mercifull.</l>
@@ -6576,28 +6599,33 @@
                     <speaker rend="italic">King</speaker>
                     <l n="369">Pray and be honest.</l>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic">Riviero</speaker>
                     <l n="370">That last will be the greatest penance to 'em.</l>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic">King</speaker>
                     <l n="371">My passion would be strong but here is one</l>
                     <l n="372">Come to divert the streame, how is it with</l>
                     <l n="373">My pretty <name rend="italic" full="yes" instant="false">Domitilla</name>, you and I</l>
-                    <l n="374">May change some words in private.</l>
+                    <l n="374">May change some words in private.</l> <stage rend="inline" type="business" rend="italic"> [Takes Domitilla aside.]</stage>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic">Octavio</speaker>
                     <l n="375">The King is just, and tis within your silence</l>
                     <l n="376">To make <name rend="italic" full="yes" instant="false">Montalto</name> nothing.</l>
                 </sp>
+                                                                                     
                 <sp>
                     <speaker rend="italic">Riviero</speaker>
                     <l n="377">Hee will sinke</l>
                     <l n="378">Apace without that weight upon him, malice</l>
                     <l n="379">Shall have no share in my revenge.</l>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic">King</speaker>
                     <l n="380">And since <name rend="italic" full="yes" instant="false">Montalto</name></l>
@@ -6608,11 +6636,13 @@
                     <l n="385">And entertaine it, oh the dayes and nights</l>
                     <l n="386">Weele spend together.</l>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic">Octavio</speaker>
                     <l n="387">The <name rend="italic" full="yes" instant="false">King</name>'s very pleasant</l>
                     <l n="388">With <name rend="italic" full="yes" instant="false">Domitilla</name>.</l>
                 </sp>
+                                                                                  
                 <sp>
                     <speaker rend="italic">King</speaker>
                     <l n="389">Come kisse me</l>
@@ -6620,10 +6650,12 @@
                     <l n="391">Before all these, what needs this modesty,</l>
                     <l n="392">Come let us take in one anothers soule.</l>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic">Domitilla</speaker>
                     <l n="393">Are you the King of <placeName rend="italic" instant="false" full="yes">Naples</placeName>.</l>
                 </sp>
+                                                                                                      
                 <sp>
                     <speaker rend="italic">King</speaker>
                     <l n="394">So they call me,</l>
@@ -6633,10 +6665,12 @@
                     <l n="398">Like unto that our heate and blood creates</l>
                     <l n="399">A mistresse <name rend="italic" full="yes" instant="false">Domitilla</name>.</l>
                 </sp>
+                                                                                         
                 <sp>
                     <speaker rend="italic">Domitilla</speaker>
                     <l n="400">Are you Sir in earnest?</l>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic">King</speaker>
                     <l n="401">Doe but thou consent, and I</l>
@@ -6644,6 +6678,7 @@
                     <l n="403">Of the delight; they will not follow us,</l>
                     <l n="404">Ile tell thee more i'th bed-chamber.</l>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic">Domitilla</speaker>
                     <l n="405">I dare</l>
@@ -6659,20 +6694,24 @@
                     <l n="408">Sinne hath deform'd his very shape, his voyce</l>
                     <l n="409">Hath now no harmony.</l>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic">King</speaker>
                     <l n="410">This is but to draw</l>
                     <l n="411">More courtship from me.</l>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic">Domitilla</speaker>
                     <l n="412">Pardon I beseech you,</l>
                     <l n="413">I have found my errour.</l>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic">King</speaker>
-                    <l n="414"> Will shee yeeld?</l>
+                    <l n="414"> Will shee yeeld?</l> <stage rend="inline" type="delivery" rend="italic"> [Aside.]</stage>
                 </sp>
+                                                                                                       
                 <sp>
                     <speaker rend="italic">Domitilla</speaker>
                     <l n="415">I did consent</l>
@@ -6685,23 +6724,26 @@
                     <l n="422">I call love backe agen, and can looke on</l>
                     <l n="423">Your lusts with a becomming scorne.</l>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic">King</speaker>
                     <l n="424">You can.</l>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic">Domitilla</speaker>
                     <l n="425">Yes, and were <placeName rend="italic" instant="false" full="yes">Naples</placeName>, <placeName rend="italic" instant="false" full="yes">Rome</placeName>, and all the wealth</l>
-                    <l n="426">Of <placeName rend="italic" instant="false" full="yes">Italy</placeName> laid downe, the great
-                        temptation,</l>
+                    <l n="426">Of <placeName rend="italic" instant="false" full="yes">Italy</placeName> laid downe, the great temptation,</l>
                     <l n="427">Thus I would spurne their glories.</l>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic">King</speaker>
                     <l n="428">Come this is but the tricke of all your sex,</l>
                     <l n="429">We know you can dissemble appetite,</l>
                     <l n="430">As if you were not flesh and blood.</l>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic">Domitilla</speaker>
                     <l n="431">Sir give</l>
@@ -6710,6 +6752,7 @@
                     <l n="434">Have I contracted such a leprous forme</l>
                     <l n="435">That I have lost all mens defence and charity.</l>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic">Octavio</speaker>
                     <l n="436">Madam your innocence doth raise in me,</l>
@@ -6718,10 +6761,12 @@
                     <l n="439">Armde with the witnesse of her cause, defie</l>
                     <l n="440">The greatest souldier in the world.</l>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic">King</speaker>
                     <l n="441">How's this?</l>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic"> Octavio</speaker>
                     <l n="442">Sir, in a noble canse, if you to whom</l>
@@ -6740,18 +6785,21 @@
                     <l n="445">You so brave? to prison with him,</l>
                     <l n="446">We will correct your saucinesse.</l>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic">Octavio</speaker>
                     <l n="447">You will grace</l>
                     <l n="448">My first act Sir, and get me same by suffering</l>
                     <l n="449">For so much sweetnesse.</l>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic">Domitilla</speaker>
                     <l n="450">Let not your displeasure</l>
                     <l n="451">Great Sir fall upon him, revenge what you</l>
                     <l n="452">Call disobedience here.</l>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic">King</speaker>
                     <l n="453">You owe much to</l>
@@ -6759,27 +6807,30 @@
                     <l n="455">Beyond your love and liking of his boldnesse,</l>
                     <l n="456">You two should make a marriage with your follies.</l>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic">Octavio</speaker>
                     <l n="457">Let <name rend="italic" full="yes" instant="false">Domitilla</name> make <name rend="italic" full="yes" instant="false">Octavio</name></l>
                     <l n="458">So blest.</l>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic">Domitilla</speaker>
                     <l n="459">My Lord you now deserve I should</l>
                     <l n="460">Be yours, whom with the hazard of the <name rend="italic" full="yes" instant="false">King</name>s</l>
                     <l n="461">Anger, and your owne life you have defended;</l>
                     <l n="462">There is a spring of honour here, and too it</l>
-                    <l n="463">I'th presence of the <name rend="italic" full="yes" instant="false">King</name>, his Court and
-                        Heaven,</l>
+                    <l n="463">I'th presence of the <name rend="italic" full="yes" instant="false">King</name>, his Court and Heaven,</l>
                     <l n="464">I dare now give my heart, nor is't without</l>
                     <l n="465">My duty to a promise.</l>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic">Octavio</speaker>
                     <l n="466">Now you make</l>
                     <l n="467"><name rend="italic" full="yes" instant="false">Octavio</name> happy.</l>
                 </sp>
+                                                                             
                 <sp>
                     <speaker rend="italic">King</speaker>
                     <l n="468">Tis to my desires,</l>
@@ -6792,23 +6843,28 @@
                     <l n="475">Whose birth and forward vertue will deserve thee,</l>
                     <l n="476">Brother and sister love, and wish them happinesse.</l>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic">Theodosia</speaker>
                     <l n="477">May all joyes spring within their hearts.</l>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic">Duke</speaker>
                     <l n="478">I must present this gentleman to be more knowne to you.</l>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic">Octavio</speaker>
                     <l n="479">I hope you are no enemy to this blessing.</l>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic">Simphorosa</speaker>
                     <l n="480">I adde what doth become a most glad mother,</l>
                     <l n="481">My blessing to your loves.</l>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic">King</speaker>
                     <l n="482">Noble <name rend="italic" full="yes" instant="false">Riviero</name>.</l>
@@ -6824,6 +6880,7 @@
                     <speaker rend="italic">Riviero</speaker>
                     <l n="483">I live agen by your acknowledgment.</l>
                 </sp>
+                              
                 <sp>
                     <speaker rend="italic">Duke</speaker>
                     <l n="484">Sir you may trust my testimony, <name rend="italic" full="yes" instant="false">Alvarez</name></l>
@@ -6831,17 +6888,19 @@
                     <l n="486">Who is yet living to increase the guilt</l>
                     <l n="487">Of false <name rend="italic" full="yes" instant="false">Montalto</name>.</l>
                 </sp>
+                                                                                      
                 <sp>
                     <speaker rend="italic">King</speaker>
                     <l n="488">Welcome, tis thy life</l>
-                    <l n="489">That hath revers'd <name rend="italic" full="yes" instant="false">Montaltoes</name> doome, whose
-                        sentence</l>
+                    <l n="489">That hath revers'd <name rend="italic" full="yes" instant="false">Montaltoes</name> doome, whose sentence</l>
                     <l n="490">Now shall bee onely banishment, our hearts</l>
                     <l n="491">Are full and sprightly, nothing wants but to</l>
                     <l n="492">Perfect with holy ceremony, what</l>
                     <l n="493">Your hearts have seal'd, mirth in each bosome flowes,</l>
                     <l n="494">Distraction never had so sweet a close.</l>
                  </sp>
+                              
+                 <stage place="right" type="exit" rend="italic"> Exeunt.</stage>             
             
             <signed>FINIS.</signed></div>
          
