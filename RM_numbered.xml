@@ -6904,7 +6904,7 @@
             
             <signed>FINIS.</signed></div>
          
-<pb n="72"/>
+<pb n="72" xml:id="RM_05_72.jpg" facs="data/images/single/RM_05_72.jpg/>
             <div type="epilogue" part="N" org="uniform" sample="complete">
                 <head>THE EPILOGUE.</head>
             <head>As it vvas spoken to the Lord Deputie on Newyeares-day at night, by way of vote,
@@ -6932,7 +6932,7 @@
            
             <fw type="catch" place="bottom-right">May</fw>
 
-            <pb n="73"/>
+            <pb n="73" xml:id="RM_00_73.jpg" facs="data/images/single/RM_00_73.jpg/>
 
             <fw place="top-center" type="runninghead" rend="italic">The Royall Master.</fw>
             <fw place="top-center" type="runninghead">The Epilogue.</fw>
@@ -6957,7 +6957,7 @@
                 <l n="37"> And every yeare be coppie of the old.</l>
        
             <signed>FINIS.</signed></div>            
-            <pb n="74"/>
+            <pb n="74" xml:id="RM_00_74.jpg" facs="data/images/single/RM_0_74.jpg/>
         </body>
     </text>
 </TEI>
