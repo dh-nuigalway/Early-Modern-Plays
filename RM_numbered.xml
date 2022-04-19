@@ -24,7 +24,7 @@
         <body>
             
             <div type="epistle" n="1">
-                    <pb n="I"/>
+                    <pb n="I" xml:id="RM_00_00.jpg" facs="data/images/single/RM_00_00.jpg"/>
                     <head place="center">To the Right Honorable, GEORGE Earle of <placeName
                         rend="italic">Kildare</placeName>, Baron of <placeName rend="italic"
                             >Ophalie</placeName>, and Primier Earle of the Kingdome of <placeName
@@ -39,7 +39,7 @@
                             >England</placeName> hasten my departure, and prevent my personall
                         atten- <fw type="catch">dance</fw>
                         
-                        <pb n="II"/>
+                        <pb n="II" xml:id="RM_00_01.jpg" facs="data/images/single/RM_00_01.jpg"/>
                         <fw type="head">The Epistle Dedicatory</fw> dance, that something of me may be
                         honourd to waite upon you in my absence, this Poeme; tis new, and never yet
                         personated, but expected with the first, when the English Stage shall bee
@@ -53,7 +53,7 @@
             </div>
 
             <div type="poem" n="2">
-                <pb n="III"/>
+                <pb n="III" xml:id="RM_00_02.jpg" facs="data/images/single/RM_00_02.jpg"/>
                 <head place="center"> To my Ingenious Friend, <name rend="italic">James
                         Shirley</name>, upon his <title rend="italic">Royall Master</title>. </head>
                 <l n="1" rend="italic">As a rich gemme enchac'd in gold affords</l>
@@ -88,7 +88,7 @@
                 <l n="4">In praise of the authors which occasions it,</l>
 
                 <fw type="catch" place="bottom-right">And</fw>
-                <pb n="IV"/>
+                <pb n="IV" xml:id="RM_00_03.jpg" facs="data/images/single/RM_00_03.jpg"/>
 
                 <l n="5">And I have seene some peeces, that have stood</l>
                 <l n="6">In neede of witnesses to prove them good.</l>
@@ -138,7 +138,7 @@
                 <l n="22" rend="italic"> On each Judicious and hath stood the touch,</l>
 
                 <fw type="catch" place="bottom-right"> Tis </fw>
-                <pb n="V"/>
+                <pb n="V" xml:id="RM_00_04.jpg" facs="data/images/single/RM_00_04.jpg"/>
 
                 <l n="23" rend="italic"> Tis fit he should more then private, when </l>
                 <l n="24" rend="italic"> He weares two Crownes, their votes, and thy smooth penne. </l>
@@ -176,7 +176,7 @@
                 <l n="7" rend="italic">Therefore I write, what may become my free</l>
                 <l n="8" rend="italic">Acknowledgement, and fit thy modestie.</l>
                 <fw type="catch" place="bottom-right"> Thy </fw>
-                <pb n="VI"/>
+                <pb n="VI" xml:id="RM_00_05.jpg" facs="data/images/single/RM_00_05.jpg"/>
                 <l n="9" rend="italic">Thy Muse I honor'd, e're I knew by sight</l>
                 <l n="10" rend="italic">Thy person; oft I've seene with much delight</l>
                 <l n="11" rend="italic">Thy sweete composures: but this last; and new</l>
@@ -214,7 +214,7 @@
                 <l n="4" rend="italic">Whose nicer thoughts their female minds perplex.</l>
 
                 <fw type="catch" place="right" rend="italic">(For</fw>
-                <pb n="VII"/>
+                <pb n="VII" xml:id="RM_00_06.jpg" facs="data/images/single/RM_00_06.jpg"/>
 
                 <l n="5" rend="italic">(For man he sinkes if he but censure, none</l>
                 <l n="6" rend="italic">Dare deprave <name rend="roman">Kings</name>
@@ -260,7 +260,7 @@
                 <l n="8"> My vote must goe, I say no purer wit </l>
                 
                 <fw type="catch" place="bottom-right"> Did </fw>
-                <pb n="VIII"/>
+                <pb n="VIII" xml:id="RM_00_07.jpg" facs="data/images/single/RM_00_07.jpg"/>
                 
                 <l n="9"> Did ever grace the scene, nay 'it hath in't </l>
                 <l n="10"> Expressions of so new, and rich a Mint, </l>
@@ -300,7 +300,7 @@
             </div>
             
             <div type="poem" n="10">
-                <pb n="IX"/>
+                <pb n="IX" xml:id="RM_00_08.jpg" facs="data/images/single/RM_00_08.jpg"/>
                 <head place="center">On M. <name rend="italic">James Shirley</name> his <title
                     rend="italic">Royall Master</title>.</head> 
                 
@@ -321,7 +321,7 @@
                 <l n="15" rend="italic">And tongue of Critricks must both write and say,</l>
                 <l n="16" rend="italic">They never yet beheld a smoother Play.</l>
                 <signed rend="smallcaps">JAMES MERVYN.</signed>
-                <pb n="X"/>
+                <pb n="X" xml:id="RM_00_09.jpg" facs="data/images/single/RM_00_09.jpg"/>
             </div>
              
             <div type="act" n="1" part="N" org="uniform" sample="complete">
