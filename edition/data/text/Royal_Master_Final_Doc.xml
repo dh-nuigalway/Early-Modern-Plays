@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Encoding P.NUMBER</title>
+                <title>The Royall Master: a digital edition</title>
             </titleStmt>
             <publicationStmt>
                 <p part="N">Not intended for publication.</p>
@@ -24,6 +24,8 @@
                 extensions from .jped to .jpg Removed @rend="italic" from stage directions which
                 were already encoded with @rend="inline". Added @n and @xml:id to root text element
                 to ensure alignment of images and transcription.</change>
+            <change when="2022-06-01" who="JT">A number of final changes to tidy up the document: 1)
+                edits to TEI Header.</change>
         </revisionDesc>
     </teiHeader>
 
@@ -2890,7 +2892,7 @@
                     <l n="26"> Then the King. </l>
                 </sp>
                 <fw type="catch" place="bottom-right" rend="italic">Duke</fw>
-                
+
                 <pb n="27" xml:id="RM_03_27.jpg" facs="data/images/single/RM_03_27.jpg"/>
                 <fw place="top=center" type="runninghead">The Royall Master. Act 3 Scene 1.</fw>
                 <sp>
@@ -2979,7 +2981,7 @@
                     <l n="62"> The Princesse? shee is in health, why this to me, </l>
                 </sp>
                 <fw type="catch" place="bottom-right">Shee</fw>
-                
+
                 <pb n="28" xml:id="RM_03_28.jpg" facs="data/images/single/RM_03_28.jpg"/>
 
                 <fw place="top=center" type="runninghead">The Royall Master. Act 3 Scene 1.</fw>
@@ -3141,7 +3143,7 @@
                     <l n="137">How was that.</l>
                 </sp>
                 <fw rend="italic" type="catch" place="bottom-right">Duke</fw>
-                
+
                 <pb n="30" xml:id="RM_03_30.jpg" facs="data/images/single/RM_03_30.jpg"/>
                 <fw place="top-center" type="runninghead" rend="italic">The Royall Master. Act 3
                     Scene 1.</fw>
@@ -3269,7 +3271,7 @@
                     <l n="187"> Drop like a Comet, and be lost i'th aire.</l>
                 </sp>
                 <stage place="right" type="exit" rend="italic">Exeunt.</stage>
-                
+
                 <head>ACT 3. SCENE 2.</head>
 
                 <stage place="center" type="setting" rend="italic"> A Room in the Palace.</stage>
@@ -3320,7 +3322,7 @@
                     <l n="211">A most officious servant to that Lady </l>
                 </sp>
                 <fw type="catch" place="bottom-right">Were</fw>
-                
+
                 <pb n="32" xml:id="RM_03_32.jpg" facs="data/images/single/RM_03_32.jpg"/>
                 <fw place="top-center" type="runninghead" rend="italic">The Royall Master. Act 3
                     Scene 2.</fw>
@@ -3516,7 +3518,7 @@
                     <l n="287">Thus valew your perfections, below</l>
                 </sp>
                 <fw type="catch" place="bottom-right">That</fw>
-                
+
                 <pb n="34" xml:id="RM_03_34.jpg" facs="data/images/single/RM_03_34.jpg"/>
                 <fw place="top-center" type="runninghead">The Royall Master. Act 3 Scene 2.</fw>
 
@@ -3745,7 +3747,7 @@
                         </note>, youle be in.</l>
                 </sp>
                 <fw place="bottom-right" type="catch" rend="italic">Domitilla</fw>
-                
+
                 <pb n="36" xml:id="RM_03_36.jpg" facs="data/images/single/RM_03_36.jpg"/>
                 <fw place="top-center" type="runninghead">The Royall Master. Act 3 Scene 3.</fw>
 
@@ -3927,7 +3929,7 @@
                     <l n="435">That have beene Queenes, vertue has rais'd some,</l>
                     <l n="436">And beauty has had many charmes to rule</l>
                     <fw place="bottom-right" type="catch">The</fw>
-                    
+
                     <pb n="38" xml:id="RM_03_38.jpg" facs="data/images/single/RM_03_38.jpg"/>
                     <fw place="top-center" type="runninghead">The Royall Master. Act 3 Scene 3.</fw>
 
@@ -4227,7 +4229,7 @@
                     <l n="548">Expect his royall presence, how shall I</l>
 
                     <fw type="catch" place="bottom-right">Behave</fw>
-                    
+
                     <pb n="41" xml:id="RM_04_41.jpg" facs="data/images/single/RM_04_41.jpg"/>
                     <fw place="top=center" type="runninghead">The Royall Master. Act 3 Scene 3.</fw>
 
@@ -4321,7 +4323,7 @@
                 </sp>
                 <stage place="right" type="exit" rend="italic">Exit.</stage>
             </div>
-            
+
             <div type="act" n="4" part="N" org="uniform" sample="complete">
                 <head>THE FOURTH ACT.</head>
 
@@ -4335,7 +4337,7 @@
                     <l n="2">My guest, tis fit whom I have made my charge</l>
                 </sp>
                 <fw type="catch" place="bottom-right">Should</fw>
-                
+
                 <pb n="42" xml:id="RM_04_42.jpg" facs="data/images/single/RM_04_42.jpg"/>
                 <fw place="top=center" type="runninghead">The Royall Master. Act 4 Scene 1.</fw>
 
@@ -4536,7 +4538,7 @@
                     <l n="77">Framed to abuse my sister, and your selfe,</l>
                 </sp>
                 <fw type="catch" place="bottom-right">Have</fw>
-                
+
                 <pb n="44" xml:id="RM_04_44.jpg" facs="data/images/single/RM_04_44.jpg"/>
                 <fw type="runninghead" place="top-center" rend="italic">The Royall Master. Act 4
                     Scene 1.</fw>
@@ -4708,7 +4710,7 @@
                     <l n="152">Contain'd beneath their marble, while their fame</l>
                 </sp>
                 <fw type="catch" place="bottom-right">Bleeds</fw>
-                
+
                 <pb n="46" xml:id="RM_04_46.jpg" facs="data/images/single/RM_04_46.jpg"/>
                 <fw type="runninghead" place="top-center" rend="italic">The Royall Master. Act 4
                     Scene 1.</fw>
@@ -4892,7 +4894,7 @@
                     <l n="226">He may pollute the Sunne beames, or defile. </l>
                 </sp>
                 <fw type="catch" place="bottom-right">The</fw>
-                
+
                 <pb n="48" xml:id="RM_04_48.jpg" facs="data/images/single/RM_04_48.jpg"/>
                 <fw type="runninghead" place="top-center" rend="italic">The Royall Master. Act 4
                     Scene 1.</fw>
@@ -5060,7 +5062,7 @@
                             instant="false">Duke</name></l>
                 </sp>
                 <fw type="catch" place="bottom-right">Desire</fw>
-                
+
                 <pb n="50" xml:id="RM_04_50.jpg" facs="data/images/single/RM_04_50.jpg"/>
                 <fw type="runninghead" place="top-center" rend="italic">The Royall Master. Act 4
                     Scene 1.</fw>
@@ -5295,7 +5297,7 @@
                     <l n="374">A little busie Sir.</l>
                 </sp>
                 <fw type="catch" place="bottom-right" rend="italic">Alexio</fw>
-                
+
                 <pb n="52" xml:id="RM_04_52.jpg" facs="data/images/single/RM_04_52.jpg"/>
                 <fw type="runninghead" place="top-center" rend="italic">The Royall Master. Act 4
                     Scene 1.</fw>
@@ -5549,7 +5551,7 @@
                     <l n="448">What is honour,</l>
                 </sp>
                 <fw type="catch" place="bottom-right" rend="italic">Bombo</fw>
-                
+
                 <pb n="54" xml:id="RM_04_54.jpg" facs="data/images/single/RM_04_54.jpg"/>
                 <fw type="runninghead" place="top-center" rend="italic">The Royall Master. Act 4
                     Scene 1.</fw>
@@ -5762,7 +5764,7 @@
                     <speaker rend="italic">King</speaker>
                     <l n="522">They are all trifles, let me see,</l>
                     <fw place="bottom-right" type="catch">Is</fw>
-                    
+
                     <pb n="56" xml:id="RM_04_56.jpg" facs="data/images/single/RM_04_56.jpg"/>
                     <fw place="top-center" type="runninghead">The Royall Master. Act 4 Scene 1.</fw>
 
@@ -5914,7 +5916,7 @@
                     <l n="598">These sha'not wound thee.</l>
                 </sp>
                 <fw place="bottom-right" type="catch" rend="italic">Montalto</fw>
-                
+
                 <pb n="58" xml:id="RM_05_58.jpg" facs="data/images/single/RM_05_58.jpg"/>
                 <fw place="top-center" type="runninghead">The Royall Master. Act 4 Scene 1.</fw>
 
@@ -5990,7 +5992,7 @@
                 <stage place="right" type="exit" rend="italic">Exeunt.</stage>
 
             </div>
-            
+
             <div type="act" n="5" part="N" org="uniform" sample="complete">
                 <head>THE FIFTH ACT.</head>
 
@@ -6103,7 +6105,7 @@
                     <l n="39">My story is not worth one of your minuts,</l>
                 </sp>
                 <fw place="bottom-right" type="catch">Deare</fw>
-                
+
                 <pb n="60" xml:id="RM_05_60.jpg" facs="data/images/single/RM_05_60.jpg"/>
                 <fw place="top-center" type="runninghead">The Royall Master. Act 5 Scene 1.</fw>
 
@@ -6307,7 +6309,7 @@
                     <l n="113">The Princesse!</l>
                 </sp>
                 <fw type="catch" place="bottom-right" rend="italic">Domitilla</fw>
-                
+
                 <pb n="62" xml:id="RM_05_62.jpg" facs="data/images/single/RM_05_62.jpg"/>
                 <fw place="top=center" type="runninghead">The Royall Master. Act 5 Scene 1.</fw>
 
@@ -6446,7 +6448,7 @@
                     <l n="173">Though I shall blush to see him, Ile waite on you.</l>
                 </sp>
                 <stage place="right" type="exit" rend="italic">Exeunt.</stage>
-                
+
                 <head>ACT 5. SCENE 2.</head>
 
                 <stage place="center" type="setting" rend="italic"> Another Room in the
@@ -6471,7 +6473,7 @@
                     <l n="186">The Forrests groane and tremble, but not one</l>
                 </sp>
                 <fw type="catch" place="bottom-right">When</fw>
-                
+
                 <pb n="64" xml:id="RM_05_64.jpg" facs="data/images/single/RM_05_64.jpg"/>
                 <fw place="top=center" type="runninghead">The Royall Master. Act 5 Scene 2.</fw>
 
@@ -6652,7 +6654,7 @@
                     <l n="261">At wanton sounds, will shee be very angry</l>
                 </sp>
                 <fw type="catch" place="bottom-right">At</fw>
-                
+
                 <pb n="66" xml:id="RM_05_66.jpg" facs="data/images/single/RM_05_66.jpg"/>
                 <fw place="top=center" type="runninghead">The Royall Master. Act 5 Scene 2.</fw>
 
