@@ -33,7 +33,19 @@
         <body>
 
             <pb n="0" xml:id="RM_00_00.jpg" facs="data/images/single/RM_00_00.jpg"/>
-            <!-- TRANSCRIPTION OF TITLE PAGE NEEDED -->
+            <l><hi rend="caps">The</hi></l>
+            <l><hi rend="caps">Royall</hi></l>
+            <l><hi rend="caps">Master;</hi></l>
+         <l>As it was Acted in the new</l>
+         <l>Theater in <placeName rend="italic">Dublin</placeName>:</l>
+         <l><hi rend="caps">and</hi></l>
+         <l>Before the Right Honorable the Lord</l>
+         <l>Deputie of <placeName rend="italic">Ireland</placeName>, in the Castle.</l>
+         <l>Written by <hi rend="caps">James Shirley</hi>.</l>
+         <l rend="italic">&#x2014;Fas extera quarere regna.</l>
+         <l><hi rend="caps">London</hi>.</l>
+         <l>Printed by <name rend="italic">T. Cotes</name>, and are to be sold by <name rend="italic">John Crooke</name>, and <name rend="italic">Richard</name></l>
+         <l><name rend="italic">Serger</name>, at the Grayhound in <name rend="italic">Pauls</name> Church-yard. 1638.</l>
 
             <div type="epistle" n="1">
                 <pb n="I" xml:id="RM_00_01.jpg" facs="data/images/single/RM_00_01.jpg"/>
