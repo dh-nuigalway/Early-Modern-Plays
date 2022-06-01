@@ -25,7 +25,10 @@
                 were already encoded with @rend="inline". Added @n and @xml:id to root text element
                 to ensure alignment of images and transcription.</change>
             <change when="2022-06-01" who="JT">A number of final changes to tidy up the document: 1)
-                edits to TEI Header.</change>
+                edits to TEI Header. 2) correcting image-transcript alingment. 3) consistent
+                encoding of running head. 4) harmonised encoding of author signatures. 5) changed
+                encoding of epilogue. 6) added encoding of title page. 7) changed encoding of
+                "finis".</change>
         </revisionDesc>
     </teiHeader>
 
@@ -33,17 +36,17 @@
         <body>
 
             <pb n="0" xml:id="RM_00_00.jpg" facs="data/images/single/RM_00_00.jpg"/>
-            <l><hi rend="caps">The</hi></l>
-            <l><hi rend="caps">Royall</hi></l>
-            <l><hi rend="caps">Master;</hi></l>
+            <l>THE</l>
+            <l>ROYALL</l>
+            <l>MASTER;</l>
             <l>As it was Acted in the new</l>
             <l>Theater in <placeName rend="italic">Dublin</placeName>:</l>
-            <l><hi rend="caps">and</hi></l>
+            <l>AND</l>
             <l>Before the Right Honorable the Lord</l>
             <l>Deputie of <placeName rend="italic">Ireland</placeName>, in the Castle.</l>
-            <l>Written by <hi rend="caps">James Shirley</hi>.</l>
+            <l>Written by <hi rend="smallcaps">James Shirley</hi>.</l>
             <l rend="italic">&#x2014;Fas extera quarere regna.</l>
-            <l><hi rend="caps">London</hi>.</l>
+            <l><hi rend="itslic">LONDON</hi>.</l>
             <l>Printed by <name rend="italic">T. Cotes</name>, and are to be sold by <name
                     rend="italic">John Crooke</name>, and <name rend="italic">Richard</name></l>
             <l><name rend="italic">Serger</name>, at the Grayhound in <name rend="italic"
@@ -75,7 +78,7 @@
                     report a story of the Irish honour, and hold my selfe not meanely fortunate to
                     have beene written and receiv'd</p>
                 <salute>The humblest of your Lordships servants.</salute>
-                <signed>JAMES SHIRLEY.</signed>
+                <signed>James Shirley.</signed>
             </div>
 
             <div type="poem" n="2">
@@ -96,12 +99,12 @@
                 <l n="12" rend="italic">Retaine his image, not impart his heate.</l>
                 <l n="13" rend="italic">Then Print thy Poem <name rend="roman">Shirley</name>,
                     'twere a fault</l>
-                <l n="14" rend="italic">To dungoin this instructive peece of thine,</l>
+                <l n="14" rend="italic">To dungion this instructive peece of thine,</l>
                 <l n="15" rend="italic">Had the Sunnes Shpeare beene made a thicke rib'd vault,</l>
                 <l n="16" rend="italic">We had receiv'd no influence from his shine;</l>
                 <l n="17" rend="italic">Thou shouldst die traitour to succecding times,</l>
                 <l n="18" rend="italic">And thy best vertues prove but splendid crimes.</l>
-                <signed rend="smallcaps">James Mervyn.</signed>
+                <signed>James Mervyn.</signed>
             </div>
 
             <div type="poem" n="3">
@@ -124,7 +127,7 @@
                 <l n="10">This well limb’d peece of polish’d poesie,</l>
                 <l n="11">In justice to themselves must needes confesse</l>
                 <l n="12">Friends cannot adde, nor envie make it lesse.</l>
-                <signed rend="smallcaps">FRA. BUTLER</signed>
+                <signed>Fra. Butler.</signed>
             </div>
 
             <div type="poem" n="4">
@@ -169,7 +172,7 @@
                 <l n="23" rend="italic"> Tis fit he should more then private, when </l>
                 <l n="24" rend="italic"> He weares two Crownes, their votes, and thy smooth penne. </l>
 
-                <signed rend="smallcaps">DRV. COOPER.</signed>
+                <signed>Dru. Cooper.</signed>
             </div>
 
             <div type="poem" n="5">
@@ -186,7 +189,7 @@
                 <l n="8">Heapes on fresh Narde, your Muse cannot decline</l>
                 <l n="9">To intermissions, some leave hills, by turnes</l>
                 <l n="10">Flame, and expire his Etna ever burnes.</l>
-                <signed rend="smallcaps">RIO. BELLING.</signed>
+                <signed>Rio. Belling.</signed>
             </div>
 
             <div type="poem" n="6">
@@ -209,7 +212,7 @@
                 <l n="12" rend="italic">Smooth peece (which here hath grac'd the publicke view)</l>
                 <l n="13" rend="italic">Claimes more regard; I give to all the rest</l>
                 <l n="14" rend="italic">Their faire desert, but ranke this with thy best.</l>
-                <signed rend="smallcaps">T. I.</signed>
+                <signed>T. I.</signed>
             </div>
 
             <div type="poem" n="7">
@@ -227,7 +230,7 @@
                 <l n="8"> Hath gain'd such faire applause, as't did engage </l>
                 <l n="9"> A nation to thy Muse, where thou shalt raigne </l>
                 <l n="10"> (His darling Ben deceased) tho should'st be </l>
-                <signed rend="smallcaps">W. Markham.</signed>
+                <signed>W. Markham.</signed>
             </div>
 
             <div type="poem" n="8">
@@ -270,8 +273,8 @@
                     say, they'ue found</l>
                 <l n="26" rend="italic">Two <name rend="roman">Monarkes</name> with one glorious
                         <name rend="roman">Laurell</name> crowned.</l>
-                <signed rend="smallcaps">W. Smith.<note type="Contextual"> Smith, chiefly due to the
-                        remarkably common surname, has too not been identified. (Williams 110-111)
+                <signed>W. Smith.<note type="Contextual"> Smith, chiefly due to the remarkably
+                        common surname, has too not been identified. (Williams 110-111)
                     </note></signed>
             </div>
 
@@ -294,12 +297,12 @@
                 <l n="10"> Expressions of so new, and rich a Mint, </l>
                 <l n="11"> That the old Poets well might wish the name </l>
                 <l n="12"> Of this new Play were added to their fame. </l>
-                <signed rend="smallcaps">John Oglebye.<note type="Contextual"> To not see Ogleby
-                        contribute a piece would have been surprising, as he was the founder of
-                        Dublin’s Werburgh Street Theatre and Shirley’s recruiter, and thus his
-                        involvement in the theatre’s first play is entirely expected. Scottish born,
-                        Ogleby was a dancer before travelling to Ireland as part of Lord Deputy
-                        Wentworth’s household. </note></signed>
+                <signed>John Oglebye.<note type="Contextual"> To not see Ogleby contribute a piece
+                        would have been surprising, as he was the founder of Dublin’s Werburgh
+                        Street Theatre and Shirley’s recruiter, and thus his involvement in the
+                        theatre’s first play is entirely expected. Scottish born, Ogleby was a
+                        dancer before travelling to Ireland as part of Lord Deputy Wentworth’s
+                        household. </note></signed>
             </div>
 
             <div type="poem" n="9">
@@ -328,11 +331,11 @@
                 <l n="20">For those great wits,commended to the Urne,</l>
                 <l n="21">And if't be true,that transmigrations be</l>
                 <l n="22">They are in <name rend="italic">Shirley</name> all, for ought I see.</l>
-                <signed rend="smallcaps">John Jacson.<note type="Contextual"> This is most likely
-                        the 1634 parliamentary member for Carrick-on-Shannon John Jacson.
-                        Interestingly, Jacson does not seem to be as close an acquaintance to
-                        Shirley as the previous contributors, judging by his dedication, which is
-                        comparably impersonal. (Williams 113-114) </note></signed>
+                <signed>John Jacson.<note type="Contextual"> This is most likely the 1634
+                        parliamentary member for Carrick-on-Shannon John Jacson. Interestingly,
+                        Jacson does not seem to be as close an acquaintance to Shirley as the
+                        previous contributors, judging by his dedication, which is comparably
+                        impersonal. (Williams 113-114) </note></signed>
                 <fw type="catch" place="bottom-right"> On </fw>
             </div>
 
@@ -357,7 +360,7 @@
                 <l n="14" rend="italic">So sweetely tempered, that the envious quill</l>
                 <l n="15" rend="italic">And tongue of Critricks must both write and say,</l>
                 <l n="16" rend="italic">They never yet beheld a smoother Play.</l>
-                <signed rend="smallcaps">JAMES MERVYN.</signed>
+                <signed>James Mervyn.</signed>
             </div>
 
             <div type="act" n="1" part="N" org="uniform" sample="complete">
@@ -422,8 +425,7 @@
 
                 <pb n="2" xml:id="RM_01_02.jpg" facs="data/images/single/RM_01_02.jpg"/>
 
-                <fw place="top-center" type="head">The Royall Master. Act 1
-                    Scene 1.</fw>
+                <fw place="top-center" type="head">The Royall Master. Act 1 Scene 1.</fw>
 
                 <sp>
                     <l n="18"><name rend="italic" full="yes" instant="false">Cesaria</name> is in
@@ -925,8 +927,7 @@
 
                 <pb n="7" xml:id="RM_01_07.jpg" facs="data/images/single/RM_01_07.jpg"/>
 
-                <fw type="head" place="top-center">The Royall Master. Act 1
-                    Scene 1.</fw>
+                <fw type="head" place="top-center">The Royall Master. Act 1 Scene 1.</fw>
 
                 <l n="207">With title of his bed-chamber.</l>
 
@@ -1032,8 +1033,7 @@
 
                 <pb n="8" xml:id="RM_01_08.jpg" facs="data/images/single/RM_01_08.jpg"/>
 
-                <fw type="head" place="top-center">The Royall Master. Act 1
-                    Scene 1.</fw>
+                <fw type="head" place="top-center">The Royall Master. Act 1 Scene 1.</fw>
 
                 <sp>
                     <l n="245">And sift his close heart if it prove unfound,</l>
@@ -1188,8 +1188,7 @@
 
                 <pb n="8" xml:id="RM_01_09.jpg" facs="data/images/single/RM_01_09.jpg"/>
 
-                <fw type="head" place="top-center">The Royall Master. Act 1
-                    Scene 2.</fw>
+                <fw type="head" place="top-center">The Royall Master. Act 1 Scene 2.</fw>
 
                 <sp>
                     <speaker rend="italic">Bombo</speaker>
@@ -1339,8 +1338,7 @@
 
                 <pb n="10" xml:id="RM_01_10.jpg" facs="data/images/single/RM_01_10.jpg"/>
 
-                <fw type="head" place="top-center">The Royall Master. Act 1
-                    Scene 2.</fw>
+                <fw type="head" place="top-center">The Royall Master. Act 1 Scene 2.</fw>
 
                 <l n="318">If you looke not to me I am gone.</l>
 
@@ -1433,8 +1431,7 @@
 
                 <pb n="11" xml:id="RM_01_11.jpg" facs="data/images/single/RM_01_11.jpg"/>
 
-                <fw type="head" place="top-center">The Royall Master. Act 1
-                    Scene 2.</fw>
+                <fw type="head" place="top-center">The Royall Master. Act 1 Scene 2.</fw>
 
                 <sp>
                     <speaker rend="italic">Guido</speaker>
@@ -1534,8 +1531,7 @@
 
                 <pb n="12" xml:id="RM_01_12.jpg" facs="data/images/single/RM_01_12.jpg"/>
 
-                <fw place="top-center" type="head">The Royall Master. Act 1
-                    Scene 2.</fw>
+                <fw place="top-center" type="head">The Royall Master. Act 1 Scene 2.</fw>
 
                 <sp>
                     <speaker rend="italic">Domitilla</speaker>
@@ -1636,8 +1632,7 @@
 
                 <pb n="13" xml:id="RM_01_13.jpg" facs="data/images/single/RM_01_13.jpg"/>
 
-                <fw type="head" place="top-centre">The Royall Master. Act 1
-                    Scene 2.</fw>
+                <fw type="head" place="top-centre">The Royall Master. Act 1 Scene 2.</fw>
 
                 <sp>
                     <speaker rend="italic">Octavio</speaker>
@@ -1727,8 +1722,7 @@
 
                 <pb n="14" xml:id="RM_01_14.jpg" facs="data/images/single/RM_01_14.jpg"/>
 
-                <fw type="head" place="top-centre">The Royall Master. Act 1
-                    Scene 2.</fw>
+                <fw type="head" place="top-centre">The Royall Master. Act 1 Scene 2.</fw>
 
                 <stage type="entrance" place="center" rend="italic">Enter <name full="yes"
                         instant="false">King</name>, <name full="yes" instant="false">Duke</name>,
@@ -1835,8 +1829,7 @@
 
                 <pb n="15" xml:id="RM_02_15.jpg" facs="data/images/single/RM_02_15.jpg"/>
 
-                <fw place="top-center" type="head">The Royall Master. Act 1
-                    Scene 2.</fw>
+                <fw place="top-center" type="head">The Royall Master. Act 1 Scene 2.</fw>
 
                 <sp>
                     <l n="500">Things may succeede to my ambition,</l>
@@ -1930,8 +1923,7 @@
                 <fw type="catch" place="bottom-right">Some</fw>
                 <pb n="16" xml:id="RM_02_16.jpg" facs="data/images/single/RM_02_16.jpg"/>
 
-                <fw place="top-center" type="head">The Royall Master. Act 2
-                    Scene 1.</fw>
+                <fw place="top-center" type="head">The Royall Master. Act 2 Scene 1.</fw>
                 <sp>
                     <l n="27">Some of the gods that are good fellowes dancing,</l>
                     <l n="28"> Or goddesses, and now and then a song</l>
@@ -1996,7 +1988,7 @@
                     <l n="49">Th'art a good fellow, and this curtesie</l>
                     <l n="50">Shall be remembred.</l>
                 </sp>
-                <stage place="right" type="delivery" rend="italic">Within call<name full="yes"
+                <stage place="right" type="delivery" rend="italic">Within call <name full="yes"
                         instant="false">Iacamo</name>.</stage>
                 <sp>
                     <speaker rend="italic">Iacamo</speaker>
@@ -2039,8 +2031,7 @@
                 <fw rend="italic" type="catch" place="bottom-right">Iacamo</fw>
                 <pb n="17" xml:id="RM_02_17.jpg" facs="data/images/single/RM_02_17.jpg"/>
 
-                <fw type="head" place="top-center">The Royall Master. Act 2
-                    Scene 1.</fw>
+                <fw type="head" place="top-center">The Royall Master. Act 2 Scene 1.</fw>
                 <sp>
                     <speaker rend="italic">Iacamo</speaker>
                     <l n="64">What's this a Booke?</l>
@@ -2155,8 +2146,7 @@
                 </sp>
                 <fw type="catch" place="bottom-right" rend="italic">Bombo</fw>
                 <pb n="18" xml:id="RM_02_18.jpg" facs="data/images/single/RM_02_18.jpg"/>
-                <fw type="head" place="top-center">The Royall Master. Act 2
-                    Scene 1.</fw>
+                <fw type="head" place="top-center">The Royall Master. Act 2 Scene 1.</fw>
                 <sp>
                     <speaker rend="italic">Bombo</speaker>
                     <l n="102">The Lords doe rise and fall.</l>
@@ -3160,8 +3150,7 @@
                 <fw rend="italic" type="catch" place="bottom-right">Duke</fw>
 
                 <pb n="30" xml:id="RM_03_30.jpg" facs="data/images/single/RM_03_30.jpg"/>
-                <fw place="top-center" type="head">The Royall Master. Act 3
-                    Scene 1.</fw>
+                <fw place="top-center" type="head">The Royall Master. Act 3 Scene 1.</fw>
 
                 <sp>
                     <speaker rend="italic">Duke</speaker>
@@ -3339,8 +3328,7 @@
                 <fw type="catch" place="bottom-right">Were</fw>
 
                 <pb n="32" xml:id="RM_03_32.jpg" facs="data/images/single/RM_03_32.jpg"/>
-                <fw place="top-center" type="head">The Royall Master. Act 3
-                    Scene 2.</fw>
+                <fw place="top-center" type="head">The Royall Master. Act 3 Scene 2.</fw>
 
                 <sp>
                     <l n="212">Were honourd in your thought, but the <name full="yes"
@@ -4555,8 +4543,7 @@
                 <fw type="catch" place="bottom-right">Have</fw>
 
                 <pb n="44" xml:id="RM_04_44.jpg" facs="data/images/single/RM_04_44.jpg"/>
-                <fw type="head" place="top-center">The Royall Master. Act 4
-                    Scene 1.</fw>
+                <fw type="head" place="top-center">The Royall Master. Act 4 Scene 1.</fw>
 
                 <l n="78">Have rais'd this muteny in your thoughts, I have</l>
                 <l n="79">A power to cure all.</l>
@@ -4645,8 +4632,7 @@
                 <fw type="catch" place="bottom-right" rend="italic">King</fw>
 
                 <pb n="45" xml:id="RM_04_45.jpg" facs="data/images/single/RM_04_45.jpg"/>
-                <fw type="head" place="top-center">The Royall Master. Act 4
-                    Scene 1.</fw>
+                <fw type="head" place="top-center">The Royall Master. Act 4 Scene 1.</fw>
                 <sp>
                     <speaker rend="italic">King</speaker>
                     <l n="116">I doe grow faint with wonder: here's enough</l>
@@ -4727,8 +4713,7 @@
                 <fw type="catch" place="bottom-right">Bleeds</fw>
 
                 <pb n="46" xml:id="RM_04_46.jpg" facs="data/images/single/RM_04_46.jpg"/>
-                <fw type="head" place="top-center">The Royall Master. Act 4
-                    Scene 1.</fw>
+                <fw type="head" place="top-center">The Royall Master. Act 4 Scene 1.</fw>
 
                 <l n="153">Bleeds in my wounded honour? Art thou still</l>
                 <l n="154">My sister without staine, upon thy chastity</l>
@@ -4829,8 +4814,7 @@
                 <fw type="catch" place="bottom-right">Disclaime</fw>
 
                 <pb n="47" xml:id="RM_04_47.jpg" facs="data/images/single/RM_04_47.jpg"/>
-                <fw type="head" place="top-center">The Royall Master. Act 4
-                    Scene 1.</fw>
+                <fw type="head" place="top-center">The Royall Master. Act 4 Scene 1.</fw>
                 <l n="190">Disclaime these hopes, and sweare never to love him.</l>
                 <sp>
                     <speaker rend="italic">Domitilla</speaker>
@@ -4911,8 +4895,7 @@
                 <fw type="catch" place="bottom-right">The</fw>
 
                 <pb n="48" xml:id="RM_04_48.jpg" facs="data/images/single/RM_04_48.jpg"/>
-                <fw type="head" place="top-center">The Royall Master. Act 4
-                    Scene 1.</fw>
+                <fw type="head" place="top-center">The Royall Master. Act 4 Scene 1.</fw>
 
                 <l n="227">The dew of heaven ere it approach the earth</l>
                 <l n="228">Make us beleeve the rockes of ice doe flame,</l>
@@ -4990,8 +4973,7 @@
                 <fw type="catch" place="bottom-right">To</fw>
 
                 <pb n="49" xml:id="RM_04_49.jpg" facs="data/images/single/RM_04_49.jpg"/>
-                <fw type="head" place="top-center">The Royall Master. Act 4
-                    Scene 1.</fw>
+                <fw type="head" place="top-center">The Royall Master. Act 4 Scene 1.</fw>
                 <l n="264">To let loose these suspitions to the descant<note type="Etymological">
                         Varied comment (on a theme); amplification of a point made in discussion; a
                         comment, observation, or remark; (occasionally) censorious criticism,
@@ -5079,8 +5061,7 @@
                 <fw type="catch" place="bottom-right">Desire</fw>
 
                 <pb n="50" xml:id="RM_04_50.jpg" facs="data/images/single/RM_04_50.jpg"/>
-                <fw type="head" place="top-center">The Royall Master. Act 4
-                    Scene 1.</fw>
+                <fw type="head" place="top-center">The Royall Master. Act 4 Scene 1.</fw>
 
                 <l n="301">Desire accesse to the <name rend="italic" full="yes" instant="false"
                         >King</name>.</l>
@@ -5205,8 +5186,7 @@
                 <fw type="catch" place="bottom-right" rend="italic">Riviero</fw>
 
                 <pb n="51" xml:id="RM_04_51.jpg" facs="data/images/single/RM_04_51.jpg"/>
-                <fw type="head" place="top-center">The Royall Master. Act 4
-                    Scene 1.</fw>
+                <fw type="head" place="top-center">The Royall Master. Act 4 Scene 1.</fw>
                 <sp>
                     <speaker rend="italic">Riviero</speaker>
                     <l n="338">Tis pious, and you three by [*]omputation</l>
@@ -5314,8 +5294,7 @@
                 <fw type="catch" place="bottom-right" rend="italic">Alexio</fw>
 
                 <pb n="52" xml:id="RM_04_52.jpg" facs="data/images/single/RM_04_52.jpg"/>
-                <fw type="head" place="top-center">The Royall Master. Act 4
-                    Scene 1.</fw>
+                <fw type="head" place="top-center">The Royall Master. Act 4 Scene 1.</fw>
 
                 <sp>
                     <speaker rend="italic">Alexio</speaker>
@@ -5441,8 +5420,7 @@
                 <fw type="catch" place="bottom-right">Becomes</fw>
 
                 <pb n="53" xml:id="RM_04_53.jpg" facs="data/images/single/RM_04_53.jpg"/>
-                <fw type="head" place="top-center">The Royall Master. Act 4
-                    Scene 1.</fw>
+                <fw type="head" place="top-center">The Royall Master. Act 4 Scene 1.</fw>
                 <l n="411">Becomes you now, does it not my Lord.</l>
                 <sp>
                     <speaker rend="italic">Alexio</speaker>
@@ -5568,8 +5546,7 @@
                 <fw type="catch" place="bottom-right" rend="italic">Bombo</fw>
 
                 <pb n="54" xml:id="RM_04_54.jpg" facs="data/images/single/RM_04_54.jpg"/>
-                <fw type="head" place="top-center">The Royall Master. Act 4
-                    Scene 1.</fw>
+                <fw type="head" place="top-center">The Royall Master. Act 4 Scene 1.</fw>
 
                 <sp>
                     <speaker rend="italic">Bombo</speaker>
@@ -6787,8 +6764,7 @@
                 <fw type="catch" place="bottom-right" rend="italic">Riviero</fw>
 
                 <pb n="67" xml:id="RM_05_67.jpg" facs="data/images/single/RM_05_67.jpg"/>
-                <fw place="top-center" type="head">The Royall Master. Act 5
-                    Scene 2.</fw>
+                <fw place="top-center" type="head">The Royall Master. Act 5 Scene 2.</fw>
 
                 <sp>
                     <speaker rend="italic">Riviero</speaker>
@@ -7361,24 +7337,25 @@
                 <head>As it vvas spoken to the Lord Deputie on Newyeares-day at night, by way of
                     vote, congratulating the New yeare.</head>
 
-                <l n="1">OVr Poet doth forget his Play,</l>
-                <l n="2"> There is something he would pay</l>
-                <l n="3"> Due to your greatnesse, and the day</l>
-                <l n="4">Which by a revolution of the spheare</l>
-                <l n="5">Is proud to open the New yeare.</l>
-                <l n="6"> And having look'd on you, hath hid his face,</l>
-                <l n="7"> And Chang'd his robe with Starres to grace</l>
-                <l n="8"> And light you going to bed, so waite</l>
-                <l n="9"> With trembling Lustre on your state.</l>
-                <l n="10">Shine brighter yet, y'are not the same</l>
-                <l n="11">Cleare Lampes you were shine like the name</l>
-                <l n="12">Of him I bow too, while aflame</l>
-                <l n="13"> Active, and burning here with pure desires</l>
-                <l n="14"> Shall equall the best borrowed fires.</l>
-                <l n="15">May health, the bosomes friend, streame through your blood,</l>
-                <l n="16">And know no ebbe of the chast flood,</l>
-                <l n="17"> And though time shift, and yeares renew,</l>
-                <l n="18"> May yet the Spring be still in you.</l>
+                <l n="1" rend="italic">OVr Poet doth forget his Play,</l>
+                <l n="2" rend="italic">There is something he would pay</l>
+                <l n="3" rend="italic">Due to your greatnesse, and the day</l>
+                <l n="4" rend="italic">Which by a revolution of the spheare</l>
+                <l n="5" rend="italic">Is proud to open the New yeare.</l>
+                <l n="6" rend="italic">And having look'd on you, hath hid his face,</l>
+                <l n="7" rend="italic">And Chang'd his robe with Starres to grace</l>
+                <l n="8" rend="italic">And light you going to bed, so waite</l>
+                <l n="9" rend="italic">With trembling Lustre on your state.</l>
+                <l n="10" rend="italic">Shine brighter yet, y'are not the same</l>
+                <l n="11" rend="italic">Cleare Lampes you were shine like the name</l>
+                <l n="12" rend="italic">Of him I bow too, while aflame</l>
+                <l n="13" rend="italic">Active, and burning here with pure desires</l>
+                <l n="14" rend="italic">Shall equall the best borrowed fires.</l>
+                <l n="15" rend="italic">May health, the bosomes friend, streame through your
+                    blood,</l>
+                <l n="16" rend="italic">And know no ebbe of the chast flood,</l>
+                <l n="17" rend="italic">And though time shift, and yeares renew,</l>
+                <l n="18" rend="italic">May yet the Spring be still in you.</l>
 
                 <fw type="catch" place="bottom-right">May</fw>
                 <pb n="74" xml:id="RM_00_74.jpg" facs="data/images/single/RM_00_74.jpg"/>
@@ -7386,26 +7363,26 @@
                 <fw place="top-center" type="head">The Royall Master.</fw>
                 <fw place="top-center" type="head">The Epilogue.</fw>
 
-                <l n="20"> May She, whom heaven hath sweetly grac'd</l>
-                <l n="21">And in your noble bosome plac'd,</l>
-                <l n="22">Whose heart by onely yours embrac'd,</l>
-                <l n="23"> Hath made one true, and holy Gordian, prove</l>
-                <l n="24"> Fruitfull in Children, as in love.</l>
-                <l n="25"> And may this faire Top-branch, whose early bloome</l>
-                <l n="26"> Doth promise all the fruit can come</l>
-                <l n="27"> To vertue, and your name be blest,</l>
-                <l n="28"> And live a story to the rest.</l>
-                <l n="29"> All Honour with your fame increase,</l>
-                <l n="30"> In your bosome dwell soft peace,</l>
-                <l n="31">And Justice, the true roote of these;</l>
-                <l n="32">Wealth be the worst, and outside of your fate;</l>
-                <l n="33">And may not heaven your life translate,</l>
-                <l n="34">Till for your Royall Master, and this Ile,</l>
-                <l n="35">Your deeds have fild a Chronicle,</l>
-                <l n="36"> In all thats great, and good, be bold,</l>
-                <l n="37"> And every yeare be coppie of the old.</l>
+                <l n="20" rend="italic"> May She, whom heaven hath sweetly grac'd</l>
+                <l n="21" rend="italic">And in your noble bosome plac'd,</l>
+                <l n="22" rend="italic">Whose heart by onely yours embrac'd,</l>
+                <l n="23" rend="italic">Hath made one true, and holy Gordian, prove</l>
+                <l n="24" rend="italic">Fruitfull in Children, as in love.</l>
+                <l n="25" rend="italic">And may this faire Top-branch, whose early bloome</l>
+                <l n="26" rend="italic">Doth promise all the fruit can come</l>
+                <l n="27" rend="italic">To vertue, and your name be blest,</l>
+                <l n="28" rend="italic">And live a story to the rest.</l>
+                <l n="29" rend="italic">All Honour with your fame increase,</l>
+                <l n="30" rend="italic">In your bosome dwell soft peace,</l>
+                <l n="31" rend="italic">And Justice, the true roote of these;</l>
+                <l n="32" rend="italic">Wealth be the worst, and outside of your fate;</l>
+                <l n="33" rend="italic">And may not heaven your life translate,</l>
+                <l n="34" rend="italic">Till for your Royall Master, and this Ile,</l>
+                <l n="35" rend="italic">Your deeds have fild a Chronicle,</l>
+                <l n="36" rend="italic">In all thats great, and good, be bold,</l>
+                <l n="37" rend="italic">And every yeare be coppie of the old.</l>
 
-                <signed>FINIS.</signed>
+                <closer>FINIS.</closer>
             </div>
         </body>
     </text>
