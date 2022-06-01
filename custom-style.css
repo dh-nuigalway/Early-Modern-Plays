@@ -44,6 +44,14 @@ span.fw[data-type="head"] {
     font-variant: small-caps;
     padding: 15px;
 }
+span.signed {
+    text-align: right;
+    font-variant: small-caps;
+    padding: 5px;
+}
+span.closer {
+    text-align: center;
+}
 span.fw[data-type="catch"] {
     text-align: right;
 }
