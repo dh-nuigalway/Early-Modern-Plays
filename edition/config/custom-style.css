@@ -45,12 +45,12 @@ span.fw[data-type="head"] {
     padding: 15px;
 }
 span.signed {
-    text-align: right!important;
+    text-align: right;
     font-variant: small-caps;
     padding: 5px;
 }
 span.closer {
-    text-align: center!important;
+    text-align: center;
 }
 span.fw[data-type="catch"] {
     text-align: right;
