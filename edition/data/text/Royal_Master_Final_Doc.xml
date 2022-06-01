@@ -21,7 +21,7 @@
         <revisionDesc>
             <change when="2022-04-20" who="JT">Added missing quotation marks from @facs attributes
                 of pb elements. Corrected misnumbered page URIs. Changes mislabelled image file
-                extensions from .jped to .jpg Removed @rend="italic" from stage directions which
+                extensions from .jpeg to .jpg Removed @rend="italic" from stage directions which
                 were already encoded with @rend="inline". Added @n and @xml:id to root text element
                 to ensure alignment of images and transcription.</change>
             <change when="2022-06-01" who="JT">A number of final changes to tidy up the document: 1)
@@ -36,16 +36,19 @@
             <l><hi rend="caps">The</hi></l>
             <l><hi rend="caps">Royall</hi></l>
             <l><hi rend="caps">Master;</hi></l>
-         <l>As it was Acted in the new</l>
-         <l>Theater in <placeName rend="italic">Dublin</placeName>:</l>
-         <l><hi rend="caps">and</hi></l>
-         <l>Before the Right Honorable the Lord</l>
-         <l>Deputie of <placeName rend="italic">Ireland</placeName>, in the Castle.</l>
-         <l>Written by <hi rend="caps">James Shirley</hi>.</l>
-         <l rend="italic">&#x2014;Fas extera quarere regna.</l>
-         <l><hi rend="caps">London</hi>.</l>
-         <l>Printed by <name rend="italic">T. Cotes</name>, and are to be sold by <name rend="italic">John Crooke</name>, and <name rend="italic">Richard</name></l>
-         <l><name rend="italic">Serger</name>, at the Grayhound in <name rend="italic">Pauls</name> Church-yard. 1638.</l>
+            <l>As it was Acted in the new</l>
+            <l>Theater in <placeName rend="italic">Dublin</placeName>:</l>
+            <l><hi rend="caps">and</hi></l>
+            <l>Before the Right Honorable the Lord</l>
+            <l>Deputie of <placeName rend="italic">Ireland</placeName>, in the Castle.</l>
+            <l>Written by <hi rend="caps">James Shirley</hi>.</l>
+            <l rend="italic">&#x2014;Fas extera quarere regna.</l>
+            <l><hi rend="caps">London</hi>.</l>
+            <l>Printed by <name rend="italic">T. Cotes</name>, and are to be sold by <name
+                    rend="italic">John Crooke</name>, and <name rend="italic">Richard</name></l>
+            <l><name rend="italic">Serger</name>, at the Grayhound in <name rend="italic"
+                    >Pauls</name> Church-yard. 1638.</l>
+
 
             <div type="epistle" n="1">
                 <pb n="I" xml:id="RM_00_01.jpg" facs="data/images/single/RM_00_01.jpg"/>
@@ -419,7 +422,7 @@
 
                 <pb n="2" xml:id="RM_01_02.jpg" facs="data/images/single/RM_01_02.jpg"/>
 
-                <fw place="top-center" type="head" rend="italic">The Royall Master. Act 1
+                <fw place="top-center" type="head">The Royall Master. Act 1
                     Scene 1.</fw>
 
                 <sp>
@@ -511,7 +514,7 @@
 
                 <pb n="3" xml:id="RM_01_03.jpg" facs="data/images/single/RM_01_03.jpg"/>
 
-                <fw place="top-center" type="runninghead">The Royall Master. Act 1 Scene 1.</fw>
+                <fw place="top-center" type="head">The Royall Master. Act 1 Scene 1.</fw>
 
                 <sp>
                     <speaker rend="italic">Montalto</speaker>
@@ -612,7 +615,7 @@
 
                 <pb n="4" xml:id="RM_01_04.jpg" facs="data/images/single/RM_01_04.jpg"/>
 
-                <fw place="top-center" type="runninghead">The Royall Master. Act 1 Scene 1.</fw>
+                <fw place="top-center" type="head">The Royall Master. Act 1 Scene 1.</fw>
 
                 <sp>
                     <l n="93">I have many obligations to his honour,</l>
@@ -696,7 +699,7 @@
 
                 <pb n="5" xml:id="RM_01_05.jpg" facs="data/images/single/RM_01_05.jpg"/>
 
-                <fw place="top=center" type="runninghead">The Royall Master. Act 1 Scene 1.</fw>
+                <fw place="top=center" type="head">The Royall Master. Act 1 Scene 1.</fw>
 
                 <sp>
                     <l n="131">The pleasures of a Forrest.</l>
@@ -825,7 +828,7 @@
 
                 <pb n="6" xml:id="RM_01_06.jpg" facs="data/images/single/RM_01_06.jpg"/>
 
-                <fw place="top=center" type="runninghead">The Royall Master. Act 1 Scene 1.</fw>
+                <fw place="top=center" type="head">The Royall Master. Act 1 Scene 1.</fw>
 
                 <sp>
                     <l n="169"> To take revenge upon that polititian, </l>
@@ -922,7 +925,7 @@
 
                 <pb n="7" xml:id="RM_01_07.jpg" facs="data/images/single/RM_01_07.jpg"/>
 
-                <fw type="running-head" place="top-center" rend="italic">The Royall Master. Act 1
+                <fw type="head" place="top-center">The Royall Master. Act 1
                     Scene 1.</fw>
 
                 <l n="207">With title of his bed-chamber.</l>
@@ -1029,7 +1032,7 @@
 
                 <pb n="8" xml:id="RM_01_08.jpg" facs="data/images/single/RM_01_08.jpg"/>
 
-                <fw type="runninghead" place="top-center" rend="italic">The Royall Master. Act 1
+                <fw type="head" place="top-center">The Royall Master. Act 1
                     Scene 1.</fw>
 
                 <sp>
@@ -1185,7 +1188,7 @@
 
                 <pb n="8" xml:id="RM_01_09.jpg" facs="data/images/single/RM_01_09.jpg"/>
 
-                <fw type="runninghead" place="top-center" rend="italic">The Royall Master. Act 1
+                <fw type="head" place="top-center">The Royall Master. Act 1
                     Scene 2.</fw>
 
                 <sp>
@@ -1336,7 +1339,7 @@
 
                 <pb n="10" xml:id="RM_01_10.jpg" facs="data/images/single/RM_01_10.jpg"/>
 
-                <fw type="runninghead" place="top-center" rend="italic">The Royall Master. Act 1
+                <fw type="head" place="top-center">The Royall Master. Act 1
                     Scene 2.</fw>
 
                 <l n="318">If you looke not to me I am gone.</l>
@@ -1430,7 +1433,7 @@
 
                 <pb n="11" xml:id="RM_01_11.jpg" facs="data/images/single/RM_01_11.jpg"/>
 
-                <fw type="runninghead" place="top-center" rend="italic">The Royall Master. Act 1
+                <fw type="head" place="top-center">The Royall Master. Act 1
                     Scene 2.</fw>
 
                 <sp>
@@ -1531,7 +1534,7 @@
 
                 <pb n="12" xml:id="RM_01_12.jpg" facs="data/images/single/RM_01_12.jpg"/>
 
-                <fw place="top-center" type="runninghead" rend="italic">The Royall Master. Act 1
+                <fw place="top-center" type="head">The Royall Master. Act 1
                     Scene 2.</fw>
 
                 <sp>
@@ -1633,7 +1636,7 @@
 
                 <pb n="13" xml:id="RM_01_13.jpg" facs="data/images/single/RM_01_13.jpg"/>
 
-                <fw type="runninghead" place="top-centre" rend="italic">The Royall Master. Act 1
+                <fw type="head" place="top-centre">The Royall Master. Act 1
                     Scene 2.</fw>
 
                 <sp>
@@ -1724,7 +1727,7 @@
 
                 <pb n="14" xml:id="RM_01_14.jpg" facs="data/images/single/RM_01_14.jpg"/>
 
-                <fw type="runninghead" place="top-centre" rend="italic">The Royall Master. Act 1
+                <fw type="head" place="top-centre">The Royall Master. Act 1
                     Scene 2.</fw>
 
                 <stage type="entrance" place="center" rend="italic">Enter <name full="yes"
@@ -1832,7 +1835,7 @@
 
                 <pb n="15" xml:id="RM_02_15.jpg" facs="data/images/single/RM_02_15.jpg"/>
 
-                <fw place="top-center" type="runninghead" rend="italic">The Royall Master. Act 1
+                <fw place="top-center" type="head">The Royall Master. Act 1
                     Scene 2.</fw>
 
                 <sp>
@@ -1927,7 +1930,7 @@
                 <fw type="catch" place="bottom-right">Some</fw>
                 <pb n="16" xml:id="RM_02_16.jpg" facs="data/images/single/RM_02_16.jpg"/>
 
-                <fw place="top-center" type="runninghead" rend="italic">The Royall Master. Act 2
+                <fw place="top-center" type="head">The Royall Master. Act 2
                     Scene 1.</fw>
                 <sp>
                     <l n="27">Some of the gods that are good fellowes dancing,</l>
@@ -2036,7 +2039,7 @@
                 <fw rend="italic" type="catch" place="bottom-right">Iacamo</fw>
                 <pb n="17" xml:id="RM_02_17.jpg" facs="data/images/single/RM_02_17.jpg"/>
 
-                <fw type="runninghead" place="top-center" rend="italic">The Royall Master. Act 2
+                <fw type="head" place="top-center">The Royall Master. Act 2
                     Scene 1.</fw>
                 <sp>
                     <speaker rend="italic">Iacamo</speaker>
@@ -2152,7 +2155,7 @@
                 </sp>
                 <fw type="catch" place="bottom-right" rend="italic">Bombo</fw>
                 <pb n="18" xml:id="RM_02_18.jpg" facs="data/images/single/RM_02_18.jpg"/>
-                <fw type="runninghead" place="top-center" rend="italic">The Royall Master. Act 2
+                <fw type="head" place="top-center">The Royall Master. Act 2
                     Scene 1.</fw>
                 <sp>
                     <speaker rend="italic">Bombo</speaker>
@@ -2261,7 +2264,7 @@
                 <stage type="exit" place="right" rend="italic">Exeunt Duke, Montalto.</stage>
                 <fw type="catch" place="bottom-right" rend="italic">King</fw>
                 <pb n="19" xml:id="RM_02_19.jpg" facs="data/images/single/RM_02_19.jpg"/>
-                <fw place="top-center" type="runninghead">The Royall Master. Act 2 Scene 1.</fw>
+                <fw place="top-center" type="head">The Royall Master. Act 2 Scene 1.</fw>
                 <sp>
                     <speaker rend="italic">King</speaker>
                     <l n="137">Wheres the Duke.</l>
@@ -2357,7 +2360,7 @@
                 </sp>
                 <fw place="bottom-right" type="catch" rend="italic">King</fw>
                 <pb n="20" xml:id="RM_02_20.jpg" facs="data/images/single/RM_02_20.jpg"/>
-                <fw place="top-center" type="runninghead">The Royall Master. Act 2 Scene 1.</fw>
+                <fw place="top-center" type="head">The Royall Master. Act 2 Scene 1.</fw>
                 <sp>
                     <speaker rend="italic">King</speaker>
                     <l n="175">Love with the warme affection of a mistresse</l>
@@ -2431,7 +2434,7 @@
                 <fw place="bottom-right" type="catch">Duty</fw>
 
                 <pb n="21" xml:id="RM_02_21.jpg" facs="data/images/single/RM_02_21.jpg"/>
-                <fw place="top-center" type="runninghead">The Royall Master. Act 2 Scene 1.</fw>
+                <fw place="top-center" type="head">The Royall Master. Act 2 Scene 1.</fw>
                 <sp>
                     <l n="213">Duty takes off the merit of my will</l>
                     <l n="214">And humble every thought beneath obedience.</l>
@@ -2523,7 +2526,7 @@
                 <fw place="bottom-right" type="catch">That</fw>
 
                 <pb n="22" xml:id="RM_02_22.jpg" facs="data/images/single/RM_02_22.jpg"/>
-                <fw place="top-center" type="runninghead">The Royall Master. Act 2 Scene 2.</fw>
+                <fw place="top-center" type="head">The Royall Master. Act 2 Scene 2.</fw>
                 <l n="250">That pleases not sometimes though the best art</l>
                 <l n="251">Present it, if our sense be indispos'd</l>
                 <l n="252">To patience and calme hearing.</l>
@@ -2585,7 +2588,7 @@
                 <fw place="bottom-right" type="catch">Carries</fw>
 
                 <pb n="23" xml:id="RM_02_23.jpg" facs="data/images/single/RM_02_23.jpg"/>
-                <fw place="top-center" type="runninghead">The Royall Master. Act 2 Scene 2.</fw>
+                <fw place="top-center" type="head">The Royall Master. Act 2 Scene 2.</fw>
                 <sp>
                     <l n="288">Carries both mystery and horror, pray</l>
                     <l n="289">My Lord convey your meaning to my knowledge.</l>
@@ -2661,7 +2664,7 @@
                 <fw place="bottom-right" type="catch">Ridiculous</fw>
 
                 <pb n="24" xml:id="RM_02_24.jpg" facs="data/images/single/RM_02_24.jpg"/>
-                <fw place="top=center" type="runninghead">The Royall Master. Act 2 Scene 2.</fw>
+                <fw place="top=center" type="head">The Royall Master. Act 2 Scene 2.</fw>
                 <sp>
                     <l n="326"> Ridiculous in <placeName rend="italic" instant="false" full="yes"
                             >Naples</placeName>. </l>
@@ -2741,7 +2744,7 @@
                 <fw type="catch" place="bottom-right">In</fw>
 
                 <pb n="25" xml:id="RM_02_25.jpg" facs="data/images/single/RM_02_25.jpg"/>
-                <fw place="top=center" type="runninghead">The Royall Master. Act 2 Scene 2.</fw>
+                <fw place="top=center" type="head">The Royall Master. Act 2 Scene 2.</fw>
                 <sp>
                     <l n="364"> In whose displeasure shee is lost and not </l>
                     <l n="365"> A will to mocke your grace, for whom there is </l>
@@ -2823,7 +2826,7 @@
                 <fw type="catch" place="bottom-right" rend="italic">Domitilla</fw>
 
                 <pb n="26" xml:id="RM_03_26.jpg" facs="data/images/single/RM_03_26.jpg"/>
-                <fw place="top=center" type="runninghead">The Royall Master. Act 2 Scene 2.</fw>
+                <fw place="top=center" type="head">The Royall Master. Act 2 Scene 2.</fw>
                 <sp>
                     <speaker rend="italic"> Domitilla </speaker>
                     <l n="400"> Ist not plaine.</l>
@@ -2906,7 +2909,7 @@
                 <fw type="catch" place="bottom-right" rend="italic">Duke</fw>
 
                 <pb n="27" xml:id="RM_03_27.jpg" facs="data/images/single/RM_03_27.jpg"/>
-                <fw place="top=center" type="runninghead">The Royall Master. Act 3 Scene 1.</fw>
+                <fw place="top=center" type="head">The Royall Master. Act 3 Scene 1.</fw>
                 <sp>
                     <speaker rend="italic">Duke</speaker>
                     <l n="27"> He knowes not, and I have bound my selfe in honour, </l>
@@ -2996,7 +2999,7 @@
 
                 <pb n="28" xml:id="RM_03_28.jpg" facs="data/images/single/RM_03_28.jpg"/>
 
-                <fw place="top=center" type="runninghead">The Royall Master. Act 3 Scene 1.</fw>
+                <fw place="top=center" type="head">The Royall Master. Act 3 Scene 1.</fw>
 
                 <sp>
                     <l n="63"> Shee is of inward counsell with the Duke, </l>
@@ -3081,7 +3084,7 @@
                 <fw type="catch" place="bottom-right">I</fw>
 
                 <pb n="29" xml:id="RM_03_29.jpg" facs="data/images/single/RM_03_29.jpg"/>
-                <fw place="top-center" type="runninghead">The Royall Master. Act 3 Scene 1.</fw>
+                <fw place="top-center" type="head">The Royall Master. Act 3 Scene 1.</fw>
                 <l n="101">I onely shall bleed inward, and my life</l>
                 <l n="102"> Remove it selfe like a faire apparition</l>
                 <l n="103"> That vanishes to th'eye, and with lesse noise</l>
@@ -3157,7 +3160,7 @@
                 <fw rend="italic" type="catch" place="bottom-right">Duke</fw>
 
                 <pb n="30" xml:id="RM_03_30.jpg" facs="data/images/single/RM_03_30.jpg"/>
-                <fw place="top-center" type="runninghead" rend="italic">The Royall Master. Act 3
+                <fw place="top-center" type="head">The Royall Master. Act 3
                     Scene 1.</fw>
 
                 <sp>
@@ -3257,7 +3260,7 @@
                 <fw type="catch" place="bottom-right" rend="italic">Riviero</fw>
 
                 <pb n="31" xml:id="RM_03_31.jpg" facs="data/images/single/RM_03_31.jpg"/>
-                <fw place="top-center" type="runninghead">The Royall Master. Act 3 Scene 1.</fw>
+                <fw place="top-center" type="head">The Royall Master. Act 3 Scene 1.</fw>
                 <sp>
                     <speaker rend="italic">Riviero</speaker>
                     <l n="175"> Thou hast but</l>
@@ -3336,7 +3339,7 @@
                 <fw type="catch" place="bottom-right">Were</fw>
 
                 <pb n="32" xml:id="RM_03_32.jpg" facs="data/images/single/RM_03_32.jpg"/>
-                <fw place="top-center" type="runninghead" rend="italic">The Royall Master. Act 3
+                <fw place="top-center" type="head">The Royall Master. Act 3
                     Scene 2.</fw>
 
                 <sp>
@@ -3454,7 +3457,7 @@
                 <fw type="catch" place="bottom-right">To</fw>
 
                 <pb n="33" xml:id="RM_03_33.jpg" facs="data/images/single/RM_03_33.jpg"/>
-                <fw place="top-center" type="runninghead">The Royall Master. Act 3 Scene 2.</fw>
+                <fw place="top-center" type="head">The Royall Master. Act 3 Scene 2.</fw>
                 <sp>
                     <l n="250">To tell your highnesse <placeName rend="italic" instant="false"
                             full="yes">Florence</placeName> has transplanted</l>
@@ -3532,7 +3535,7 @@
                 <fw type="catch" place="bottom-right">That</fw>
 
                 <pb n="34" xml:id="RM_03_34.jpg" facs="data/images/single/RM_03_34.jpg"/>
-                <fw place="top-center" type="runninghead">The Royall Master. Act 3 Scene 2.</fw>
+                <fw place="top-center" type="head">The Royall Master. Act 3 Scene 2.</fw>
 
                 <sp>
                     <l n="288">That Phantome <name rend="italic" full="yes" instant="false"
@@ -3670,7 +3673,7 @@
                 <fw place="bottom-right" type="catch" rend="italic">Domitilla</fw>
 
                 <pb n="35" xml:id="RM_03_35.jpg" facs="data/images/single/RM_03_35.jpg"/>
-                <fw place="top-center" type="runninghead">The Royall Master. Act 3 Scene 3.</fw>
+                <fw place="top-center" type="head">The Royall Master. Act 3 Scene 3.</fw>
                 <sp>
                     <speaker rend="italic">Domitilla</speaker>
                     <l n="324">You have eares that will betray what beast you are.</l>
@@ -3761,7 +3764,7 @@
                 <fw place="bottom-right" type="catch" rend="italic">Domitilla</fw>
 
                 <pb n="36" xml:id="RM_03_36.jpg" facs="data/images/single/RM_03_36.jpg"/>
-                <fw place="top-center" type="runninghead">The Royall Master. Act 3 Scene 3.</fw>
+                <fw place="top-center" type="head">The Royall Master. Act 3 Scene 3.</fw>
 
                 <sp>
                     <speaker rend="italic">Domitilla</speaker>
@@ -3855,7 +3858,7 @@
                     <fw place="bottom-right" type="catch">That</fw>
 
                     <pb n="37" xml:id="RM_03_37.jpg" facs="data/images/single/RM_03_37.jpg"/>
-                    <fw place="top-center" type="runninghead">The Royall Master. Act 3 Scene 3.</fw>
+                    <fw place="top-center" type="head">The Royall Master. Act 3 Scene 3.</fw>
                     <l n="400">That will be bought for money to walk the Court in,</l>
                     <l n="401">But take your course, and I were at home agen.</l>
                 </sp>
@@ -3943,7 +3946,7 @@
                     <fw place="bottom-right" type="catch">The</fw>
 
                     <pb n="38" xml:id="RM_03_38.jpg" facs="data/images/single/RM_03_38.jpg"/>
-                    <fw place="top-center" type="runninghead">The Royall Master. Act 3 Scene 3.</fw>
+                    <fw place="top-center" type="head">The Royall Master. Act 3 Scene 3.</fw>
 
                     <l n="437">The heart of Kings.</l>
 
@@ -4040,7 +4043,7 @@
                 <fw place="bottom-right" type="catch" rend="italic">Domitilla</fw>
 
                 <pb n="39" xml:id="RM_03_39.jpg" facs="data/images/single/RM_03_39.jpg"/>
-                <fw place="top=center" type="runninghead">The Royall Master. Act 3 Scene 3.</fw>
+                <fw place="top=center" type="head">The Royall Master. Act 3 Scene 3.</fw>
                 <sp>
                     <speaker rend="italic">Domitilla</speaker>
                     <l n="475">As a servant</l>
@@ -4157,7 +4160,7 @@
                 <fw type="catch" place="bottom-right">Young</fw>
 
                 <pb n="40" xml:id="RM_03_40.jpg" facs="data/images/single/RM_03_40.jpg"/>
-                <fw place="top=center" type="runninghead">The Royall Master. Act 3 Scene 3.</fw>
+                <fw place="top=center" type="head">The Royall Master. Act 3 Scene 3.</fw>
                 <l n="511">Young, we may choose each other Valentine</l>
                 <l n="512">And couple, as we grow more ripe hereafter.</l>
                 <sp>
@@ -4243,7 +4246,7 @@
                     <fw type="catch" place="bottom-right">Behave</fw>
 
                     <pb n="41" xml:id="RM_04_41.jpg" facs="data/images/single/RM_04_41.jpg"/>
-                    <fw place="top=center" type="runninghead">The Royall Master. Act 3 Scene 3.</fw>
+                    <fw place="top=center" type="head">The Royall Master. Act 3 Scene 3.</fw>
 
                     <l n="549">Behave my lookes<note type="Annotations1833"> i.e. fashion, manage
                             them. This sense of the word, though now obsolete, was sufficiently
@@ -4351,7 +4354,7 @@
                 <fw type="catch" place="bottom-right">Should</fw>
 
                 <pb n="42" xml:id="RM_04_42.jpg" facs="data/images/single/RM_04_42.jpg"/>
-                <fw place="top=center" type="runninghead">The Royall Master. Act 4 Scene 1.</fw>
+                <fw place="top=center" type="head">The Royall Master. Act 4 Scene 1.</fw>
 
                 <l n="3">Should live within my eyes, welcome once more to Court.</l>
 
@@ -4478,7 +4481,7 @@
                 <fw type="catch" place="bottom-right">More</fw>
 
                 <pb n="43" xml:id="RM_04_43.jpg" facs="data/images/single/RM_04_43.jpg"/>
-                <fw place="top=center" type="runninghead">The Royall Master. Act 4 Scene 1.</fw>
+                <fw place="top=center" type="head">The Royall Master. Act 4 Scene 1.</fw>
                 <l n="40">More for her honour, shee would mock no Prince,</l>
                 <l n="41">I am not lost to <placeName rend="italic" instant="false" full="yes"
                         >Florence</placeName> yet, though I</l>
@@ -4552,7 +4555,7 @@
                 <fw type="catch" place="bottom-right">Have</fw>
 
                 <pb n="44" xml:id="RM_04_44.jpg" facs="data/images/single/RM_04_44.jpg"/>
-                <fw type="runninghead" place="top-center" rend="italic">The Royall Master. Act 4
+                <fw type="head" place="top-center">The Royall Master. Act 4
                     Scene 1.</fw>
 
                 <l n="78">Have rais'd this muteny in your thoughts, I have</l>
@@ -4642,7 +4645,7 @@
                 <fw type="catch" place="bottom-right" rend="italic">King</fw>
 
                 <pb n="45" xml:id="RM_04_45.jpg" facs="data/images/single/RM_04_45.jpg"/>
-                <fw type="runninghead" place="top-center" rend="italic">The Royall Master. Act 4
+                <fw type="head" place="top-center">The Royall Master. Act 4
                     Scene 1.</fw>
                 <sp>
                     <speaker rend="italic">King</speaker>
@@ -4724,7 +4727,7 @@
                 <fw type="catch" place="bottom-right">Bleeds</fw>
 
                 <pb n="46" xml:id="RM_04_46.jpg" facs="data/images/single/RM_04_46.jpg"/>
-                <fw type="runninghead" place="top-center" rend="italic">The Royall Master. Act 4
+                <fw type="head" place="top-center">The Royall Master. Act 4
                     Scene 1.</fw>
 
                 <l n="153">Bleeds in my wounded honour? Art thou still</l>
@@ -4826,7 +4829,7 @@
                 <fw type="catch" place="bottom-right">Disclaime</fw>
 
                 <pb n="47" xml:id="RM_04_47.jpg" facs="data/images/single/RM_04_47.jpg"/>
-                <fw type="runninghead" place="top-center" rend="italic">The Royall Master. Act 4
+                <fw type="head" place="top-center">The Royall Master. Act 4
                     Scene 1.</fw>
                 <l n="190">Disclaime these hopes, and sweare never to love him.</l>
                 <sp>
@@ -4908,7 +4911,7 @@
                 <fw type="catch" place="bottom-right">The</fw>
 
                 <pb n="48" xml:id="RM_04_48.jpg" facs="data/images/single/RM_04_48.jpg"/>
-                <fw type="runninghead" place="top-center" rend="italic">The Royall Master. Act 4
+                <fw type="head" place="top-center">The Royall Master. Act 4
                     Scene 1.</fw>
 
                 <l n="227">The dew of heaven ere it approach the earth</l>
@@ -4987,7 +4990,7 @@
                 <fw type="catch" place="bottom-right">To</fw>
 
                 <pb n="49" xml:id="RM_04_49.jpg" facs="data/images/single/RM_04_49.jpg"/>
-                <fw type="runninghead" place="top-center" rend="italic">The Royall Master. Act 4
+                <fw type="head" place="top-center">The Royall Master. Act 4
                     Scene 1.</fw>
                 <l n="264">To let loose these suspitions to the descant<note type="Etymological">
                         Varied comment (on a theme); amplification of a point made in discussion; a
@@ -5076,7 +5079,7 @@
                 <fw type="catch" place="bottom-right">Desire</fw>
 
                 <pb n="50" xml:id="RM_04_50.jpg" facs="data/images/single/RM_04_50.jpg"/>
-                <fw type="runninghead" place="top-center" rend="italic">The Royall Master. Act 4
+                <fw type="head" place="top-center">The Royall Master. Act 4
                     Scene 1.</fw>
 
                 <l n="301">Desire accesse to the <name rend="italic" full="yes" instant="false"
@@ -5202,7 +5205,7 @@
                 <fw type="catch" place="bottom-right" rend="italic">Riviero</fw>
 
                 <pb n="51" xml:id="RM_04_51.jpg" facs="data/images/single/RM_04_51.jpg"/>
-                <fw type="runninghead" place="top-center" rend="italic">The Royall Master. Act 4
+                <fw type="head" place="top-center">The Royall Master. Act 4
                     Scene 1.</fw>
                 <sp>
                     <speaker rend="italic">Riviero</speaker>
@@ -5311,7 +5314,7 @@
                 <fw type="catch" place="bottom-right" rend="italic">Alexio</fw>
 
                 <pb n="52" xml:id="RM_04_52.jpg" facs="data/images/single/RM_04_52.jpg"/>
-                <fw type="runninghead" place="top-center" rend="italic">The Royall Master. Act 4
+                <fw type="head" place="top-center">The Royall Master. Act 4
                     Scene 1.</fw>
 
                 <sp>
@@ -5438,7 +5441,7 @@
                 <fw type="catch" place="bottom-right">Becomes</fw>
 
                 <pb n="53" xml:id="RM_04_53.jpg" facs="data/images/single/RM_04_53.jpg"/>
-                <fw type="runninghead" place="top-center" rend="italic">The Royall Master. Act 4
+                <fw type="head" place="top-center">The Royall Master. Act 4
                     Scene 1.</fw>
                 <l n="411">Becomes you now, does it not my Lord.</l>
                 <sp>
@@ -5565,7 +5568,7 @@
                 <fw type="catch" place="bottom-right" rend="italic">Bombo</fw>
 
                 <pb n="54" xml:id="RM_04_54.jpg" facs="data/images/single/RM_04_54.jpg"/>
-                <fw type="runninghead" place="top-center" rend="italic">The Royall Master. Act 4
+                <fw type="head" place="top-center">The Royall Master. Act 4
                     Scene 1.</fw>
 
                 <sp>
@@ -5703,7 +5706,7 @@
                     <fw type="catch" place="bottom-right">Yet</fw>
 
                     <pb n="55" xml:id="RM_04_55.jpg" facs="data/images/single/RM_04_55.jpg"/>
-                    <fw place="top-center" type="runninghead">The Royall Master. Act 4 Scene 1.</fw>
+                    <fw place="top-center" type="head">The Royall Master. Act 4 Scene 1.</fw>
                     <l n="485">Yet were I certaine shee were spotted thus,</l>
                     <l n="486">As tis but a young Leprosie upon her,</l>
                     <l n="487">I could with heartily my Sister timely</l>
@@ -5778,7 +5781,7 @@
                     <fw place="bottom-right" type="catch">Is</fw>
 
                     <pb n="56" xml:id="RM_04_56.jpg" facs="data/images/single/RM_04_56.jpg"/>
-                    <fw place="top-center" type="runninghead">The Royall Master. Act 4 Scene 1.</fw>
+                    <fw place="top-center" type="head">The Royall Master. Act 4 Scene 1.</fw>
 
                     <l n="523">Is nothing in thy power to make thee finde</l>
                     <l n="524">My gratitude? How barren are we, wealth,</l>
@@ -5860,7 +5863,7 @@
                 <fw place="bottom-right" type="catch" rend="italic">King</fw>
 
                 <pb n="57" xml:id="RM_04_57.jpg" facs="data/images/single/RM_04_57.jpg"/>
-                <fw place="top-center" type="runninghead">The Royall Master. Act 4 Scene 1.</fw>
+                <fw place="top-center" type="head">The Royall Master. Act 4 Scene 1.</fw>
                 <sp>
                     <speaker rend="italic">King</speaker>
                     <l n="561">Tis true, and therefore</l>
@@ -5930,7 +5933,7 @@
                 <fw place="bottom-right" type="catch" rend="italic">Montalto</fw>
 
                 <pb n="58" xml:id="RM_05_58.jpg" facs="data/images/single/RM_05_58.jpg"/>
-                <fw place="top-center" type="runninghead">The Royall Master. Act 4 Scene 1.</fw>
+                <fw place="top-center" type="head">The Royall Master. Act 4 Scene 1.</fw>
 
                 <sp>
                     <speaker rend="italic">Montalto</speaker>
@@ -6026,7 +6029,7 @@
                 <fw place="bottom-right" type="catch" rend="italic">Simphorosa</fw>
 
                 <pb n="59" xml:id="RM_05_59.jpg" facs="data/images/single/RM_05_59.jpg"/>
-                <fw place="top-center" type="runninghead">The Royall Master. Act 5 Scene 1.</fw>
+                <fw place="top-center" type="head">The Royall Master. Act 5 Scene 1.</fw>
                 <sp>
                     <speaker rend="italic">Simphorosa</speaker>
                     <l n="3">This I fear'd,</l>
@@ -6119,7 +6122,7 @@
                 <fw place="bottom-right" type="catch">Deare</fw>
 
                 <pb n="60" xml:id="RM_05_60.jpg" facs="data/images/single/RM_05_60.jpg"/>
-                <fw place="top-center" type="runninghead">The Royall Master. Act 5 Scene 1.</fw>
+                <fw place="top-center" type="head">The Royall Master. Act 5 Scene 1.</fw>
 
                 <l n="40">Deare Madam pardon me, and teach me how</l>
                 <l n="41">To make my time more happy, spent in something</l>
@@ -6229,7 +6232,7 @@
                     <fw place="bottom-right" type="catch">My</fw>
 
                     <pb n="61" xml:id="RM_05_61.jpg" facs="data/images/single/RM_05_61.jpg"/>
-                    <fw place="top=center" type="runninghead">The Royall Master. Act 5 Scene 1.</fw>
+                    <fw place="top=center" type="head">The Royall Master. Act 5 Scene 1.</fw>
                     <l n="76">My heart Madam.</l>
                 </sp>
                 <sp>
@@ -6323,7 +6326,7 @@
                 <fw type="catch" place="bottom-right" rend="italic">Domitilla</fw>
 
                 <pb n="62" xml:id="RM_05_62.jpg" facs="data/images/single/RM_05_62.jpg"/>
-                <fw place="top=center" type="runninghead">The Royall Master. Act 5 Scene 1.</fw>
+                <fw place="top=center" type="head">The Royall Master. Act 5 Scene 1.</fw>
 
                 <sp>
                     <speaker rend="italic">Domitilla</speaker>
@@ -6408,7 +6411,7 @@
                 <fw type="catch" place="bottom-right">I</fw>
 
                 <pb n="63" xml:id="RM_05_63.jpg" facs="data/images/single/RM_05_63.jpg"/>
-                <fw place="top=center" type="runninghead">The Royall Master. Act 5 Scene 1.</fw>
+                <fw place="top=center" type="head">The Royall Master. Act 5 Scene 1.</fw>
                 <l n="151">I can repent and be reveng'd</l>
                 <sp>
                     <speaker rend="italic">Theodosia</speaker>
@@ -6487,7 +6490,7 @@
                 <fw type="catch" place="bottom-right">When</fw>
 
                 <pb n="64" xml:id="RM_05_64.jpg" facs="data/images/single/RM_05_64.jpg"/>
-                <fw place="top=center" type="runninghead">The Royall Master. Act 5 Scene 2.</fw>
+                <fw place="top=center" type="head">The Royall Master. Act 5 Scene 2.</fw>
 
                 <l n="187">When it was in his strength and state revil'd it,</l>
                 <l n="188">Whom poverty of soule, and envy sends</l>
@@ -6589,7 +6592,7 @@
                 <fw type="catch" place="bottom-right">But</fw>
 
                 <pb n="65" xml:id="RM_05_65.jpg" facs="data/images/single/RM_05_65.jpg"/>
-                <fw place="top=center" type="runninghead">The Royall Master. Act 5 Scene 2.</fw>
+                <fw place="top=center" type="head">The Royall Master. Act 5 Scene 2.</fw>
                 <l n="224">But thought a sinne on the right hand, we are</l>
                 <l n="225">Resolv'd.</l>
                 <stage place="center" type="entrance" rend="italic">Enter Simphorosa.</stage>
@@ -6668,7 +6671,7 @@
                 <fw type="catch" place="bottom-right">At</fw>
 
                 <pb n="66" xml:id="RM_05_66.jpg" facs="data/images/single/RM_05_66.jpg"/>
-                <fw place="top=center" type="runninghead">The Royall Master. Act 5 Scene 2.</fw>
+                <fw place="top=center" type="head">The Royall Master. Act 5 Scene 2.</fw>
 
                 <l n="262">At an immodest offer, and be frighted</l>
                 <l n="263">To heare it nam'd, tell me, does shee pray</l>
@@ -6784,7 +6787,7 @@
                 <fw type="catch" place="bottom-right" rend="italic">Riviero</fw>
 
                 <pb n="67" xml:id="RM_05_67.jpg" facs="data/images/single/RM_05_67.jpg"/>
-                <fw place="top-center" type="runninghead" rend="italic">The Royall Master. Act 5
+                <fw place="top-center" type="head">The Royall Master. Act 5
                     Scene 2.</fw>
 
                 <sp>
@@ -6879,7 +6882,7 @@
                 <fw type="catch" place="bottom-right" rend="italic">Guido</fw>
                 <pb n="68" xml:id="RM_05_68.jpg" facs="data/images/single/RM_05_68.jpg"/>
 
-                <fw place="top-center" type="runninghead">The Royall Master. Act 5 Scene 2.</fw>
+                <fw place="top-center" type="head">The Royall Master. Act 5 Scene 2.</fw>
 
                 <sp>
                     <speaker rend="italic">Guido</speaker>
@@ -7007,7 +7010,7 @@
                 <fw type="catch" place="bottom-right" rend="italic">King</fw>
 
                 <pb n="69" xml:id="RM_05_69.jpg" facs="data/images/single/RM_05_69.jpg"/>
-                <fw place="top-center" type="runninghead">The Royall Master. Act 5 Scene 2.</fw>
+                <fw place="top-center" type="head">The Royall Master. Act 5 Scene 2.</fw>
 
                 <sp>
                     <speaker rend="italic">King</speaker>
@@ -7112,7 +7115,7 @@
                     <fw type="catch" place="bottom-right">Be</fw>
 
                     <pb n="70" xml:id="RM_05_70.jpg" facs="data/images/single/RM_05_70.jpg"/>
-                    <fw place="top-center" type="runninghead">The Royall Master. Act 5 Scene 2.</fw>
+                    <fw place="top-center" type="head">The Royall Master. Act 5 Scene 2.</fw>
 
                     <l n="407">Be impious, how was my opinion cozen'd</l>
                     <l n="408">Sinne hath deform'd his very shape, his voyce</l>
@@ -7206,7 +7209,7 @@
                 <fw type="catch" place="bottom-right" rend="italic">King</fw>
 
                 <pb n="71" xml:id="RM_05_71.jpg" facs="data/images/single/RM_05_71.jpg"/>
-                <fw place="top-center" type="runninghead">The Royall Master. Act 5 Scene 2.</fw>
+                <fw place="top-center" type="head">The Royall Master. Act 5 Scene 2.</fw>
 
                 <sp>
                     <speaker rend="italic">King</speaker>
@@ -7312,7 +7315,7 @@
                 <fw type="catch" place="bottom-right" rend="italic">Riviero</fw>
 
                 <pb n="72" xml:id="RM_05_72.jpg" facs="data/images/single/RM_05_72.jpg"/>
-                <fw place="top-center" type="runninghead">The Royall Master. Act 5 Scene 2.</fw>
+                <fw place="top-center" type="head">The Royall Master. Act 5 Scene 2.</fw>
 
                 <sp>
                     <speaker rend="italic">Riviero</speaker>
@@ -7380,8 +7383,8 @@
                 <fw type="catch" place="bottom-right">May</fw>
                 <pb n="74" xml:id="RM_00_74.jpg" facs="data/images/single/RM_00_74.jpg"/>
 
-                <fw place="top-center" type="runninghead" rend="italic">The Royall Master.</fw>
-                <fw place="top-center" type="runninghead">The Epilogue.</fw>
+                <fw place="top-center" type="head">The Royall Master.</fw>
+                <fw place="top-center" type="head">The Epilogue.</fw>
 
                 <l n="20"> May She, whom heaven hath sweetly grac'd</l>
                 <l n="21">And in your noble bosome plac'd,</l>
